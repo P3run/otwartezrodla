@@ -1,0 +1,1238 @@
+{
+  "children": [
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Lista Domen Usuniętych - dns.pl",
+              "type": "url",
+              "url": "https://www.dns.pl/lista_domen_usunietych"
+            },
+            {
+              "name": "Rejestr Domen Służących do Oferowania Gier Hazardowych Niezgodnie z Ustawą",
+              "type": "url",
+              "url": "https://hazard.mf.gov.pl/"
+            },
+            {
+              "name": "Rejestr Domen Zakazanych",
+              "type": "url",
+              "url": "https://www.rejestrdomenzakazanych.pl/"
+            }
+          ],
+          "name": "Listy / Rejestry",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "KGH.pl (M)",
+              "type": "url",
+              "url": "http://kgh.pl/<identyfikator>+"
+            },
+            {
+              "name": "ujeb.se (M)",
+              "type": "url",
+              "url": "https://ujeb.se/<identyfikator>+"
+            }
+          ],
+          "name": "Skracacze",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Krajowy Rejestr Domen - dns.pl",
+              "type": "url",
+              "url": "https://www.dns.pl/whois"
+            }
+          ],
+          "name": "WHOIS",
+          "type": "folder"
+        }
+      ],
+      "name": "Domeny",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Mapster",
+              "type": "url",
+              "url": "http://igrek.amzp.pl/"
+            },
+            {
+              "name": "Archiwum Map Zachodniej Polski",
+              "type": "url",
+              "url": "http://mapy.amzp.pl/"
+            },
+            {
+              "name": "HGIS",
+              "type": "url",
+              "url": "http://hgis.cartomatic.pl/"
+            },
+            {
+              "name": "Archiwum Map Wojskowego Instytutu Geograficznego",
+              "type": "url",
+              "url": "http://polski.mapywig.org/"
+            },
+            {
+              "name": "retromapy.pl",
+              "type": "url",
+              "url": "https://retromapy.pl/"
+            }
+          ],
+          "name": "Historyczne",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Białystok",
+              "type": "url",
+              "url": "https://gisbialystok.pl/"
+            },
+            {
+              "name": "Gdańsk",
+              "type": "url",
+              "url": "http://www.gis.gdansk.pl/"
+            },
+            {
+              "name": "Kielce",
+              "type": "url",
+              "url": "https://gis.kielce.eu/"
+            },
+            {
+              "name": "Kraków",
+              "type": "url",
+              "url": "https://msip.krakow.pl/"
+            },
+            {
+              "name": "Lublin",
+              "type": "url",
+              "url": "https://geoportal.lublin.eu/"
+            },
+            {
+              "name": "Poznań",
+              "type": "url",
+              "url": "http://sip.geopoz.pl/sip/"
+            },
+            {
+              "name": "Szczecin",
+              "type": "url",
+              "url": "http://geoportal.szczecin.pl/"
+            },
+            {
+              "name": "Warszawa",
+              "type": "url",
+              "url": "http://mapa.um.warszawa.pl/"
+            },
+            {
+              "name": "Wrocław",
+              "type": "url",
+              "url": "https://geoportal.wroclaw.pl/"
+            }
+          ],
+          "name": "Miejskie Systemy Informacji Przestrzennej",
+          "type": "folder"
+        },
+        {
+          "name": "Ukośne",
+          "type": "url",
+          "url": "https://www.ukosne.pl/"
+        },
+        {
+          "name": "Targeo",
+          "type": "url",
+          "url": "https://mapa.targeo.pl/"
+        },
+        {
+          "name": "Usługa lokalizacji adresów",
+          "type": "url",
+          "url": "http://ula.punktyadresowe.pl/"
+        },
+        {
+          "name": "Dane adresowe gmin",
+          "type": "url",
+          "url": "http://integracja.gugik.gov.pl/daneadresowe/"
+        },
+        {
+          "name": "Geoportal",
+          "type": "url",
+          "url": "https://mapy.geoportal.gov.pl"
+        },
+        {
+          "name": "Geoportal Otwartych Danych Przestrzennych",
+          "type": "url",
+          "url": "http://polska.e-mapa.net/"
+        },
+        {
+          "name": "Usługa lokalizacji działek katastralnych",
+          "type": "url",
+          "url": "http://uldk.dzialkikatastralne.pl/"
+        },
+        {
+          "name": "Krajowa Mapa Zagrożeń Bezpieczeństwa",
+          "type": "url",
+          "url": "https://mapy.geoportal.gov.pl/iMapLite/KMZBPublic.html"
+        },
+        {
+          "name": "Policyjna mapa zagrożeń przestępstwami na tle seksualnym",
+          "type": "url",
+          "url": "https://policja.maps.arcgis.com/apps/MapJournal/index.html?appid=338ca7cf5e5043778c76b14f696c8eab"
+        },
+        {
+          "name": "Bank Danych o Lasach",
+          "type": "url",
+          "url": "https://www.bdl.lasy.gov.pl/portal/mapy"
+        },
+        {
+          "name": "Serwis Map Meteorologicznych IMGW",
+          "type": "url",
+          "url": "https://meteo.imgw.pl/dyn/"
+        },
+        {
+          "name": "Morskie Mapy Nawigacyjne - Biuro Hydrograficzne Marynarki Wojennej",
+          "type": "url",
+          "url": "https://bhmw.gov.pl/pl/pages/morskie-mapy-nawigacyjne-2018-09-20-v/"
+        },
+        {
+          "name": "Urząd Lotnictwa Cywilnego - Mapy online",
+          "type": "url",
+          "url": "https://www.ulc.gov.pl/pl/zegluga-powietrzna/mapy-on-line"
+        },
+        {
+          "name": "Mapa nadajników radiowych",
+          "type": "url",
+          "url": "https://nadajniki.socware.pl/"
+        },
+        {
+          "name": "Mapa Turystyczna",
+          "type": "url",
+          "url": "https://mapa-turystyczna.pl/"
+        }
+      ],
+      "name": "Mapy / Usługi Lokalizacyjne",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "POL-on: Wykaz doktorów",
+              "type": "url",
+              "url": "https://polon.nauka.gov.pl/opi/aa/drh/zestawienie?execution=e5s1"
+            },
+            {
+              "name": "POL-on: Wykaz profesorów",
+              "type": "url",
+              "url": "https://polon.nauka.gov.pl/opi/aa/prof/zestawienie?execution=e6s1"
+            }
+          ],
+          "name": "Naukowcy",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Otwarte Dane - Nazwiska występujące w rejestrze PESEL",
+              "type": "url",
+              "url": "https://dane.gov.pl/pl/dataset/568,nazwiska-wystepujace-w-rejestrze-pesel"
+            },
+            {
+              "name": "nazwiska-polskie.pl",
+              "type": "url",
+              "url": "https://nazwiska-polskie.pl/"
+            },
+            {
+              "name": "Rozkład występowania nazwisk w powiatach",
+              "type": "url",
+              "url": "http://nlp.actaforte.pl:8080/Nomina/Ndistr"
+            }
+          ],
+          "name": "Nazwiska",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Gdańsk",
+                  "type": "url",
+                  "url": "https://cmentarze-gdanskie.pl/chapter_77037.asp"
+                },
+                {
+                  "name": "Kielce",
+                  "type": "url",
+                  "url": "http://cmentarzekieleckie.zielen.kielce.pl/szukaj.html"
+                },
+                {
+                  "name": "Kraków",
+                  "type": "url",
+                  "url": "https://zck-krakow.pl/locator"
+                },
+                {
+                  "name": "Łódź",
+                  "type": "url",
+                  "url": "http://cmentarzekomunalne.lodz.systkom.pl/szukaj.html"
+                },
+                {
+                  "name": "Olsztyn",
+                  "type": "url",
+                  "url": "https://msipmo.olsztyn.eu/zck/start.html?gui=new"
+                },
+                {
+                  "name": "Poznań",
+                  "type": "url",
+                  "url": "https://www.poznan.pl/mim/necropolis/"
+                },
+                {
+                  "name": "Szczecin",
+                  "type": "url",
+                  "url": "http://cmentarze.szczecin.pl/chapter_11975.asp"
+                },
+                {
+                  "name": "Warszawa",
+                  "type": "url",
+                  "url": "http://www.cmentarzekomunalne.com.pl/mapa/szukaj.php"
+                },
+                {
+                  "name": "Wrocław",
+                  "type": "url",
+                  "url": "https://groby.cui.wroclaw.pl/"
+                },
+                {
+                  "name": "Zielona Góra",
+                  "type": "url",
+                  "url": "http://www.mzp.pl/wyszukiwarka-grobow/szukaj"
+                }
+              ],
+              "name": "Miejscowości",
+              "type": "folder"
+            },
+            {
+              "name": "Grobonet",
+              "type": "url",
+              "url": "https://grobonet.com/"
+            },
+            {
+              "name": "KsiegaZmarlych24.pl",
+              "type": "url",
+              "url": "http://ksiegazmarlych24.pl/"
+            },
+            {
+              "name": "Web Cmentarz",
+              "type": "url",
+              "url": "https://webcmentarz.pl/"
+            },
+            {
+              "name": "Mogiły.pl",
+              "type": "url",
+              "url": "http://mogily.pl/start"
+            }
+          ],
+          "name": "Zmarli",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "GENPOL (R)",
+              "type": "url",
+              "url": "https://www.genpol.com/module-GenBaza.html"
+            },
+            {
+              "name": "Jewish Record Indexing - Poland",
+              "type": "url",
+              "url": "https://jri-poland.org/jriplweb.htm"
+            },
+            {
+              "name": "Polish Genealogical Society of America (R)",
+              "type": "url",
+              "url": "https://pgsa.org/"
+            },
+            {
+              "name": "Polish Roots",
+              "type": "url",
+              "url": "http://www.polishroots.com/Research/Surnames"
+            },
+            {
+              "name": "Ornatowski.com",
+              "type": "url",
+              "url": "https://ornatowski.com/"
+            },
+            {
+              "name": "Serwis Polskiego Towarzystwa Genealogicznego",
+              "type": "url",
+              "url": "https://genealodzy.pl/"
+            }
+          ],
+          "name": "Genealogia",
+          "type": "folder"
+        },
+        {
+          "name": "Policja - Baza Poszukiwanych",
+          "type": "url",
+          "url": "https://poszukiwani.policja.pl/"
+        },
+        {
+          "name": "Policja - Baza Zaginionych",
+          "type": "url",
+          "url": "https://zaginieni.policja.pl/"
+        },
+        {
+          "name": "Rejestr Sprawców Przestępstw na Tle Seksualnym (R)",
+          "type": "url",
+          "url": "https://rps.ms.gov.pl/pl-PL/Public#/"
+        },
+        {
+          "name": "Biuletyn Informacji Publicznej IPN",
+          "type": "url",
+          "url": "https://katalog.bip.ipn.gov.pl/szukaj/"
+        },
+        {
+          "name": "Indeks Represjonowanych - IPN",
+          "type": "url",
+          "url": "https://indeksrepresjonowanych.pl/int/wyszukiwanie/94,Wyszukiwanie.html"
+        },
+        {
+          "name": "Centralny Rejestr Beneficjentów Rzeczywistych",
+          "type": "url",
+          "url": "https://crbr.podatki.gov.pl/adcrbr/#/wyszukaj"
+        }
+      ],
+      "name": "Osoby",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Fotka (M)",
+          "type": "url",
+          "url": "https://fotka.com/profil/nazwa_użytkownika"
+        },
+        {
+          "name": "Fotosik.pl (M)",
+          "type": "url",
+          "url": "https://www.fotosik.pl/u/nazwa_użytkownika"
+        },
+        {
+          "name": "Maxmodels (M)",
+          "type": "url",
+          "url": "https://nazwa_użytkownika.maxmodels.pl/"
+        },
+        {
+          "name": "Sympatia (R)(M)",
+          "type": "url",
+          "url": "https://sympatia.onet.pl/nazwa_użytkownika,user.html"
+        },
+        {
+          "name": "PhotoBlog (M)",
+          "type": "url",
+          "url": "https://www.photoblog.pl/nazwa_użytkownika"
+        },
+        {
+          "name": "QUEER (M)",
+          "type": "url",
+          "url": "https://queer.pl/user/nazwa_użytkownika"
+        }
+      ],
+      "name": "Użytkownicy / Loginy",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Fotka (R)",
+          "type": "url",
+          "url": "https://fotka.com/"
+        },
+        {
+          "name": "Goldenline (R)",
+          "type": "url",
+          "url": "https://www.goldenline.pl/"
+        },
+        {
+          "name": "Maxmodels",
+          "type": "url",
+          "url": "https://www.maxmodels.pl/"
+        },
+        {
+          "name": "NK (R)",
+          "type": "url",
+          "url": "https://nk.pl/"
+        },
+        {
+          "name": "PhotoBlog",
+          "type": "url",
+          "url": "https://www.photoblog.pl/"
+        },
+        {
+          "name": "QUEER",
+          "type": "url",
+          "url": "https://queer.pl/users"
+        }
+      ],
+      "name": "Serwisy Społecznościowe",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Sympatia (R)",
+          "type": "url",
+          "url": "https://sympatia.onet.pl/"
+        },
+        {
+          "name": "eDarling (R)",
+          "type": "url",
+          "url": "https://www.edarling.pl/"
+        },
+        {
+          "name": "ZaadoptujFaceta (R)",
+          "type": "url",
+          "url": "https://www.zaadoptujfaceta.pl/"
+        }
+      ],
+      "name": "Serwisy Randkowe",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Absolvent",
+              "type": "url",
+              "url": "https://www.absolvent.pl/opinie-o-pracodawcach#/"
+            },
+            {
+              "name": "GoWork",
+              "type": "url",
+              "url": "https://www.gowork.pl/opinie"
+            },
+            {
+              "name": "Opracodawcach.pl",
+              "type": "url",
+              "url": "http://www.opracodawcach.pl/"
+            }
+          ],
+          "name": "Opinie",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "bazar długów",
+                  "type": "url",
+                  "url": "https://www.bazar-dlugow.pl/"
+                },
+                {
+                  "name": "dlugi.info",
+                  "type": "url",
+                  "url": "https://www.dlugi.info/"
+                },
+                {
+                  "name": "Giełda-Długów.net",
+                  "type": "url",
+                  "url": "https://gielda-dlugow.net/"
+                },
+                {
+                  "name": "Lista Długów",
+                  "type": "url",
+                  "url": "https://www.lista-dlugow.pl/"
+                },
+                {
+                  "name": "VERIF.PL",
+                  "type": "url",
+                  "url": "https://verif.pl/gielda"
+                },
+                {
+                  "name": "VINDICAT",
+                  "type": "url",
+                  "url": "https://vindicat.pl/gielda-dlugow/"
+                },
+                {
+                  "name": "Vindix S.A.",
+                  "type": "url",
+                  "url": "https://www.vindix.pl/gielda-dlugow"
+                }
+              ],
+              "name": "Giełdy Długów",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "name": "eGospodarka.pl",
+                  "type": "url",
+                  "url": "https://www.przetargi.egospodarka.pl/"
+                },
+                {
+                  "name": "Internetowe Publikowanie Zamówień Publicznych",
+                  "type": "url",
+                  "url": "http://przetargi.ipzp.pl/"
+                },
+                {
+                  "name": "portalzp.pl",
+                  "type": "url",
+                  "url": "https://www.portalzp.pl/przetargi"
+                },
+                {
+                  "name": "PressInfo",
+                  "type": "url",
+                  "url": "https://www.pressinfo.pl/"
+                },
+                {
+                  "name": "Przetargi.pl",
+                  "type": "url",
+                  "url": "https://przetargi.pl/"
+                }
+              ],
+              "name": "Przetargi",
+              "type": "folder"
+            },
+            {
+              "name": "Baza Internetowa Regon",
+              "type": "url",
+              "url": "https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx"
+            },
+            {
+              "name": "CEIDG",
+              "type": "url",
+              "url": "https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx"
+            },
+            {
+              "name": "eKRS",
+              "type": "url",
+              "url": "https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/index.html"
+            },
+            {
+              "name": "Krajowy Rejestr Elektroniczny Przedsiębiorców Transportu Drogowego",
+              "type": "url",
+              "url": "https://kreptd.gitd.gov.pl/"
+            },
+            {
+              "name": "Mapa Dotacji UE",
+              "type": "url",
+              "url": "https://mapadotacji.gov.pl/"
+            },
+            {
+              "name": "Przeglądarka dokumentów finansowych KRS",
+              "type": "url",
+              "url": "https://ekrs.ms.gov.pl/rdf/pd/search_df"
+            },
+            {
+              "name": "Prześwietl.pl",
+              "type": "url",
+              "url": "https://przeswietl.pl/"
+            },
+            {
+              "name": "Rejestr.io",
+              "type": "url",
+              "url": "https://rejestr.io/"
+            },
+            {
+              "name": "System Udostępniania Danych o Pomocy Publicznej",
+              "type": "url",
+              "url": "https://sudop.uokik.gov.pl/home"
+            },
+            {
+              "name": "Wykaz Podatników VAT",
+              "type": "url",
+              "url": "https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka/"
+            }
+          ],
+          "name": "Rejestry",
+          "type": "folder"
+        }
+      ],
+      "name": "Firmy / Organizacje",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Archiwum Allegro",
+                  "type": "url",
+                  "url": "https://archiwum.allegro.pl/"
+                },
+                {
+                  "name": "TradeWatch (R)",
+                  "type": "url",
+                  "url": "https://tradewatch.pl/"
+                }
+              ],
+              "name": "Allegro",
+              "type": "folder"
+            }
+
+          ],
+          "name": "Handel",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "GPW",
+              "type": "url",
+              "url": "https://www.gpw.pl/"
+            },
+            {
+              "name": "Stooq",
+              "type": "url",
+              "url": "https://stooq.pl/"
+            }
+          ],
+          "name": "Giełda",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "energy.instrat.pl",
+              "type": "url",
+              "url": "http://energy.instrat.pl/"
+            }
+          ],
+          "name": "Przemysł",
+          "type": "folder"
+        }
+      ],
+      "name": "Biznes / Gospodarka",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Inwentarz archiwalny IPN",
+          "type": "url",
+          "url": "https://inwentarz.ipn.gov.pl"
+        },
+        {
+          "name": "Narodowe Archiwum Cyfrowe",
+          "type": "url",
+          "url": "https://audiovis.nac.gov.pl/"
+        },
+        {
+          "name": "szukajwarchiwach.pl",
+          "type": "url",
+          "url": "https://www.szukajwarchiwach.pl/"
+        },
+        {
+          "name": "szukajwarchiwach.gov.pl",
+          "type": "url",
+          "url": "https://www.szukajwarchiwach.gov.pl/"
+        },
+        {
+          "name": "Wojskowe Biuro Historyczne",
+          "type": "url",
+          "url": "https://wbh.wp.mil.pl/pl/"
+        }
+      ],
+      "name": "Archiwa",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Słownik Kaszubski",
+              "type": "url",
+              "url": "http://www.cassubia-dictionary.com/"
+            },
+            {
+              "name": "Słownik Śląski",
+              "type": "url",
+              "url": "http://www.slownikslaski.pl/polskoslaski.html"
+            }
+          ],
+          "name": "Języki / Gwara",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "miejski.pl",
+              "type": "url",
+              "url": "https://www.miejski.pl/"
+            },
+            {
+              "name": "slangu.pl",
+              "type": "url",
+              "url": "https://www.slangu.pl/"
+            }
+          ],
+          "name": "Slang",
+          "type": "folder"
+        }
+      ],
+      "name": "Tłumaczenia",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Biuletyn Zamówień Publicznych",
+          "type": "url",
+          "url": "https://searchbzp.uzp.gov.pl/"
+        },
+        {
+          "name": "Elektroniczne Księgi Wieczyste",
+          "type": "url",
+          "url": "https://ekw.ms.gov.pl/eukw_ogol/menu.do"
+        },
+        {
+          "name": "Lista Komorników Sądowych",
+          "type": "url",
+          "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-komornikow-sadowych/"
+        },
+        {
+          "name": "Lista Osób Posiadających Licencję Doradcy Restrukturazycjnego",
+          "type": "url",
+          "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-osob-posiadajacych-licencje-doradcy-restrukturyzacyjnego/"
+        },
+        {
+          "name": "Lista Tłumaczy Przysięgłych",
+          "type": "url",
+          "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html"
+        },
+        {
+          "name": "Ogólnopolska Lista Biegłych Sądowych i Tłumaczy Przysięgłych",
+          "type": "url",
+          "url": "https://listabieglych.pl/"
+        },
+        {
+          "name": "Otwarte Dane",
+          "type": "url",
+          "url": "https://dane.gov.pl/pl"
+        },
+        {
+          "name": "Obywatelskie Fedrowanie Danych",
+          "type": "url",
+          "url": "https://fedrowanie.siecobywatelska.pl/"
+        },
+        {
+          "name": "Rejestr przedsiębiorców wykonujących działalność regulowaną w zakresie usług detektywistycznych",
+          "type": "url",
+          "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych3"
+        },
+        {
+          "name": "Urząd Patentowy Rzeczypospolitej Polskiej",
+          "type": "url",
+          "url": "https://ewyszukiwarka.pue.uprp.gov.pl/"
+        },
+        {
+          "name": "Wykaz dokumentów Ministerstwa Klimatu",
+          "type": "url",
+          "url": "https://wykaz.ekoportal.pl/CardList.seam"
+        }
+      ],
+      "name": "Rejestry Publiczne",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Nauka Polska",
+          "type": "url",
+          "url": "https://nauka-polska.pl"
+        },
+        {
+          "name": "POL-on",
+          "type": "url",
+          "url": "https://polon.nauka.gov.pl/opi/glowna?execution=e16s1"
+        },
+        {
+          "name": "RAD-on",
+          "type": "url",
+          "url": "https://radon.nauka.gov.pl/"
+        },
+        {
+          "name": "Wykaz Uczelni Publicznych",
+          "type": "url",
+          "url": "https://www.gov.pl/web/nauka/uczelnie-publiczne/"
+        }
+      ],
+      "name": "Uczelnie",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "przyjazdy.pl",
+                  "type": "url",
+                  "url": "https://przyjazdy.pl/"
+                },
+                {
+                  "name": "jakdojade API (R)",
+                  "type": "url",
+                  "url": "https://jakdojade.pl/public/pages/api/index.html"
+                },
+                {
+                  "name": "e-podrożnik.pl",
+                  "type": "url",
+                  "url": "https://www.e-podroznik.pl"
+                }
+              ],
+              "name": "Rozkłady jazdy",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Długołęka",
+                      "type": "url",
+                      "url": "http://dlugoleka.sims.pl/dipap/maps/map.html"
+                    },
+                    {
+                      "name": "Kobierzyce",
+                      "type": "url",
+                      "url": "http://kobierzyce.sims.pl:81/dipap/maps/map.html"
+                    },
+                    {
+                      "name": "Kraków",
+                      "type": "url",
+                      "url": "https://www.mapakrakow.pl/"
+                    },
+                    {
+                      "name": "Warszawa",
+                      "type": "url",
+                      "url": "https://realbus.pl/"
+                    },
+                    {
+                      "name": "Wrocław",
+                      "type": "url",
+                      "url": "https://mpk.wroc.pl/strefa-pasazera/zaplanuj-podroz/mapa-pozycji-pojazdow"
+                    },
+                    {
+                      "name": "Wrocław-Leśnica",
+                      "type": "url",
+                      "url": "http://wroclaw.dla.sims.pl/maps/map.html"
+                    }
+                  ],
+                  "name": "Miejscowości",
+                  "type": "folder"
+                },
+                {
+                  "name": "KiedyPrzyjedzie.pl",
+                  "type": "url",
+                  "url": "http://kiedyprzyjedzie.pl/"
+                },
+                {
+                  "name": "BusLive (N)",
+                  "type": "url",
+                  "url": "https://buslive.pl/"
+                },
+                {
+                  "name": "Dworzec Online",
+                  "type": "url",
+                  "url": "https://dworzeconline.pl/info/podroze/autobusy-na-trasie"
+                },
+                {
+                  "name": "PKP - Portal Pasażera",
+                  "type": "url",
+                  "url": "https://portalpasazera.pl/MapaOL"
+                }
+              ],
+              "name": "Lokalizacja pojazdów",
+              "type": "folder"
+            },
+            {
+              "name": "tablica-rejestracyjna.pl",
+              "type": "url",
+              "url": "https://tablica-rejestracyjna.pl/"
+            },
+            {
+              "name": "autobaza.pl",
+              "type": "url",
+              "url": "https://www.autobaza.pl/"
+            },
+            {
+              "name": "Ubezpieczeniowy Fundusz Gwarancyjny",
+              "type": "url",
+              "url": "https://www.ufg.pl/infoportal/"
+            },
+            {
+              "name": "Centralna Ewidencja Pojazdów - Bezpieczny Autobus",
+              "type": "url",
+              "url": "https://bezpiecznyautobus.gov.pl/"
+            },
+            {
+              "name": "Centralna Ewidencja Pojazdów - Historia Pojazdu",
+              "type": "url",
+              "url": "https://historiapojazdu.gov.pl/"
+            },
+            {
+              "name": "CEPiK API",
+              "type": "url",
+              "url": "https://api.cepik.gov.pl/doc"
+            },
+            {
+              "name": "Dworce kolejowe w Polsce",
+              "type": "url",
+              "url": "https://bezpieczenstwo.maps.arcgis.com/apps/webappviewer/index.html?id=5c5e66342b7d4aa99519fce06868eecc"
+            },
+            {
+              "name": "Raporty Państwowej Komisji Badania Wypadków Kolejowych",
+              "type": "url",
+              "url": "https://www.gov.pl/web/mswia/raporty"
+            }
+          ],
+          "name": "Lądowy",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Raporty Państwowej Komisji Badania Wypadków Lotniczych",
+              "type": "url",
+              "url": "https://pkbwl.gov.pl/index.php/raporty"
+            }
+          ],
+          "name": "Lotniczy",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Polski Rejestr Statków",
+              "type": "url",
+              "url": "https://www.prs.pl/wydawnictwa/rejestry-statkow-jachtow-lodzi#"
+            },
+            {
+              "name": "Raporty Państwowej Komisji Badania Wypadków Morskich",
+              "type": "url",
+              "url": "https://pkbwl.gov.pl/index.php/raporty"
+            }
+          ],
+          "name": "Morski",
+          "type": "folder"
+        }
+      ],
+      "name": "Transport",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Chomikuj.pl",
+                  "type": "url",
+                  "url": "https://pastebin.pl/"
+                }
+              ],
+              "name": "Przechowywanie",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "name": "Pastebin.pl",
+                  "type": "url",
+                  "url": "https://pastebin.pl/"
+                }
+              ],
+              "name": "Wklejki",
+              "type": "folder"
+            }
+          ],
+          "name": "Dokumenty",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "GDDKiA - Mapa Kamer Monitorujących",
+              "type": "url",
+              "url": "https://www.gddkia.gov.pl/pl/22/mapa-kamer-monitorujacych"
+            },
+            {
+              "name": "WebCamera.pl",
+              "type": "url",
+              "url": "https://www.webcamera.pl/"
+            },
+            {
+              "name": "WorldCam",
+              "type": "url",
+              "url": "https://www.worldcam.pl/"
+            }
+          ],
+          "name": "Kamerki",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "OSINT Quest YouTube TOOL",
+                  "type": "url",
+                  "url": "http://osintquest.pl/wp-content/uploads/youtube/mod_video_info.php"
+                }
+              ],
+              "name": "Analiza",
+              "type": "folder"
+            }
+          ],
+          "name": "Wideo",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Fotosik.pl",
+                  "type": "url",
+                  "url": "https://www.fotosik.pl/szukaj/"
+                },
+                {
+                  "name": "POLSKA-ORG.PL",
+                  "type": "url",
+                  "url": "https://polska-org.pl/"
+                }
+              ],
+              "name": "Wyszukiwanie",
+              "type": "folder"
+            }
+          ],
+          "name": "Zdjęcia",
+          "type": "folder"
+        }
+      ],
+      "name": "Dokumenty / Wideo / Zdjęcia",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Nieznany numer",
+          "type": "url",
+          "url": "https://www.nieznany-numer.pl/"
+        },
+        {
+          "name": "Kto dzwonil",
+          "type": "url",
+          "url": "https://kto-dzwonil.com"
+        },
+        {
+          "name": "KtoTo?",
+          "type": "url",
+          "url": "https://www.ktoto.info/"
+        },
+        {
+          "name": "Książka telefoniczna Vectra",
+          "type": "url",
+          "url": "https://www.vectra.pl/ksiazka-telefoniczna/"
+        },
+        {
+          "name": "Książka telefoniczna abonentów Plus",
+          "type": "url",
+          "url": "http://www.plus.pl/ksiazka-tel-abonentow"
+        },
+        {
+          "name": "Biuro numerów Play",
+          "type": "url",
+          "url": "https://biuronumerow.play.pl/onlinebook/"
+        }
+      ],
+      "name": "Numery Telefonów/Książki Telefoniczne",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "Bydgoszcz",
+              "type": "url",
+              "url": "http://websdr.sp2put.pl:8901/"
+            },
+            {
+              "name": "Goleniów",
+              "type": "url",
+              "url": "http://www.sp1ygl.noip.pl/websdr/"
+            },
+            {
+              "name": "Kampinoski Park Narodowy",
+              "type": "url",
+              "url": "http://88.220.45.111:8073/"
+            },
+            {
+              "name": "Łódź",
+              "type": "url",
+              "url": "http://websdr80.dyndns.org:50001/"
+            },
+            {
+              "name": "Olsztyn",
+              "type": "url",
+              "url": "https://websdr.jestok.com/"
+            },
+            {
+              "name": "Płońsk",
+              "type": "url",
+              "url": "http://plonsk.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Silec",
+              "type": "url",
+              "url": "http://websdr.printf.cc:8901/"
+            },
+            {
+              "name": "Stare Wierzchowo",
+              "type": "url",
+              "url": "http://87.251.229.127:8073/"
+            },
+            {
+              "name": "Warszawa (SP5JI)",
+              "type": "url",
+              "url": "http://warszawa.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Warszawa (SP5KAB)",
+              "type": "url",
+              "url": "http://sdr.sp5kab.pl/openwebrx-1/"
+            },
+            {
+              "name": "Zielona Góra",
+              "type": "url",
+              "url": "http://websdr.sp3pgx.uz.zgora.pl:8901/"
+            }
+          ],
+          "name": "WebSDR",
+          "type": "folder"
+        },
+        {
+          "name": "przemienniki.net",
+          "type": "url",
+          "url": "https://przemienniki.net/"
+        }
+      ],
+      "name": "SIGINT",
+      "type": "folder"
+    }
+  ],
+  "name": "Źródła",
+  "type": "folder"
+}

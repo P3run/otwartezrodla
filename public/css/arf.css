@@ -1,0 +1,75 @@
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: "Helvetica Neue", Helvetica;
+  margin: 0;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+a {
+  color: #000000;
+}
+
+#header {
+  border-style: dashed;
+  border-width: 5px;
+  margin: 30px;
+}
+
+#logo {
+  position: static;
+  padding: 30px;
+  display: inline-block;
+}
+
+#legend {
+  position: absolute;
+  font-weight: normal;
+  right: 30px;
+  width: 330px;
+  font-size: 11px;
+  padding-left: 10px;
+  margin: 30px;
+  border-style: solid;
+  border-width: 0px 0px 0px 2px;
+  display: inline-block;
+}
+
+#body {
+  margin: 0;
+  position: relative;
+}
+
+#footer {
+  position: relative;
+  margin: 0px;
+  font-size: 14px;
+  margin: 0px 30px 30px 30px;
+  border-style: dashed;
+  border-width: 2px 0px 0px 0px;
+}
+
+.node {
+  cursor: pointer;
+}
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 12px;
+  fill: rgb(0, 0, 0);
+}
+
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1px;
+}
