@@ -42,4 +42,4 @@ Dzięki!
 
 ## Wsparcie
 
-Najlepszym wsparciem będzie dla mnie pomoc w rozwijaniu niniejszego narzędzia (patrz wyżej). Jeśli jednak chcesz podziękować mi za moją pracę i dorzucić się do utrzymania strony to odwiedź moją <a href="">zrzutkę</a> - będę wdzięczny za każdą złotówkę :).
+Najlepszym wsparciem będzie dla mnie pomoc w rozwijaniu niniejszego narzędzia (patrz wyżej). Jeśli jednak chcesz podziękować mi za moją pracę i dorzucić się do utrzymania strony to odwiedź moją <a href="https://zrzutka.pl/3gz825">zrzutkę</a> - będę wdzięczny za każdą złotówkę :).
