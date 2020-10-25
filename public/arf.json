@@ -238,6 +238,88 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "name": "Konfederacja",
+                  "type": "url",
+                  "url": "https://konfederacja.net/#koordynatorzy"
+                },
+                {
+                  "name": "Kukiz15",
+                  "type": "url",
+                  "url": "http://kukiz15.org/zespol"
+                },
+                {
+                  "name": "Nowoczesna",
+                  "type": "url",
+                  "url": "https://nowoczesna.org/zarzad-partii/"
+                },
+                {
+                  "name": "Platforma Obywatelska",
+                  "type": "url",
+                  "url": "https://platforma.org/ludzie#0"
+                },
+                {
+                  "name": "Polskie Stronnictwo Ludowe",
+                  "type": "url",
+                  "url": "https://www.psl.pl/ludowcy/"
+                },
+                {
+                  "name": "Porozumienie",
+                  "type": "url",
+                  "url": "https://pjg.org.pl/zarzad_krajowy/"
+                },
+                {
+                  "name": "Prawo i Sprawiedliwość",
+                  "type": "url",
+                  "url": "http://pis.org.pl/partia/wladze-ludzie"
+                },
+                {
+                  "name": "Razem",
+                  "type": "url",
+                  "url": "https://partiarazem.pl/o-nas/rada-krajowa/"
+                },
+                {
+                  "name": "Sojusz Lewicy Demokratycznej",
+                  "type": "url",
+                  "url": "https://sld.org.pl/strony/politycy/a"
+                },
+                {
+                  "name": "Solidarna Polska",
+                  "type": "url",
+                  "url": "https://solidarna.org/partia/"
+                },
+                {
+                  "name": "Wiosna",
+                  "type": "url",
+                  "url": "https://wiosnabiedronia.pl/zespol"
+                },
+                {
+                  "name": "Zieloni",
+                  "type": "url",
+                  "url": "https://partiazieloni.pl/regiony/"
+                }
+              ],
+              "name": "Partie",
+              "type": "folder"
+            },
+            {
+              "name": "Posłowie",
+              "type": "url",
+              "url": "https://www.sejm.gov.pl/sejm9.nsf/poslowie.xsp?type=A"
+            },
+            {
+              "name": "Senatorowie",
+              "type": "url",
+              "url": "https://www.senat.gov.pl/sklad/senatorowie/"
+            }
+          ],
+          "name": "Politycy",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
               "name": "Otwarte Dane - Nazwiska występujące w rejestrze PESEL",
               "type": "url",
               "url": "https://dane.gov.pl/pl/dataset/568,nazwiska-wystepujace-w-rejestrze-pesel"
@@ -725,6 +807,11 @@
           "url": "https://audiovis.nac.gov.pl/"
         },
         {
+          "name": "Polona",
+          "type": "url",
+          "url": "https://polona.pl"
+        },
+        {
           "name": "szukajwarchiwach.pl",
           "type": "url",
           "url": "https://www.szukajwarchiwach.pl/"
@@ -783,6 +870,11 @@
     },
     {
       "children": [
+        {
+          "name": "Bank Danych",
+          "type": "url",
+          "url": "https://bankdanych.io/"
+        },
         {
           "name": "Biuletyn Zamówień Publicznych",
           "type": "url",
@@ -1063,9 +1155,49 @@
         {
           "children": [
             {
+              "name": "Gawex Media",
+              "type": "url",
+              "url": "https://www.gawex.pl/kamery"
+            },
+            {
               "name": "GDDKiA - Mapa Kamer Monitorujących",
               "type": "url",
               "url": "https://www.gddkia.gov.pl/pl/22/mapa-kamer-monitorujacych"
+            },
+            {
+              "name": "Kamery.edu.pl",
+              "type": "url",
+              "url": "https://kamery.edu.pl/"
+            },
+            {
+              "name": "Kamery Giżycko",
+              "type": "url",
+              "url": "http://kamery.gizycko.pl"
+            },
+            {
+              "name": "Kamery Rzeszów",
+              "type": "url",
+              "url": "http://kamery-rzeszow.pl/"
+            },
+            {
+              "name": "LiveSzczecin.pl",
+              "type": "url",
+              "url": "https://lantech.com.pl/liveszczecin/"
+            },
+            {
+              "name": "lookcam.com",
+              "type": "url",
+              "url": "https://lookcam.pl/"
+            },
+            {
+              "name": "Multimedialny Kraków",
+              "type": "url",
+              "url": "https://www.krakow.pl/multimedialny_krakow/1306,artykul,ulica_grodzka__z_pl__wszystkich_swietych_.html"
+            },
+            {
+              "name": "TOYA GO",
+              "type": "url",
+              "url": "https://go.toya.net.pl/25-kamery"
             },
             {
               "name": "WebCamera.pl",
@@ -1073,12 +1205,17 @@
               "url": "https://www.webcamera.pl/"
             },
             {
+              "name": "WG Media",
+              "type": "url",
+              "url": "http://www.wgmedia.eu/kamery"
+            },
+            {
               "name": "WorldCam",
               "type": "url",
               "url": "https://www.worldcam.pl/"
             }
           ],
-          "name": "Kamerki",
+          "name": "Kamery",
           "type": "folder"
         },
         {
@@ -1231,6 +1368,39 @@
       ],
       "name": "SIGINT",
       "type": "folder"
+    },
+    {
+      "children":[
+        {
+          "children":[
+            {
+              "name": "GenApps",
+              "type": "url",
+              "url": "http://genapps.pl/"
+            },
+            {
+              "name": "Generatory IT",
+              "type": "url",
+              "url": "http://generatory.it/"
+            }
+          ],
+          "name": "Generatory Danych / Tożsamości",
+          "type":"folder"
+        },
+        {
+          "children":[
+            {
+              "name": "niepodam.pl",
+              "type": "url",
+              "url": "http://niepodam.pl/"
+            }
+          ],
+          "name": "Tymczasowe Skrzynki E-mail",
+          "type":"folder"
+        }
+      ],
+      "name": "OpSec",
+      "type":"folder"
     }
   ],
   "name": "Źródła",
