@@ -521,6 +521,11 @@
           "name": "QUEER (M)",
           "type": "url",
           "url": "https://queer.pl/user/nazwa_użytkownika"
+        },
+        {
+          "name": "Wykop (R)",
+          "type": "url",
+          "url": "https://www.wykop.pl/ludzie/nazwa_użytkownika"
         }
       ],
       "name": "Użytkownicy / Loginy",
@@ -557,6 +562,11 @@
           "name": "QUEER",
           "type": "url",
           "url": "https://queer.pl/users"
+        },
+        {
+          "name": "Wykop (R)",
+          "type": "url",
+          "url": "https://www.wykop.pl/mikroblog"
         }
       ],
       "name": "Serwisy Społecznościowe",
@@ -578,6 +588,11 @@
           "name": "ZaadoptujFaceta (R)",
           "type": "url",
           "url": "https://www.zaadoptujfaceta.pl/"
+        },
+        {
+          "name": "Przeznaczeni (R)",
+          "type": "url",
+          "url": "https://www.przeznaczeni.pl/"
         }
       ],
       "name": "Serwisy Randkowe",
@@ -769,6 +784,16 @@
               "name": "GPW",
               "type": "url",
               "url": "https://www.gpw.pl/"
+            },
+            {
+              "name": "Parkiet",
+              "type": "url",
+              "url": "https://www.parkiet.com/"
+            },
+            {
+              "name": "Stockwatch",
+              "type": "url",
+              "url": "https://www.stockwatch.pl/"
             },
             {
               "name": "Stooq",
