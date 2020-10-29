@@ -523,7 +523,7 @@
           "url": "https://queer.pl/user/nazwa_użytkownika"
         },
         {
-          "name": "Wykop (R)",
+          "name": "Wykop (M)",
           "type": "url",
           "url": "https://www.wykop.pl/ludzie/nazwa_użytkownika"
         }
@@ -799,7 +799,18 @@
               "name": "Stooq",
               "type": "url",
               "url": "https://stooq.pl/"
+            },
+            {
+              "name": "Serwis Ekonomiczny PAP",
+              "type": "url",
+              "url": "http://biznes.pap.pl/"
+            },
+            {
+              "name": "Infostrefa",
+              "type": "url",
+              "url": "http://infostrefa.com"
             }
+            
           ],
           "name": "Giełda",
           "type": "folder"
@@ -814,9 +825,30 @@
           ],
           "name": "Przemysł",
           "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Nauka w Polsce",
+              "type": "url",
+              "url": "https://naukawpolsce.pap.pl/" 
+            }
+          ],
+          "name": "Nauka / Wynalazki",
+          "type": "folder"
         }
       ],
       "name": "Biznes / Gospodarka",
+      "type": "folder"
+    },
+    { "children": [
+      {
+        "name": "Serwis Samorządowy PAP",
+        "type": "url",
+        "url": "https://samorzad.pap.pl/"
+      }
+    ],
+      "name": "Samorządy",
       "type": "folder"
     },
     {
