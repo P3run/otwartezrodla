@@ -840,7 +840,8 @@
       "name": "Biznes / Gospodarka",
       "type": "folder"
     },
-    { "children": [
+    { 
+      "children": [
       {
         "name": "Serwis Samorządowy PAP",
         "type": "url",
