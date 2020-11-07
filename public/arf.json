@@ -31,6 +31,11 @@
               "url": "http://kgh.pl/<identyfikator>+"
             },
             {
+              "name": "Tiny.pl",
+              "type": "url",
+              "url": "https://tiny.pl/"
+            },
+            {
               "name": "ujeb.se (M)",
               "type": "url",
               "url": "https://ujeb.se/<identyfikator>+"
@@ -139,6 +144,92 @@
           "type": "folder"
         },
         {
+          "children":[
+            {
+              "name": "Dolnośląskie",
+              "type": "url",
+              "url": "https://geoportal.dolnyslask.pl/"
+            },
+            {
+              "name": "Kujawsko-Pomorskie",
+              "type": "url",
+              "url": "https://mapy.mojregion.info/"
+            },
+            {
+              "name": "Lubelskie",
+              "type": "url",
+              "url": "http://gis.lubelskie.pl/geoportal/"
+            },
+            {
+              "name": "Lubuskie",
+              "type": "url",
+              "url": "http://www.rsipwl.lubuskie.pl/"
+            },
+            {
+              "name": "Łódzkie",
+              "type": "url",
+              "url": "http://www.rsipwl.lubuskie.pl/"
+            },
+            {
+              "name": "Małopolskie",
+              "type": "url",
+              "url": "https://miip.geomalopolska.pl/"
+            },
+            {
+              "name": "Mazowieckie",
+              "type": "url",
+              "url": "https://msip.wrotamazowsza.pl/msip/Full.aspx"
+            },
+            {
+              "name": "Opolskie",
+              "type": "url",
+              "url": "http://maps.opolskie.pl/start/"
+            },
+            {
+              "name": "Podkarpackie",
+              "type": "url",
+              "url": "https://podkarpackie.e-mapa.net/"
+            },
+            {
+              "name": "Podlaskie",
+              "type": "url",
+              "url": "http://geoportal.wrotapodlasia.pl/"
+            },
+            {
+              "name": "Pomorskie",
+              "type": "url",
+              "url": "https://pomorskie.e-mapa.net/"
+            },
+            {
+              "name": "Śląskie",
+              "type": "url",
+              "url": "https://mapy.orsip.pl/imap/"
+            },
+            {
+              "name": "Świętokrzyskie",
+              "type": "url",
+              "url": "http://sip.e-swietokrzyskie.pl/"
+            },
+            {
+              "name": "Warmińsko-Mazurskie",
+              "type": "url",
+              "url": "https://warminskomazurskie.e-mapa.net/"
+            },
+            {
+              "name": "Wielkopolskie",
+              "type": "url",
+              "url": "https://wielkopolskie.e-mapa.net/"
+            },
+            {
+              "name": "Zachodniopomorskie",
+              "type": "url",
+              "url": "https://sip-mapa.wzp.pl/egis/Full.aspx"
+            }
+          ],
+          "name": "Wojewódzkie Systemy Informacji Przestrzennej",
+          "type":"folder"
+        },
+        {
           "name": "Ukośne",
           "type": "url",
           "url": "https://www.ukosne.pl/"
@@ -207,6 +298,11 @@
           "name": "Mapa nadajników radiowych",
           "type": "url",
           "url": "https://nadajniki.socware.pl/"
+        },
+        {
+          "name": "Sytuacja Radiacyjna - Państwowa Agencja Atomistyki",
+          "type": "url",
+          "url": "https://paa.gov.pl/strona-455-sytuacja_radiacyjna.html"
         },
         {
           "name": "Mapa Turystyczna",
@@ -493,6 +589,11 @@
     {
       "children": [
         {
+          "name": "Allegro (M)",
+          "type": "url",
+          "url": "https://allegro.pl/uzytkownik/nazwa_użytkownika"
+        },
+        {
           "name": "Fotka (M)",
           "type": "url",
           "url": "https://fotka.com/profil/nazwa_użytkownika"
@@ -521,6 +622,11 @@
           "name": "QUEER (M)",
           "type": "url",
           "url": "https://queer.pl/user/nazwa_użytkownika"
+        },
+        {
+          "name": "Ultras Diary",
+          "type": "url",
+          "url": "http://ultrasdiary.pl/u/nazwa_użytkownika/"
         },
         {
           "name": "Wykop (R)",
@@ -758,6 +864,82 @@
         {
           "children": [
             {
+              "name": "Antykorupcja - Analizy i Raporty",
+              "type": "url",
+              "url": "https://www.antykorupcja.gov.pl/ak/analizy-i-raporty/"
+            },
+            {
+              "name": "Archiwum raportów społecznych - Kantar Public",
+              "type": "url",
+              "url": "http://www.tnsglobal.pl/archiwumraportow/"
+            },
+            {
+              "name": "Baza Demografia - Główny Urząd Statystyczny",
+              "type": "url",
+              "url": "http://demografia.stat.gov.pl/bazademografia/"
+            }
+          ],
+          "name": "Badania Społeczne / Statystyki",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Stadionowi Oprawcy - Ekipy",
+                      "type": "url",
+                      "url": "https://stadionowioprawcy.net/wybierz-ekipe/"
+                    },
+                    {
+                      "name": "Styl Kibica - Zgody",
+                      "type": "url",
+                      "url": "http://www.stylkibica.net/zgody/"
+                    }
+                  ],
+                  "name": "Kosy / Zgody / Układy",
+                  "type": "folder"
+                },
+                {
+                  "children":[
+                    {
+                      "name": "Stadionowi Oprawcy - Pozaboiskowe Spotkania",
+                      "type": "url",
+                      "url": "https://stadionowioprawcy.net/kategoria/pozaboiskowe-spotkania/"
+                    },
+                    {
+                      "name": "Styl Kibica - Grill",
+                      "type": "url",
+                      "url": "http://www.stylkibica.net/grill/"
+                    }
+                  ],
+                  "name": "Ustawki",
+                  "type":"folder"
+                },
+                {
+                  "name": "Ultras Diary",
+                  "type": "url",
+                  "url": "http://ultrasdiary.pl/"
+                }
+              ],
+              "name": "Kibice",
+              "type": "folder"
+            }
+          ],
+          "name": "Subkultury",
+          "type": "folder"
+        }
+      ],
+      "name": "Społeczeństwo",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
               "children": [
                 {
                   "name": "Archiwum Allegro",
@@ -773,7 +955,6 @@
               "name": "Allegro",
               "type": "folder"
             }
-
           ],
           "name": "Handel",
           "type": "folder"
@@ -906,9 +1087,19 @@
           "url": "https://searchbzp.uzp.gov.pl/"
         },
         {
+          "name": "Centralna Baza Orzeczeń Sądów Administracyjnych",
+          "type": "url",
+          "url": "http://orzeczenia.nsa.gov.pl/cbo/query"
+        },
+        {
           "name": "Elektroniczne Księgi Wieczyste",
           "type": "url",
           "url": "https://ekw.ms.gov.pl/eukw_ogol/menu.do"
+        },
+        {
+          "name": "Internetowy System Aktów Prawnych",
+          "type": "url",
+          "url": "https://isap.sejm.gov.pl/"
         },
         {
           "name": "Lista Komorników Sądowych",
@@ -1073,19 +1264,9 @@
               "type": "folder"
             },
             {
-              "name": "tablica-rejestracyjna.pl",
-              "type": "url",
-              "url": "https://tablica-rejestracyjna.pl/"
-            },
-            {
               "name": "autobaza.pl",
               "type": "url",
               "url": "https://www.autobaza.pl/"
-            },
-            {
-              "name": "Ubezpieczeniowy Fundusz Gwarancyjny",
-              "type": "url",
-              "url": "https://www.ufg.pl/infoportal/"
             },
             {
               "name": "Centralna Ewidencja Pojazdów - Bezpieczny Autobus",
@@ -1108,9 +1289,24 @@
               "url": "https://bezpieczenstwo.maps.arcgis.com/apps/webappviewer/index.html?id=5c5e66342b7d4aa99519fce06868eecc"
             },
             {
+              "name": "Polskie Tablice Rejestracyjne",
+              "type": "url",
+              "url": "http://wptr.pl/"
+            },
+            {
               "name": "Raporty Państwowej Komisji Badania Wypadków Kolejowych",
               "type": "url",
               "url": "https://www.gov.pl/web/mswia/raporty"
+            },
+            {
+              "name": "tablica-rejestracyjna.pl",
+              "type": "url",
+              "url": "https://tablica-rejestracyjna.pl/"
+            },
+            {
+              "name": "Ubezpieczeniowy Fundusz Gwarancyjny",
+              "type": "url",
+              "url": "https://www.ufg.pl/infoportal/"
             }
           ],
           "name": "Lądowy",
@@ -1157,6 +1353,11 @@
                   "name": "Chomikuj.pl",
                   "type": "url",
                   "url": "https://pastebin.pl/"
+                },
+                {
+                  "name": "Docer Polska",
+                  "type": "url",
+                  "url": "https://docer.pl/"
                 }
               ],
               "name": "Przechowywanie",
@@ -1225,6 +1426,11 @@
               "url": "https://go.toya.net.pl/25-kamery"
             },
             {
+              "name": "TRAX elektronik",
+              "type": "url",
+              "url": "https://www.traxelektronik.pl/pogoda/kamery/"
+            },
+            {
               "name": "WebCamera.pl",
               "type": "url",
               "url": "https://www.webcamera.pl/"
@@ -1238,6 +1444,11 @@
               "name": "WorldCam",
               "type": "url",
               "url": "https://www.worldcam.pl/"
+            },
+            {
+              "name": "Zarząd Dróg Wojewódzkich w Krakowie",
+              "type": "url",
+              "url": "https://www.zdw.krakow.pl/drogi/kamery-na-drogach.html"
             }
           ],
           "name": "Kamery",
@@ -1395,9 +1606,9 @@
       "type": "folder"
     },
     {
-      "children":[
+      "children": [
         {
-          "children":[
+          "children": [
             {
               "name": "GenApps",
               "type": "url",
@@ -1410,10 +1621,10 @@
             }
           ],
           "name": "Generatory Danych / Tożsamości",
-          "type":"folder"
+          "type": "folder"
         },
         {
-          "children":[
+          "children": [
             {
               "name": "niepodam.pl",
               "type": "url",
@@ -1421,11 +1632,11 @@
             }
           ],
           "name": "Tymczasowe Skrzynki E-mail",
-          "type":"folder"
+          "type": "folder"
         }
       ],
       "name": "OpSec",
-      "type":"folder"
+      "type": "folder"
     }
   ],
   "name": "Źródła",
