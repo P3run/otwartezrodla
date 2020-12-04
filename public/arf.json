@@ -144,7 +144,7 @@
           "type": "folder"
         },
         {
-          "children":[
+          "children": [
             {
               "name": "Dolnośląskie",
               "type": "url",
@@ -227,7 +227,7 @@
             }
           ],
           "name": "Wojewódzkie Systemy Informacji Przestrzennej",
-          "type":"folder"
+          "type": "folder"
         },
         {
           "name": "Ukośne",
@@ -518,6 +518,11 @@
         },
         {
           "children": [
+            {
+              "name": "Baza danych o więźniach obozu Auschwitz-Birkenau",
+              "type": "url",
+              "url": "http://www.auschwitz.org/muzeum/informacja-o-wiezniach/"
+            },
             {
               "name": "GENPOL (R)",
               "type": "url",
@@ -812,6 +817,11 @@
               "url": "https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx"
             },
             {
+              "name": "Centralna Ewidencja Organizatorów Turystyki",
+              "type": "url",
+              "url": "https://ewidencja.ufg.pl/ewidencja/obywatel/ksiegi"
+            },
+            {
               "name": "eKRS",
               "type": "url",
               "url": "https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/index.html"
@@ -903,7 +913,7 @@
                   "type": "folder"
                 },
                 {
-                  "children":[
+                  "children": [
                     {
                       "name": "Stadionowi Oprawcy - Pozaboiskowe Spotkania",
                       "type": "url",
@@ -916,7 +926,7 @@
                     }
                   ],
                   "name": "Ustawki",
-                  "type":"folder"
+                  "type": "folder"
                 },
                 {
                   "name": "Ultras Diary",
@@ -1018,6 +1028,11 @@
           "url": "https://polona.pl"
         },
         {
+          "name": "Repozytorium Cyfrowe Instytutów Naukowych",
+          "type": "url",
+          "url": "https://rcin.org.pl"
+        },
+        {
           "name": "szukajwarchiwach.pl",
           "type": "url",
           "url": "https://www.szukajwarchiwach.pl/"
@@ -1040,6 +1055,11 @@
       "children": [
         {
           "children": [
+            {
+              "name": "Elektoniczny Słownik Języka Polskiego XVII i XVIII wieku",
+              "type": "url",
+              "url": "https://sxvii.pl/"
+            },
             {
               "name": "Słownik Kaszubski",
               "type": "url",
@@ -1087,19 +1107,9 @@
           "url": "https://searchbzp.uzp.gov.pl/"
         },
         {
-          "name": "Centralna Baza Orzeczeń Sądów Administracyjnych",
-          "type": "url",
-          "url": "http://orzeczenia.nsa.gov.pl/cbo/query"
-        },
-        {
           "name": "Elektroniczne Księgi Wieczyste",
           "type": "url",
           "url": "https://ekw.ms.gov.pl/eukw_ogol/menu.do"
-        },
-        {
-          "name": "Internetowy System Aktów Prawnych",
-          "type": "url",
-          "url": "https://isap.sejm.gov.pl/"
         },
         {
           "name": "Lista Komorników Sądowych",
@@ -1132,6 +1142,16 @@
           "url": "https://fedrowanie.siecobywatelska.pl/"
         },
         {
+          "name": "Platforma Rejestrów Medycznych",
+          "type": "url",
+          "url": "https://rejestrymedyczne.ezdrowie.gov.pl/main"
+        },
+        {
+          "name": "Rejestr Podmiotów Wykonujących Działalność Leczniczą",
+          "type": "url",
+          "url": "https://rpwdl.ezdrowie.gov.pl/"
+        },
+        {
           "name": "Rejestr przedsiębiorców wykonujących działalność regulowaną w zakresie usług detektywistycznych",
           "type": "url",
           "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych3"
@@ -1148,6 +1168,73 @@
         }
       ],
       "name": "Rejestry Publiczne",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {      
+          "children": [
+            {
+              "name": "Krajowy Rejestr Adwokatów i Aplikantów Adwokackich",
+              "type": "url",
+              "url": "https://rejestradwokatow.pl/adwokat/ewidencja"
+            },
+            {
+              "name": "Rejestr Radców Prawnych",
+              "type": "url",
+              "url": "https://rejestrradcow.pl/Home/Index"
+            }
+          ],
+          "name": "Prawnicy",
+          "type": "folder"
+        },
+        {
+          "name": "Baza Orzeczeń Trybunału Konstytucyjnego",
+          "type": "url",
+          "url": "http://otk.trybunal.gov.pl/orzeczenia/"
+        },
+        {
+          "name": "Centralna Baza Orzeczeń Sądów Administracyjnych",
+          "type": "url",
+          "url": "http://orzeczenia.nsa.gov.pl/cbo/query"
+        },
+        {
+          "name": "Dzienniki Urzędowe",
+          "type": "url",
+          "url": "https://dziennikiurzedowe.rcl.gov.pl/index.html"
+        },
+        {
+          "name": "Internetowy System Aktów Prawnych",
+          "type": "url",
+          "url": "https://isap.sejm.gov.pl/"
+        },
+        {
+          "name": "Orzecznictwo Europejskiego Trybunału Praw Człowieka",
+          "type": "url",
+          "url": "https://etpcz.ms.gov.pl/searchetpc"
+        },
+        {
+          "name": "Portal Orzeczeń Sądów Powszechnych",
+          "type": "url",
+          "url": "http://orzeczenia.ms.gov.pl/"
+        },
+        {
+          "name": "Publiczny Portal Informacji o Prawie",
+          "type": "url",
+          "url": "https://ppiop.rcl.gov.pl/index.php?r="
+        },
+        {
+          "name": "Rządowy Proces Legislacyjny",
+          "type": "url",
+          "url": "https://legislacja.rcl.gov.pl/"
+        },
+        {
+          "name": "Wyroki dotyczące Decyzji Prezesa UOKiK",
+          "type": "url",
+          "url": "https://decyzje.uokik.gov.pl/bp/wyroki.nsf"
+        }
+      ],
+      "name": "Prawo",
       "type": "folder"
     },
     {
