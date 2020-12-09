@@ -318,99 +318,42 @@
         {
           "children": [
             {
-              "name": "POL-on: Wykaz doktorów",
+              "name": "Baza danych o więźniach obozu Auschwitz-Birkenau",
               "type": "url",
-              "url": "https://polon.nauka.gov.pl/opi/aa/drh/zestawienie?execution=e5s1"
+              "url": "http://www.auschwitz.org/muzeum/informacja-o-wiezniach/"
             },
             {
-              "name": "POL-on: Wykaz profesorów",
+              "name": "GENPOL (R)",
               "type": "url",
-              "url": "https://polon.nauka.gov.pl/opi/aa/prof/zestawienie?execution=e6s1"
+              "url": "https://www.genpol.com/module-GenBaza.html"
+            },
+            {
+              "name": "Jewish Record Indexing - Poland",
+              "type": "url",
+              "url": "https://jri-poland.org/jriplweb.htm"
+            },
+            {
+              "name": "Polish Genealogical Society of America (R)",
+              "type": "url",
+              "url": "https://pgsa.org/"
+            },
+            {
+              "name": "Polish Roots",
+              "type": "url",
+              "url": "http://www.polishroots.com/Research/Surnames"
+            },
+            {
+              "name": "Ornatowski.com",
+              "type": "url",
+              "url": "https://ornatowski.com/"
+            },
+            {
+              "name": "Serwis Polskiego Towarzystwa Genealogicznego",
+              "type": "url",
+              "url": "https://genealodzy.pl/"
             }
           ],
-          "name": "Naukowcy",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "name": "Konfederacja",
-                  "type": "url",
-                  "url": "https://konfederacja.net/#koordynatorzy"
-                },
-                {
-                  "name": "Kukiz15",
-                  "type": "url",
-                  "url": "http://kukiz15.org/zespol"
-                },
-                {
-                  "name": "Nowoczesna",
-                  "type": "url",
-                  "url": "https://nowoczesna.org/zarzad-partii/"
-                },
-                {
-                  "name": "Platforma Obywatelska",
-                  "type": "url",
-                  "url": "https://platforma.org/ludzie#0"
-                },
-                {
-                  "name": "Polskie Stronnictwo Ludowe",
-                  "type": "url",
-                  "url": "https://www.psl.pl/ludowcy/"
-                },
-                {
-                  "name": "Porozumienie",
-                  "type": "url",
-                  "url": "https://pjg.org.pl/zarzad_krajowy/"
-                },
-                {
-                  "name": "Prawo i Sprawiedliwość",
-                  "type": "url",
-                  "url": "http://pis.org.pl/partia/wladze-ludzie"
-                },
-                {
-                  "name": "Razem",
-                  "type": "url",
-                  "url": "https://partiarazem.pl/o-nas/rada-krajowa/"
-                },
-                {
-                  "name": "Sojusz Lewicy Demokratycznej",
-                  "type": "url",
-                  "url": "https://sld.org.pl/strony/politycy/a"
-                },
-                {
-                  "name": "Solidarna Polska",
-                  "type": "url",
-                  "url": "https://solidarna.org/partia/"
-                },
-                {
-                  "name": "Wiosna",
-                  "type": "url",
-                  "url": "https://wiosnabiedronia.pl/zespol"
-                },
-                {
-                  "name": "Zieloni",
-                  "type": "url",
-                  "url": "https://partiazieloni.pl/regiony/"
-                }
-              ],
-              "name": "Partie",
-              "type": "folder"
-            },
-            {
-              "name": "Posłowie",
-              "type": "url",
-              "url": "https://www.sejm.gov.pl/sejm9.nsf/poslowie.xsp?type=A"
-            },
-            {
-              "name": "Senatorowie",
-              "type": "url",
-              "url": "https://www.senat.gov.pl/sklad/senatorowie/"
-            }
-          ],
-          "name": "Politycy",
+          "name": "Genealogia",
           "type": "folder"
         },
         {
@@ -432,6 +375,177 @@
             }
           ],
           "name": "Nazwiska",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "name": "Centralny Rejestr Farmaceutów",
+                  "type": "url",
+                  "url": "https://crf.ezdrowie.gov.pl/Search"
+                },
+                {
+                  "name": "Krajowy Rejestr Fizjoterapeutów",
+                  "type": "url",
+                  "url": "https://kif.info.pl/rejestr/"
+                },
+                {
+                  "name": "Rejestr Diagnostów Laboratoryjnych",
+                  "type": "url",
+                  "url": "https://rdl.ezdrowie.gov.pl/"
+                },
+                {
+                  "name": "Rejestr Podmiotów Wykonujących Działalność Leczniczą",
+                  "type": "url",
+                  "url": "https://rpwdl.ezdrowie.gov.pl/"
+                }
+              ],
+              "name": "Medycyna",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "name": "POL-on: Wykaz doktorów",
+                  "type": "url",
+                  "url": "https://polon.nauka.gov.pl/opi/aa/drh/zestawienie?execution=e5s1"
+                },
+                {
+                  "name": "POL-on: Wykaz profesorów",
+                  "type": "url",
+                  "url": "https://polon.nauka.gov.pl/opi/aa/prof/zestawienie?execution=e6s1"
+                }
+              ],
+              "name": "Nauka",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "name": "Konfederacja",
+                      "type": "url",
+                      "url": "https://konfederacja.net/#koordynatorzy"
+                    },
+                    {
+                      "name": "Kukiz15",
+                      "type": "url",
+                      "url": "http://kukiz15.org/zespol"
+                    },
+                    {
+                      "name": "Nowoczesna",
+                      "type": "url",
+                      "url": "https://nowoczesna.org/zarzad-partii/"
+                    },
+                    {
+                      "name": "Platforma Obywatelska",
+                      "type": "url",
+                      "url": "https://platforma.org/ludzie#0"
+                    },
+                    {
+                      "name": "Polskie Stronnictwo Ludowe",
+                      "type": "url",
+                      "url": "https://www.psl.pl/ludowcy/"
+                    },
+                    {
+                      "name": "Porozumienie",
+                      "type": "url",
+                      "url": "https://pjg.org.pl/zarzad_krajowy/"
+                    },
+                    {
+                      "name": "Prawo i Sprawiedliwość",
+                      "type": "url",
+                      "url": "http://pis.org.pl/partia/wladze-ludzie"
+                    },
+                    {
+                      "name": "Razem",
+                      "type": "url",
+                      "url": "https://partiarazem.pl/o-nas/rada-krajowa/"
+                    },
+                    {
+                      "name": "Sojusz Lewicy Demokratycznej",
+                      "type": "url",
+                      "url": "https://sld.org.pl/strony/politycy/a"
+                    },
+                    {
+                      "name": "Solidarna Polska",
+                      "type": "url",
+                      "url": "https://solidarna.org/partia/"
+                    },
+                    {
+                      "name": "Wiosna",
+                      "type": "url",
+                      "url": "https://wiosnabiedronia.pl/zespol"
+                    },
+                    {
+                      "name": "Zieloni",
+                      "type": "url",
+                      "url": "https://partiazieloni.pl/regiony/"
+                    }
+                  ],
+                  "name": "Partie",
+                  "type": "folder"
+                },
+                {
+                  "name": "Posłowie",
+                  "type": "url",
+                  "url": "https://www.sejm.gov.pl/sejm9.nsf/poslowie.xsp?type=A"
+                },
+                {
+                  "name": "Senatorowie",
+                  "type": "url",
+                  "url": "https://www.senat.gov.pl/sklad/senatorowie/"
+                }
+              ],
+              "name": "Polityka",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
+                  "name": "Krajowy Rejestr Adwokatów i Aplikantów Adwokackich",
+                  "type": "url",
+                  "url": "https://rejestradwokatow.pl/adwokat/ewidencja"
+                },
+                {
+                  "name": "Lista Komorników Sądowych",
+                  "type": "url",
+                  "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-komornikow-sadowych/"
+                },
+                {
+                  "name": "Rejestr Radców Prawnych",
+                  "type": "url",
+                  "url": "https://rejestrradcow.pl/Home/Index"
+                }
+              ],
+              "name": "Prawo",
+              "type": "folder"
+            },
+            {
+              "name": "Lista Tłumaczy Przysięgłych",
+              "type": "url",
+              "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html"
+            },
+            {
+              "name": "Ogólnopolska Lista Biegłych Sądowych i Tłumaczy Przysięgłych",
+              "type": "url",
+              "url": "https://listabieglych.pl/"
+            },
+            {
+              "name": "Lista Osób Posiadających Licencję Doradcy Restrukturazycjnego",
+              "type": "url",
+              "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-osob-posiadajacych-licencje-doradcy-restrukturyzacyjnego/"
+            },
+            {
+              "name": "Rejestr przedsiębiorców wykonujących działalność regulowaną w zakresie usług detektywistycznych",
+              "type": "url",
+              "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych3"
+            }
+          ],
+          "name": "Rejestry Zawodowe",
           "type": "folder"
         },
         {
@@ -514,47 +628,6 @@
             }
           ],
           "name": "Zmarli",
-          "type": "folder"
-        },
-        {
-          "children": [
-            {
-              "name": "Baza danych o więźniach obozu Auschwitz-Birkenau",
-              "type": "url",
-              "url": "http://www.auschwitz.org/muzeum/informacja-o-wiezniach/"
-            },
-            {
-              "name": "GENPOL (R)",
-              "type": "url",
-              "url": "https://www.genpol.com/module-GenBaza.html"
-            },
-            {
-              "name": "Jewish Record Indexing - Poland",
-              "type": "url",
-              "url": "https://jri-poland.org/jriplweb.htm"
-            },
-            {
-              "name": "Polish Genealogical Society of America (R)",
-              "type": "url",
-              "url": "https://pgsa.org/"
-            },
-            {
-              "name": "Polish Roots",
-              "type": "url",
-              "url": "http://www.polishroots.com/Research/Surnames"
-            },
-            {
-              "name": "Ornatowski.com",
-              "type": "url",
-              "url": "https://ornatowski.com/"
-            },
-            {
-              "name": "Serwis Polskiego Towarzystwa Genealogicznego",
-              "type": "url",
-              "url": "https://genealodzy.pl/"
-            }
-          ],
-          "name": "Genealogia",
           "type": "folder"
         },
         {
@@ -1001,6 +1074,11 @@
               "name": "energy.instrat.pl",
               "type": "url",
               "url": "http://energy.instrat.pl/"
+            },
+            {
+              "name": "Rejestry i wykazy Urzędu Regulacji Energetyki",
+              "type": "url",
+              "url": "https://rejestry.ure.gov.pl"
             }
           ],
           "name": "Przemysł",
@@ -1112,26 +1190,6 @@
           "url": "https://ekw.ms.gov.pl/eukw_ogol/menu.do"
         },
         {
-          "name": "Lista Komorników Sądowych",
-          "type": "url",
-          "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-komornikow-sadowych/"
-        },
-        {
-          "name": "Lista Osób Posiadających Licencję Doradcy Restrukturazycjnego",
-          "type": "url",
-          "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-osob-posiadajacych-licencje-doradcy-restrukturyzacyjnego/"
-        },
-        {
-          "name": "Lista Tłumaczy Przysięgłych",
-          "type": "url",
-          "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html"
-        },
-        {
-          "name": "Ogólnopolska Lista Biegłych Sądowych i Tłumaczy Przysięgłych",
-          "type": "url",
-          "url": "https://listabieglych.pl/"
-        },
-        {
           "name": "Otwarte Dane",
           "type": "url",
           "url": "https://dane.gov.pl/pl"
@@ -1147,16 +1205,6 @@
           "url": "https://rejestrymedyczne.ezdrowie.gov.pl/main"
         },
         {
-          "name": "Rejestr Podmiotów Wykonujących Działalność Leczniczą",
-          "type": "url",
-          "url": "https://rpwdl.ezdrowie.gov.pl/"
-        },
-        {
-          "name": "Rejestr przedsiębiorców wykonujących działalność regulowaną w zakresie usług detektywistycznych",
-          "type": "url",
-          "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych3"
-        },
-        {
           "name": "Urząd Patentowy Rzeczypospolitej Polskiej",
           "type": "url",
           "url": "https://ewyszukiwarka.pue.uprp.gov.pl/"
@@ -1165,6 +1213,11 @@
           "name": "Wykaz dokumentów Ministerstwa Klimatu",
           "type": "url",
           "url": "https://wykaz.ekoportal.pl/CardList.seam"
+        },
+        {
+          "name": "Zintegrowany Rejestr Kwalifikacji",
+          "type": "url",
+          "url": "https://rejestr.kwalifikacje.gov.pl"
         }
       ],
       "name": "Rejestry Publiczne",
@@ -1172,22 +1225,6 @@
     },
     {
       "children": [
-        {      
-          "children": [
-            {
-              "name": "Krajowy Rejestr Adwokatów i Aplikantów Adwokackich",
-              "type": "url",
-              "url": "https://rejestradwokatow.pl/adwokat/ewidencja"
-            },
-            {
-              "name": "Rejestr Radców Prawnych",
-              "type": "url",
-              "url": "https://rejestrradcow.pl/Home/Index"
-            }
-          ],
-          "name": "Prawnicy",
-          "type": "folder"
-        },
         {
           "name": "Baza Orzeczeń Trybunału Konstytucyjnego",
           "type": "url",
@@ -1222,6 +1259,11 @@
           "name": "Publiczny Portal Informacji o Prawie",
           "type": "url",
           "url": "https://ppiop.rcl.gov.pl/index.php?r="
+        },
+        {
+          "name": "Rejestry Notarialne",
+          "type": "url",
+          "url": "https://rejestry-notarialne.pl"
         },
         {
           "name": "Rządowy Proces Legislacyjny",
@@ -1401,6 +1443,32 @@
         },
         {
           "children": [
+            {
+              "children":[
+                {
+                  "name": "EPKT Spotters",
+                  "type": "url",
+                  "url": "http://epktspotters.org"
+                },
+                {
+                  "name": "lotnictwo.net.pl",
+                  "type": "url",
+                  "url": "http://lotnictwo.net.pl/gallery-home/"
+                },
+                {
+                  "name": "Skrzydla.org",
+                  "type": "url",
+                  "url": "https://skrzydla.org"
+                }
+              ],
+              "name": "Spotting",
+              "type":"folder"
+            },
+            {
+              "name": "Archiwum Publikacji ULC",
+              "type": "url",
+              "url": "https://ulc.gov.pl/pl/publikacje/publikacje"
+            },
             {
               "name": "Raporty Państwowej Komisji Badania Wypadków Lotniczych",
               "type": "url",
@@ -1638,6 +1706,11 @@
               "name": "Kampinoski Park Narodowy",
               "type": "url",
               "url": "http://88.220.45.111:8073/"
+            },
+            {
+              "name": "Katowice",
+              "type": "url",
+              "url": "http://sdr.v-w.com.pl:5000/"
             },
             {
               "name": "Łódź",
