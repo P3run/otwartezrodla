@@ -260,6 +260,11 @@
           "url": "http://polska.e-mapa.net/"
         },
         {
+          "name": "Portal Geostatystyczny",
+          "type": "url",
+          "url": "https://geo.stat.gov.pl/imap/"
+        },
+        {
           "name": "Usługa lokalizacji działek katastralnych",
           "type": "url",
           "url": "http://uldk.dzialkikatastralne.pl/"
@@ -321,6 +326,11 @@
               "name": "Baza danych o więźniach obozu Auschwitz-Birkenau",
               "type": "url",
               "url": "http://www.auschwitz.org/muzeum/informacja-o-wiezniach/"
+            },
+            {
+              "name": "Baza Systemu Indeksacji Archiwalnej",
+              "type": "url",
+              "url": "http://www.basia.famula.pl/"
             },
             {
               "name": "GENPOL (R)",
@@ -535,7 +545,7 @@
               "url": "https://listabieglych.pl/"
             },
             {
-              "name": "Lista Osób Posiadających Licencję Doradcy Restrukturazycjnego",
+              "name": "Lista Osób Posiadających Licencję Doradcy Restrukturazycyjnego",
               "type": "url",
               "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-osob-posiadajacych-licencje-doradcy-restrukturyzacyjnego/"
             },
@@ -800,6 +810,11 @@
               "name": "Opracodawcach.pl",
               "type": "url",
               "url": "http://www.opracodawcach.pl/"
+            },
+            {
+              "name": "Panorama Firm",
+              "type": "url",
+              "url": "https://panoramafirm.pl/"
             }
           ],
           "name": "Opinie",
@@ -955,6 +970,11 @@
               "name": "Archiwum raportów społecznych - Kantar Public",
               "type": "url",
               "url": "http://www.tnsglobal.pl/archiwumraportow/"
+            },
+            {
+              "name": "Bank Danych Lokalnych - Główny Urząd Statystyczny",
+              "type": "url",
+              "url": "https://bdl.stat.gov.pl/BDL/start"
             },
             {
               "name": "Baza Demografia - Główny Urząd Statystyczny",
@@ -1134,7 +1154,7 @@
         {
           "children": [
             {
-              "name": "Elektoniczny Słownik Języka Polskiego XVII i XVIII wieku",
+              "name": "Elektroniczny Słownik Języka Polskiego XVII i XVIII wieku",
               "type": "url",
               "url": "https://sxvii.pl/"
             },
@@ -1398,6 +1418,11 @@
               "url": "https://www.autobaza.pl/"
             },
             {
+              "name": "CEPiK API",
+              "type": "url",
+              "url": "https://api.cepik.gov.pl/doc"
+            },
+            {
               "name": "Centralna Ewidencja Pojazdów - Bezpieczny Autobus",
               "type": "url",
               "url": "https://bezpiecznyautobus.gov.pl/"
@@ -1406,11 +1431,6 @@
               "name": "Centralna Ewidencja Pojazdów - Historia Pojazdu",
               "type": "url",
               "url": "https://historiapojazdu.gov.pl/"
-            },
-            {
-              "name": "CEPiK API",
-              "type": "url",
-              "url": "https://api.cepik.gov.pl/doc"
             },
             {
               "name": "Dworce kolejowe w Polsce",
@@ -1444,7 +1464,7 @@
         {
           "children": [
             {
-              "children":[
+              "children": [
                 {
                   "name": "EPKT Spotters",
                   "type": "url",
@@ -1462,7 +1482,7 @@
                 }
               ],
               "name": "Spotting",
-              "type":"folder"
+              "type": "folder"
             },
             {
               "name": "Archiwum Publikacji ULC",
@@ -1496,6 +1516,17 @@
         }
       ],
       "name": "Transport",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Aktywne Strony TOR",
+          "type": "url",
+          "url": "https://itcontent.eu/aktywne-strony-tor/"
+        }
+      ],
+      "name": "Dark Web",
       "type": "folder"
     },
     {
@@ -1748,6 +1779,11 @@
               "url": "http://sdr.sp5kab.pl/openwebrx-1/"
             },
             {
+              "name": "Zawiercie",
+              "type": "url",
+              "url": "http://websdr.mateusz.pro/"
+            },
+            {
               "name": "Zielona Góra",
               "type": "url",
               "url": "http://websdr.sp3pgx.uz.zgora.pl:8901/"
@@ -1755,6 +1791,11 @@
           ],
           "name": "WebSDR",
           "type": "folder"
+        },
+        {
+          "name": "czestotliwosci.pl.tl",
+          "type": "url",
+          "url": "https://czestotliwosci.pl.tl/"
         },
         {
           "name": "przemienniki.net",
