@@ -1183,6 +1183,11 @@
               "name": "slangu.pl",
               "type": "url",
               "url": "https://www.slangu.pl/"
+            },
+            {
+              "name": "Wikisłownik - Slangi",
+              "type": "url",
+              "url": "https://pl.wiktionary.org/wiki/Kategoria:Polski_(slangi)"
             }
           ],
           "name": "Slang",
