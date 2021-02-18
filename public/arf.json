@@ -677,6 +677,11 @@
     {
       "children": [
         {
+          "name": "Albicla (R)(M)",
+          "type": "url",
+          "url": "https://albicla.com/nazwa_użytkownika"
+        },
+        {
           "name": "Allegro (M)",
           "type": "url",
           "url": "https://allegro.pl/uzytkownik/nazwa_użytkownika"
@@ -707,17 +712,27 @@
           "url": "https://www.photoblog.pl/nazwa_użytkownika"
         },
         {
+          "name": "Polfejs (M)",
+          "type": "url",
+          "url": "https://polfejs.net/nazwa_użytkownika"
+        },
+        {
           "name": "QUEER (M)",
           "type": "url",
           "url": "https://queer.pl/user/nazwa_użytkownika"
         },
         {
-          "name": "Ultras Diary",
+          "name": "Ultras Diary (M)",
           "type": "url",
           "url": "http://ultrasdiary.pl/u/nazwa_użytkownika/"
         },
         {
-          "name": "Wykop (R)",
+          "name": "Wolni Słowianie (M)",
+          "type": "url",
+          "url": "https://wolnislowianie.pl/nazwa_użytkownika"
+        },
+        {
+          "name": "Wykop (R)(M)",
           "type": "url",
           "url": "https://www.wykop.pl/ludzie/nazwa_użytkownika"
         }
@@ -727,6 +742,11 @@
     },
     {
       "children": [
+        {
+          "name": "Albicla (R)",
+          "type": "url",
+          "url": "https://albicla.com/"
+        },
         {
           "name": "Fotka (R)",
           "type": "url",
@@ -753,9 +773,19 @@
           "url": "https://www.photoblog.pl/"
         },
         {
+          "name": "Polfejs (R)",
+          "type": "url",
+          "url": "https://polfejs.net/"
+        },
+        {
           "name": "QUEER",
           "type": "url",
           "url": "https://queer.pl/users"
+        },
+        {
+          "name": "Wolni Słowianie (R)",
+          "type": "url",
+          "url": "https://wolnislowianie.pl/"
         },
         {
           "name": "Wykop (R)",
@@ -1230,6 +1260,11 @@
           "url": "https://rejestrymedyczne.ezdrowie.gov.pl/main"
         },
         {
+          "name": "Rejestr Wniosków, Decyzji i Zgłoszeń w sprawach budowlanych",
+          "type": "url",
+          "url": "http://wyszukiwarka.gunb.gov.pl/"
+        },
+        {
           "name": "Urząd Patentowy Rzeczypospolitej Polskiej",
           "type": "url",
           "url": "https://ewyszukiwarka.pue.uprp.gov.pl/"
@@ -1418,6 +1453,42 @@
               "type": "folder"
             },
             {
+              "children":[
+                {
+                  "name": "Indywidualni Na Drodze",
+                  "type": "url",
+                  "url": "http://indywidualninadrodze.pl/"
+                },
+                {
+                  "name": "PlatesMania.com",
+                  "type": "url",
+                  "url": "https://platesmania.com/"
+                },
+                {
+                  "name": "Polskie Tablice Rejestracyjne",
+                  "type": "url",
+                  "url": "http://wptr.pl/"
+                },
+                {
+                  "name": "Rejestr Piratów Drogowych",
+                  "type": "url",
+                  "url": "http://piraci-drogowi.pl/"
+                },
+                {
+                  "name": "tablica-rejestracyjna.pl",
+                  "type": "url",
+                  "url": "https://tablica-rejestracyjna.pl/"
+                },
+                {
+                  "name": "Tablice Rejestracyjne PL",
+                  "type": "url",
+                  "url": "http://tablicerejestracyjne.pl/"
+                }
+              ],
+              "name": "Tablice Rejestracyjne",
+              "type": "folder"
+            },
+            {
               "name": "autobaza.pl",
               "type": "url",
               "url": "https://www.autobaza.pl/"
@@ -1443,19 +1514,9 @@
               "url": "https://bezpieczenstwo.maps.arcgis.com/apps/webappviewer/index.html?id=5c5e66342b7d4aa99519fce06868eecc"
             },
             {
-              "name": "Polskie Tablice Rejestracyjne",
-              "type": "url",
-              "url": "http://wptr.pl/"
-            },
-            {
               "name": "Raporty Państwowej Komisji Badania Wypadków Kolejowych",
               "type": "url",
               "url": "https://www.gov.pl/web/mswia/raporty"
-            },
-            {
-              "name": "tablica-rejestracyjna.pl",
-              "type": "url",
-              "url": "https://tablica-rejestracyjna.pl/"
             },
             {
               "name": "Ubezpieczeniowy Fundusz Gwarancyjny",
@@ -1514,6 +1575,11 @@
               "name": "Raporty Państwowej Komisji Badania Wypadków Morskich",
               "type": "url",
               "url": "https://pkbwl.gov.pl/index.php/raporty"
+            },
+            {
+              "name": "Shipspotting",
+              "type": "url",
+              "url": "https://shipspotting.pl"
             }
           ],
           "name": "Morski",
