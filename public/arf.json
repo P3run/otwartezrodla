@@ -54,6 +54,11 @@
           ],
           "name": "WHOIS",
           "type": "folder"
+        },
+        {
+          "name": "Sarenka (N)",
+          "type": "url",
+          "url": "https://github.com/pawlaczyk/sarenka"
         }
       ],
       "name": "Domeny",
@@ -535,25 +540,220 @@
               "type": "folder"
             },
             {
-              "name": "Lista Tłumaczy Przysięgłych",
-              "type": "url",
-              "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html"
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "name": "Białystok",
+                          "type": "url",
+                          "url": "https://archibial.pl/duchowienstwo/"
+                        },
+                        {
+                          "name": "Bielsko-Biała",
+                          "type": "url",
+                          "url": "https://diecezja.bielsko.pl/ksieza/"
+                        },
+                        {
+                          "name": "Bydgoszcz",
+                          "type": "url",
+                          "url": "http://diecezja.bydgoszcz.pl/duchowienstwo/ksieza-alfabetycznie/"
+                        },
+                        {
+                          "name": "Częstochowa",
+                          "type": "url",
+                          "url": "https://archiczest.pl/kaplani,17/"
+                        },
+                        {
+                          "name": "Drohiczyn",
+                          "type": "url",
+                          "url": "https://drohiczynska.pl/personalia/"
+                        },
+                        {
+                          "name": "Gdańsk",
+                          "type": "url",
+                          "url": "https://www.diecezja.gda.pl/ksieza"
+                        },
+                        {
+                          "name": "Gniezno",
+                          "type": "url",
+                          "url": "https://archidiecezja.pl/duchowienstwo/"
+                        },
+                        {
+                          "name": "Kalisz",
+                          "type": "url",
+                          "url": "https://diecezja.kalisz.pl/ksieza"
+                        },
+                        {
+                          "name": "Kielce",
+                          "type": "url",
+                          "url": "https://www.diecezja.kielce.pl/duchowienstwo/ksieza-alfabetycznie"
+                        },
+                        {
+                          "name": "Koszalin",
+                          "type": "url",
+                          "url": "http://www.diecezjakoszalin.pl/kaplan"
+                        },
+                        {
+                          "name": "Kraków",
+                          "type": "url",
+                          "url": "https://diecezja.pl/kaplani/"
+                        },
+                        {
+                          "name": "Legnica",
+                          "type": "url",
+                          "url": "http://diecezja.legnica.pl/spis-ksiezy-diecezjalnych/"
+                        },
+                        {
+                          "name": "Lublin",
+                          "type": "url",
+                          "url": "https://archidiecezjalubelska.pl/kaplani/"
+                        },
+                        {
+                          "name": "Łowicz",
+                          "type": "url",
+                          "url": "https://diecezja.lowicz.pl/ksieza/"
+                        },
+                        {
+                          "name": "Opole",
+                          "type": "url",
+                          "url": "https://www.diecezja.opole.pl/index.php/parafie-i-kaplani/alfabetycznie"
+                        },
+                        {
+                          "name": "Pelplin",
+                          "type": "url",
+                          "url": "https://www.diecezja-pelplin.pl/kaplani/spis-kaplanow"
+                        },
+                        {
+                          "name": "Płock",
+                          "type": "url",
+                          "url": "https://www.diecezjaplocka.pl/dla-wiernych/wyszukiwarka/?no-search=true&tab=ksieza"
+                        },
+                        {
+                          "name": "Poznań",
+                          "type": "url",
+                          "url": "http://archpoznan.pl/pl/web/ksiadz/index"
+                        },
+                        {
+                          "name": "Radom",
+                          "type": "url",
+                          "url": "https://diecezja.radom.pl/duchowienstwo-diecezji-radomskiej/"
+                        },
+                        {
+                          "name": "Rzeszów",
+                          "type": "url",
+                          "url": "https://diecezja.rzeszow.pl/kaplani-diecezji-rzeszowskiej/"
+                        },
+                        {
+                          "name": "Sandomierz",
+                          "type": "url",
+                          "url": "https://diecezjasandomierska.pl/kaplani-diecezji-sandomierskiej/"
+                        },
+                        {
+                          "name": "Siedlce",
+                          "type": "url",
+                          "url": "https://diecezja.siedlce.pl/diecezja/ksieza/indeks-osob/"
+                        },
+                        {
+                          "name": "Szczecin",
+                          "type": "url",
+                          "url": "https://kuria.pl/wspolnoty/duszpasterze/"
+                        },
+                        {
+                          "name": "Świdnica",
+                          "type": "url",
+                          "url": "https://www.diecezja.swidnica.pl/duchowienstwo/duchowienstwo.html"
+                        },
+                        {
+                          "name": "Toruń",
+                          "type": "url",
+                          "url": "https://diecezja-torun.pl/diecezja/kaplani"
+                        },
+                        {
+                          "name": "Warszawa",
+                          "type": "url",
+                          "url": "https://archwwa.pl/personalia-w-archidiecezji/"
+                        },
+                        {
+                          "name": "Warszawsko-Praska",
+                          "type": "url",
+                          "url": "https://diecezja.waw.pl/pasterze"
+                        },
+                        {
+                          "name": "Włocławek",
+                          "type": "url",
+                          "url": "https://www.diecezja.wloclawek.pl/pl,ksieza.html"
+                        },
+                        {
+                          "name": "Warmia",
+                          "type": "url",
+                          "url": "https://archwarmia.pl/archidiecezja/duchowienstwo/"
+                        },
+                        {
+                          "name": "Wrocław",
+                          "type": "url",
+                          "url": "https://www.archidiecezja.wroc.pl/ksieza_alf.php"
+                        },
+                        {
+                          "name": "Zamość",
+                          "type": "url",
+                          "url": "https://diecezja.zamojskolubaczowska.pl/duchowienstwo"
+                        },
+                        {
+                          "name": "Zielona Góra",
+                          "type": "url",
+                          "url": "https://diecezjazg.pl/dekanaty/"
+                        }
+                      ],
+                      "name": "Diecezje",
+                      "type": "folder"
+                    },
+                    {
+                      "name": "Ogólny wykaz księży",
+                      "type": "url",
+                      "url": "https://www.rodzinakulik.eu/ogolny_wykaz_ksiezy/ogolny_wykaz_ksiezy_1_cz_1_a_j.pdf"
+                    },
+                    {
+                      "name": "Wielkopolscy Księża",
+                      "type": "url",
+                      "url": "http://www.wtg-gniazdo.org/ksieza/main.php?akcja=szukaj"
+                    }
+                  ],
+                  "name": "Kościół Katolicki",
+                  "type": "folder"
+                }
+              ],
+              "name": "Duchowieństwo",
+              "type": "folder"
             },
             {
-              "name": "Ogólnopolska Lista Biegłych Sądowych i Tłumaczy Przysięgłych",
-              "type": "url",
-              "url": "https://listabieglych.pl/"
-            },
-            {
-              "name": "Lista Osób Posiadających Licencję Doradcy Restrukturazycyjnego",
-              "type": "url",
-              "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-osob-posiadajacych-licencje-doradcy-restrukturyzacyjnego/"
-            },
-            {
-              "name": "Rejestr przedsiębiorców wykonujących działalność regulowaną w zakresie usług detektywistycznych",
-              "type": "url",
-              "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych3"
+              "children":[
+                {
+                  "name": "Lista Tłumaczy Przysięgłych",
+                  "type": "url",
+                  "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html"
+                },
+                {
+                  "name": "Ogólnopolska Lista Biegłych Sądowych i Tłumaczy Przysięgłych",
+                  "type": "url",
+                  "url": "https://listabieglych.pl/"
+                },
+                {
+                  "name": "Lista Osób Posiadających Licencję Doradcy Restrukturazycyjnego",
+                  "type": "url",
+                  "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-osob-posiadajacych-licencje-doradcy-restrukturyzacyjnego/"
+                },
+                {
+                  "name": "Rejestr przedsiębiorców wykonujących działalność regulowaną w zakresie usług detektywistycznych",
+                  "type": "url",
+                  "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych3"
+                }
+              ],
+              "name": "Pozostałe",
+              "type": "folder"
             }
+
           ],
           "name": "Rejestry Zawodowe",
           "type": "folder"
@@ -697,6 +897,11 @@
           "url": "https://www.fotosik.pl/u/nazwa_użytkownika"
         },
         {
+          "name": "hejto (M)",
+          "type": "url",
+          "url": "https://www.hejto.pl/uzytkownik/nazwa_użytkownika"
+        },
+        {
           "name": "Maxmodels (M)",
           "type": "url",
           "url": "https://nazwa_użytkownika.maxmodels.pl/"
@@ -756,6 +961,11 @@
           "name": "Goldenline (R)",
           "type": "url",
           "url": "https://www.goldenline.pl/"
+        },
+        {
+          "name": "hejto",
+          "type": "url",
+          "url": "https://www.hejto.pl/"
         },
         {
           "name": "Maxmodels",
@@ -1453,7 +1663,7 @@
               "type": "folder"
             },
             {
-              "children":[
+              "children": [
                 {
                   "name": "Indywidualni Na Drodze",
                   "type": "url",
@@ -1487,6 +1697,11 @@
               ],
               "name": "Tablice Rejestracyjne",
               "type": "folder"
+            },
+            {
+              "name": "autoanalizy.pl",
+              "type": "url",
+              "url": "https://autoanalizy.pl/"
             },
             {
               "name": "autobaza.pl",
