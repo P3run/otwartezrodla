@@ -402,6 +402,11 @@
                   "url": "https://crf.ezdrowie.gov.pl/Search"
                 },
                 {
+                  "name": "Centralny Rejestr Lekarzy",
+                  "type": "url",
+                  "url": "https://rejestr.nil.org.pl/xml/nil/rejlek/hurtd"
+                },
+                {
                   "name": "Krajowy Rejestr Fizjoterapeutów",
                   "type": "url",
                   "url": "https://kif.info.pl/rejestr/"
