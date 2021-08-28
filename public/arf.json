@@ -26,11 +26,6 @@
         {
           "children": [
             {
-              "name": "KGH.pl (M)",
-              "type": "url",
-              "url": "http://kgh.pl/<identyfikator>+"
-            },
-            {
               "name": "Tiny.pl",
               "type": "url",
               "url": "https://tiny.pl/"
@@ -188,7 +183,7 @@
             {
               "name": "Opolskie",
               "type": "url",
-              "url": "http://maps.opolskie.pl/start/"
+              "url": "http://maps.opolskie.pl/"
             },
             {
               "name": "Podkarpackie",
@@ -247,7 +242,7 @@
         {
           "name": "Usługa lokalizacji adresów",
           "type": "url",
-          "url": "http://ula.punktyadresowe.pl/"
+          "url": "https://punktyadresowe.pl/index.php?strona=usluga"
         },
         {
           "name": "Dane adresowe gmin",
@@ -312,12 +307,17 @@
         {
           "name": "Sytuacja Radiacyjna - Państwowa Agencja Atomistyki",
           "type": "url",
-          "url": "https://paa.gov.pl/strona-455-sytuacja_radiacyjna.html"
+          "url": "https://www.gov.pl/web/paa/sytuacja-radiacyjna"
         },
         {
           "name": "Mapa Turystyczna",
           "type": "url",
           "url": "https://mapa-turystyczna.pl/"
+        },
+        {
+          "name": "Mapa Informacji Drogowej",
+          "type": "url",
+          "url": "https://drogi.gddkia.gov.pl/mapy/mapa-informacji-drogowej"
         }
       ],
       "name": "Mapy / Usługi Lokalizacyjne",
@@ -446,11 +446,6 @@
                 {
                   "children": [
                     {
-                      "name": "Konfederacja",
-                      "type": "url",
-                      "url": "https://konfederacja.net/#koordynatorzy"
-                    },
-                    {
                       "name": "Kukiz15",
                       "type": "url",
                       "url": "http://kukiz15.org/zespol"
@@ -473,7 +468,7 @@
                     {
                       "name": "Porozumienie",
                       "type": "url",
-                      "url": "https://pjg.org.pl/zarzad_krajowy/"
+                      "url": "https://pjg.org.pl/zarzad-krajowy/"
                     },
                     {
                       "name": "Prawo i Sprawiedliwość",
@@ -494,11 +489,6 @@
                       "name": "Solidarna Polska",
                       "type": "url",
                       "url": "https://solidarna.org/partia/"
-                    },
-                    {
-                      "name": "Wiosna",
-                      "type": "url",
-                      "url": "https://wiosnabiedronia.pl/zespol"
                     },
                     {
                       "name": "Zieloni",
@@ -752,7 +742,7 @@
                 {
                   "name": "Rejestr przedsiębiorców wykonujących działalność regulowaną w zakresie usług detektywistycznych",
                   "type": "url",
-                  "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych3"
+                  "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych4"
                 }
               ],
               "name": "Pozostałe",
@@ -922,11 +912,6 @@
           "url": "https://www.photoblog.pl/nazwa_użytkownika"
         },
         {
-          "name": "Polfejs (M)",
-          "type": "url",
-          "url": "https://polfejs.net/nazwa_użytkownika"
-        },
-        {
           "name": "QUEER (M)",
           "type": "url",
           "url": "https://queer.pl/user/nazwa_użytkownika"
@@ -978,19 +963,9 @@
           "url": "https://www.maxmodels.pl/"
         },
         {
-          "name": "NK (R)",
-          "type": "url",
-          "url": "https://nk.pl/"
-        },
-        {
           "name": "PhotoBlog",
           "type": "url",
           "url": "https://www.photoblog.pl/"
-        },
-        {
-          "name": "Polfejs (R)",
-          "type": "url",
-          "url": "https://polfejs.net/"
         },
         {
           "name": "QUEER",
@@ -1170,12 +1145,17 @@
               "url": "https://mapadotacji.gov.pl/"
             },
             {
+              "name": "Portal Rejestrów Sądowych",
+              "type": "url",
+              "url": "https://prs.ms.gov.pl/"
+            },
+            {
               "name": "Przeglądarka dokumentów finansowych KRS",
               "type": "url",
               "url": "https://ekrs.ms.gov.pl/rdf/pd/search_df"
             },
             {
-              "name": "Prześwietl.pl",
+              "name": "Prześwietl.pl (R)",
               "type": "url",
               "url": "https://przeswietl.pl/"
             },
@@ -1210,11 +1190,6 @@
               "name": "Antykorupcja - Analizy i Raporty",
               "type": "url",
               "url": "https://www.antykorupcja.gov.pl/ak/analizy-i-raporty/"
-            },
-            {
-              "name": "Archiwum raportów społecznych - Kantar Public",
-              "type": "url",
-              "url": "http://www.tnsglobal.pl/archiwumraportow/"
             },
             {
               "name": "Bank Danych Lokalnych - Główny Urząd Statystyczny",
@@ -1374,11 +1349,6 @@
           "name": "Repozytorium Cyfrowe Instytutów Naukowych",
           "type": "url",
           "url": "https://rcin.org.pl"
-        },
-        {
-          "name": "szukajwarchiwach.pl",
-          "type": "url",
-          "url": "https://www.szukajwarchiwach.pl/"
         },
         {
           "name": "szukajwarchiwach.gov.pl",
@@ -1794,7 +1764,7 @@
             {
               "name": "Raporty Państwowej Komisji Badania Wypadków Morskich",
               "type": "url",
-              "url": "https://pkbwl.gov.pl/index.php/raporty"
+              "url": "https://pkbwm.gov.pl/raporty/raporty/"
             },
             {
               "name": "Shipspotting",
@@ -1829,7 +1799,7 @@
                 {
                   "name": "Chomikuj.pl",
                   "type": "url",
-                  "url": "https://pastebin.pl/"
+                  "url": "https://chomikuj.pl/"
                 },
                 {
                   "name": "Docer Polska",
@@ -1863,19 +1833,9 @@
               "url": "https://www.gawex.pl/kamery"
             },
             {
-              "name": "GDDKiA - Mapa Kamer Monitorujących",
-              "type": "url",
-              "url": "https://www.gddkia.gov.pl/pl/22/mapa-kamer-monitorujacych"
-            },
-            {
               "name": "Kamery.edu.pl",
               "type": "url",
               "url": "https://kamery.edu.pl/"
-            },
-            {
-              "name": "Kamery Giżycko",
-              "type": "url",
-              "url": "http://kamery.gizycko.pl"
             },
             {
               "name": "Kamery Rzeszów",
@@ -1891,11 +1851,6 @@
               "name": "lookcam.com",
               "type": "url",
               "url": "https://lookcam.pl/"
-            },
-            {
-              "name": "Multimedialny Kraków",
-              "type": "url",
-              "url": "https://www.krakow.pl/multimedialny_krakow/1306,artykul,ulica_grodzka__z_pl__wszystkich_swietych_.html"
             },
             {
               "name": "TOYA GO",
@@ -2089,9 +2044,19 @@
           "url": "https://czestotliwosci.pl.tl/"
         },
         {
+          "name": "elektronikjk.pl - Częstotliwości radiowe",
+          "type": "url",
+          "url": "http://www.elektronikjk.pl/telekomunikacja/czestotliwosci_radiowe/czestotliwosci_radiowe.html"
+        },
+        {
           "name": "przemienniki.net",
           "type": "url",
           "url": "https://przemienniki.net/"
+        },
+        {
+          "name": "UKE - Wykaz Pozwoleń Radiowych",
+          "type": "url",
+          "url": "https://bip.uke.gov.pl/pozwolenia-radiowe/wykaz-pozwolen-radiowych/"
         }
       ],
       "name": "SIGINT",
