@@ -723,7 +723,7 @@
               "type": "folder"
             },
             {
-              "children":[
+              "children": [
                 {
                   "name": "Lista Tłumaczy Przysięgłych",
                   "type": "url",
@@ -748,7 +748,6 @@
               "name": "Pozostałe",
               "type": "folder"
             }
-
           ],
           "name": "Rejestry Zawodowe",
           "type": "folder"
@@ -1674,6 +1673,22 @@
               "type": "folder"
             },
             {
+              "children": [
+                {
+                  "name": "Autogespot",
+                  "type": "url",
+                  "url": "https://www.autogespot.pl/"
+                },
+                {
+                  "name": "truck-spotters.eu",
+                  "type": "url",
+                  "url": "http://www.truck-spotters.eu"
+                }
+              ],
+              "name": "Spotting",
+              "type": "folder"
+            },
+            {
               "name": "autoanalizy.pl",
               "type": "url",
               "url": "https://autoanalizy.pl/"
@@ -1697,6 +1712,16 @@
               "name": "Centralna Ewidencja Pojazdów - Historia Pojazdu",
               "type": "url",
               "url": "https://historiapojazdu.gov.pl/"
+            },
+            {
+              "name": "datarejestracji.senda.pl",
+              "type": "url",
+              "url": "https://datarejestracji.senda.pl/"
+            },
+            {
+              "name": "Dekoder VIN",
+              "type": "url",
+              "url": "https://pl.vindecoder.pl/"
             },
             {
               "name": "Dworce kolejowe w Polsce",
@@ -1932,9 +1957,14 @@
     {
       "children": [
         {
-          "name": "Nieznany numer",
+          "name": "Dostawca usług (UKE)",
           "type": "url",
-          "url": "https://www.nieznany-numer.pl/"
+          "url": "https://bip.uke.gov.pl/numeracja/dostawca-uslug/"
+        },
+        {
+          "name": "Biuro numerów Play",
+          "type": "url",
+          "url": "https://biuronumerow.play.pl/onlinebook/"
         },
         {
           "name": "Kto dzwonil",
@@ -1957,9 +1987,19 @@
           "url": "http://www.plus.pl/ksiazka-tel-abonentow"
         },
         {
-          "name": "Biuro numerów Play",
+          "name": "Nieznany numer",
           "type": "url",
-          "url": "https://biuronumerow.play.pl/onlinebook/"
+          "url": "https://www.nieznany-numer.pl/"
+        },
+        {
+          "name": "Rejestr Premium (UKE)",
+          "type": "url",
+          "url": "https://bip.uke.gov.pl/wyszukiwarka-rejestr-premium"
+        },
+        {
+          "name": "Tablice Zagospodarowania Numeracji (UKE)",
+          "type": "url",
+          "url": "https://numeracja.uke.gov.pl/"
         }
       ],
       "name": "Numery Telefonów/Książki Telefoniczne",
