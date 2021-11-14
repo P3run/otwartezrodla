@@ -2134,6 +2134,69 @@
       ],
       "name": "OpSec",
       "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "name": "counterintelligence.pl",
+              "type": "url",
+              "url": "https://counterintelligence.pl/"
+            },
+            {
+              "name": "OSINT Quest",
+              "type": "url",
+              "url": "https://osintquest.pl/"
+            },
+            {
+              "name": "Rynek Informacji",
+              "type": "url",
+              "url": "https://rynekinformacji.pl/"
+            },
+            {
+              "name": "Sekurak - OSINT Hints",
+              "type": "url",
+              "url": "https://sekurak.pl/tag/osint/"
+            },
+            {
+              "name": "Sztuka Szukania",
+              "type": "url",
+              "url": "https://www.sztukaszukania.pl/blog/"
+            }
+          ],
+          "name": "Blogi",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Dark Lord vs Sigma Guard - A. Haertle, P. Maziarz",
+              "type": "url",
+              "url": "https://youtu.be/b9UofNNjIuk"
+            },
+            {
+              "name": "Jeden obraz tysiąc słów... - P. Feruś",
+              "type": "url",
+              "url": "https://youtu.be/LQb1oFfdM3g"
+            },
+            {
+              "name": "OSINT - biały wywiad - P. Konieczny",
+              "type": "url",
+              "url": "https://youtu.be/JHSHUXlkeTg"
+            },
+            {
+              "name": "OSINT – jakie informacje o sobie można znaleźć w Internecie - K. Szurek",
+              "type": "url",
+              "url": "https://youtu.be/Nk8jQhRFcBg"
+            }
+          ],
+          "name": "Kursy/Prezentacje",
+          "type": "folder"
+        }
+      ],
+      "name": "Baza Wiedzy",
+      "type": "folder"
     }
   ],
   "name": "Źródła",
