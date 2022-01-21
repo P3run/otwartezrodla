@@ -3,7 +3,7 @@
     {
       "children": [
         {
-          "name": "MailCat",
+          "name": "MailCat (N)",
           "type": "url",
           "url": "https://github.com/sharsil/mailcat"
         }
