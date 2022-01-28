@@ -1301,6 +1301,11 @@
               "url": "https://rejestr.io/"
             },
             {
+              "name": "Repozytorium Akt Rejestrowych",
+              "type": "url",
+              "url": "https://rar.ms.gov.pl/"
+            },
+            {
               "name": "System Udostępniania Danych o Pomocy Publicznej",
               "type": "url",
               "url": "https://sudop.uokik.gov.pl/home"
