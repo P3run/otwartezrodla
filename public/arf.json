@@ -1266,6 +1266,11 @@
               "url": "https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/index.html"
             },
             {
+              "name": "Krajowy Rejestr Zadłużonych",
+              "type": "url",
+              "url": "https://krz.ms.gov.pl/#!/application/KRZPortalPUB/1.4/KrzPortalPubGui.StronaGlowna?params=JTdCJTdE&seq=0"
+            },
+            {
               "name": "Krajowy Rejestr Elektroniczny Przedsiębiorców Transportu Drogowego",
               "type": "url",
               "url": "https://kreptd.gitd.gov.pl/"
