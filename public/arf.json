@@ -59,12 +59,22 @@
         {
           "children": [
             {
-              "name": "Tiny.pl",
+              "name": "linkd",
               "type": "url",
-              "url": "https://tiny.pl/"
+              "url": "https://linkd.pl/"
+            },
+            {
+              "name": "Tiny.pl (M)",
+              "type": "url",
+              "url": "https://tiny.pl/<identyfikator>!"
             },
             {
               "name": "ujeb.se (M)",
+              "type": "url",
+              "url": "https://ujeb.se/<identyfikator>+"
+            },
+            {
+              "name": "utn.pl (M)",
               "type": "url",
               "url": "https://ujeb.se/<identyfikator>+"
             }
