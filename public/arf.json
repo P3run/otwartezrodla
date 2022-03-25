@@ -1793,6 +1793,11 @@
                   "name": "PKP - Portal Pasażera",
                   "type": "url",
                   "url": "https://portalpasazera.pl/MapaOL"
+                },
+                {
+                  "name": "Czynaczas.pl",
+                  "type": "url",
+                  "url": "https://czynaczas.pl"
                 }
               ],
               "name": "Lokalizacja pojazdów",
