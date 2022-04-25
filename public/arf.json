@@ -303,6 +303,11 @@
           "url": "http://polska.e-mapa.net/"
         },
         {
+          "name": "InfoDziałka (N)",
+          "type": "url",
+          "url": "https://play.google.com/store/apps/details?id=pl.encom.parcel"
+        },
+        {
           "name": "Portal Geostatystyczny",
           "type": "url",
           "url": "https://geo.stat.gov.pl/imap/"
@@ -366,6 +371,11 @@
           "name": "Wyszukiwarka skrzynek pocztowych",
           "type": "url",
           "url": "https://skrzynki.poczta-polska.pl/"
+        },
+        {
+          "name": "Weryfikator Adresów / Konwerter Adresu Uniwersalnego",
+          "type": "url",
+          "url": "https://www.itia.pl/adres/index.php"
         },
         {
           "name": "Mapa sieci elektroenergetycznej",
@@ -1186,6 +1196,32 @@
             {
               "children": [
                 {
+                  "name": "Centralna Ewidencja Organizatorów Turystyki",
+                  "type": "url",
+                  "url": "https://ewidencja.ufg.pl/ewidencja/obywatel/ksiegi"
+                },
+                {
+                  "name": "PoraDoPrzedszkola.pl",
+                  "type": "url",
+                  "url": "https://poradoprzedszkola.pl/"
+                },
+                {
+                  "name": "Rejestr Medyczny",
+                  "type": "url",
+                  "url": "https://rejestrmedyczny.pl/"
+                },
+                {
+                  "name": "Świat Przychodni",
+                  "type": "url",
+                  "url": "https://swiatprzychodni.pl/"
+                }
+              ],
+              "name": "Branżowe",
+              "type": "folder"
+            },
+            {
+              "children": [
+                {
                   "name": "bazar długów",
                   "type": "url",
                   "url": "https://www.bazar-dlugow.pl/"
@@ -1256,19 +1292,24 @@
               "type": "folder"
             },
             {
+              "name": "ALEO.com",
+              "type": "url",
+              "url": "https://aleo.com/"
+            },
+            {
               "name": "Baza Internetowa Regon",
               "type": "url",
               "url": "https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx"
             },
             {
+              "name": "Biała Lista VAT (N)",
+              "type": "url",
+              "url": "https://play.google.com/store/apps/details?id=com.darktower.whitelist"
+            },
+            {
               "name": "CEIDG",
               "type": "url",
               "url": "https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx"
-            },
-            {
-              "name": "Centralna Ewidencja Organizatorów Turystyki",
-              "type": "url",
-              "url": "https://ewidencja.ufg.pl/ewidencja/obywatel/ksiegi"
             },
             {
               "name": "eKRS",
@@ -1606,6 +1647,11 @@
           "url": "https://rejestrymedyczne.ezdrowie.gov.pl/main"
         },
         {
+          "name": "Portal Zbiórek Publicznych",
+          "type": "url",
+          "url": "http://zbiorki.gov.pl/zbiorki/index"
+        },
+        {
           "name": "Rejestr Wniosków, Decyzji i Zgłoszeń w sprawach budowlanych",
           "type": "url",
           "url": "http://wyszukiwarka.gunb.gov.pl/"
@@ -1675,6 +1721,16 @@
           "name": "Rządowy Proces Legislacyjny",
           "type": "url",
           "url": "https://legislacja.rcl.gov.pl/"
+        },
+        {
+          "name": "Wyszukiwarka Orzeczeń TSUE",
+          "type": "url",
+          "url": "https://curia.europa.eu/juris/recherche.jsf?language=pl"
+        },
+        {
+          "name": "Wyszukiwarka Orzeczeń Urzędu Zamówień Publicznych",
+          "type": "url",
+          "url": "https://orzeczenia.uzp.gov.pl/Home/Search"
         },
         {
           "name": "Wyroki dotyczące Decyzji Prezesa UOKiK",
@@ -1798,6 +1854,11 @@
                   "name": "Czynaczas.pl",
                   "type": "url",
                   "url": "https://czynaczas.pl"
+                },
+                {
+                  "name": "Jedzie.pl",
+                  "type": "url",
+                  "url": "https://jedzie.pl/"
                 }
               ],
               "name": "Lokalizacja pojazdów",
@@ -1834,6 +1895,11 @@
                   "name": "Tablice Rejestracyjne PL",
                   "type": "url",
                   "url": "http://tablicerejestracyjne.pl/"
+                },
+                {
+                  "name": "Wyszukiwarka numerów rejestracyjnych",
+                  "type": "url",
+                  "url": "http://rejestracje.website.media.pl/"
                 }
               ],
               "name": "Tablice Rejestracyjne",
@@ -1938,6 +2004,11 @@
                   "name": "eSky",
                   "type": "url",
                   "url": "https://www.esky.pl/radar"
+                },
+                {
+                  "name": "Lotniska i lądowiska (dlapilota.pl)",
+                  "type": "url",
+                  "url": "https://lotniska.dlapilota.pl/"
                 }
               ],
               "name": "Lokalizacja",
@@ -1947,6 +2018,11 @@
               "name": "Archiwum Publikacji ULC",
               "type": "url",
               "url": "https://ulc.gov.pl/pl/publikacje/publikacje"
+            },
+            {
+              "name": "bezpieczenstwo.dlapilota.pl",
+              "type": "url",
+              "url": "https://bezpieczenstwo.dlapilota.pl/"
             },
             {
               "name": "Raporty Państwowej Komisji Badania Wypadków Lotniczych",
