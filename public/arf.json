@@ -381,6 +381,11 @@
           "name": "Mapa sieci elektroenergetycznej",
           "type": "url",
           "url": "https://ebin.josm.pl/electricity/"
+        },
+        {
+          "name": "Mapa przejść i obiektów Straży Granicznej",
+          "type": "url",
+          "url": "https://strazgraniczna.pl/pl/mapa-przejsc-i-obiektow/1,dok.html"
         }
       ],
       "name": "Mapy / Usługi Lokalizacyjne",
@@ -798,7 +803,7 @@
                   "url": "https://listabieglych.pl/"
                 },
                 {
-                  "name": "Lista Osób Posiadających Licencję Doradcy Restrukturazycyjnego",
+                  "name": "Lista Osób Posiadających Licencję Doradcy Restrukturyzacyjnego",
                   "type": "url",
                   "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-osob-posiadajacych-licencje-doradcy-restrukturyzacyjnego/"
                 },
@@ -1518,6 +1523,16 @@
               "url": "http://energy.instrat.pl/"
             },
             {
+              "name": "GPI - dane rynku energii elektrycznej",
+              "type": "url",
+              "url": "https://gpi.tge.pl/web/gpi"
+            },
+            {
+              "name": "Polskie Sieci Elektroenergetyczne - KSE",
+              "type": "url",
+              "url": "https://www.pse.pl/dane-systemowe"
+            },
+            {
               "name": "Rejestry i wykazy Urzędu Regulacji Energetyki",
               "type": "url",
               "url": "https://rejestry.ure.gov.pl"
@@ -1608,6 +1623,17 @@
             }
           ],
           "name": "Slang",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Wszystkie Symbole",
+              "type": "url",
+              "url": "https://wszystkiesymbole.pl/"
+            }
+          ],
+          "name": "Symbolika",
           "type": "folder"
         }
       ],
@@ -1762,9 +1788,14 @@
           "name": "Wykaz Uczelni Publicznych",
           "type": "url",
           "url": "https://www.gov.pl/web/nauka/uczelnie-publiczne/"
+        },
+        {
+          "name": "Wyszukiwarka szkół i placówek oświatowych",
+          "type": "url",
+          "url": "https://rspo.gov.pl/"
         }
       ],
-      "name": "Uczelnie",
+      "name": "Uczelnie / Szkoły",
       "type": "folder"
     },
     {
@@ -2256,6 +2287,11 @@
           "url": "https://www.nieznany-numer.pl/"
         },
         {
+          "name": "pkt",
+          "type": "url",
+          "url": "https://www.pkt.pl/"
+        },
+        {
           "name": "Rejestr Premium (UKE)",
           "type": "url",
           "url": "https://bip.uke.gov.pl/wyszukiwarka-rejestr-premium"
@@ -2266,7 +2302,7 @@
           "url": "https://numeracja.uke.gov.pl/"
         }
       ],
-      "name": "Numery Telefonów/Książki Telefoniczne",
+      "name": "Numery Telefonów / Książki Telefoniczne",
       "type": "folder"
     },
     {
@@ -2361,6 +2397,11 @@
           "name": "przemienniki.net",
           "type": "url",
           "url": "https://przemienniki.net/"
+        },
+        {
+          "name": "SP6KXY Radiosonde Tracker",
+          "type": "url",
+          "url": "https://radiosondy.info/"
         },
         {
           "name": "UKE - Wykaz Pozwoleń Radiowych",
