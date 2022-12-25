@@ -5,6 +5,12 @@ body {
   margin: 0;
 }
 
+#lang {
+  margin-left: 30px;
+  margin-top: 10px;
+  font-size: 12px;
+}
+
 h3 {
   font-weight: bold;
 }
@@ -16,7 +22,7 @@ a {
 #header {
   border-style: dashed;
   border-width: 5px;
-  margin: 30px;
+  margin: 10px 30px 30px 30px;
 }
 
 #logo {
