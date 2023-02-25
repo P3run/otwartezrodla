@@ -130,6 +130,16 @@
               "name": "retromapy.pl",
               "type": "url",
               "url": "https://retromapy.pl/"
+            },
+            {
+              "name": "Fortyfikacje XX wieku na terenie Polski",
+              "type": "url",
+              "url": "http://www.fortyfikacja.pl/?a=mapa"
+            },
+            {
+              "name": "Fortyfikacje w Polsce",
+              "type": "url",
+              "url": "http://www.fortress.hg.pl/pliki_htm/baza_mapa.htm"
             }
           ],
           "name": "Historical",
@@ -184,6 +194,27 @@
             }
           ],
           "name": "Municipal Spatial Information Systems",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Awiacja IMGW",
+              "type": "url",
+              "url": "https://awiacja.imgw.pl/mapy-radarowe/"
+            },
+            {
+              "name": "Radar Opadów",
+              "type": "url",
+              "url": "https://old.radar-opadow.pl/"
+            },
+            {
+              "name": "Serwis Map Meteorologicznych IMGW",
+              "type": "url",
+              "url": "https://meteo.imgw.pl/dyn/"
+            }
+          ],
+          "name": "Meteorological",
           "type": "folder"
         },
         {
@@ -273,6 +304,37 @@
           "type": "folder"
         },
         {
+          "children": [
+            {
+              "name": "BTSearch",
+              "type": "url",
+              "url": "http://beta.btsearch.pl/"
+            },
+            {
+              "name": "Mapa BTS - SocWare",
+              "type": "url",
+              "url": "https://bts.socware.pl/"
+            },
+            {
+              "name": "Mapa nadajników radiowych",
+              "type": "url",
+              "url": "https://nadajniki.yasiu.pl"
+            },
+            {
+              "name": "Mapa nadajników radiowych - SocWare",
+              "type": "url",
+              "url": "https://nadajniki.socware.pl/"
+            },
+            {
+              "name": "Wyszukiwarka UKE",
+              "type": "url",
+              "url": "https://wyszukiwarka.uke.gov.pl/"
+            }
+          ],
+          "name": "Telecommunication",
+          "type": "folder"
+        },
+        {
           "name": "Ukośne",
           "type": "url",
           "url": "https://www.ukosne.pl/"
@@ -348,11 +410,6 @@
           "url": "https://www.ulc.gov.pl/pl/zegluga-powietrzna/mapy-on-line"
         },
         {
-          "name": "Mapa nadajników radiowych",
-          "type": "url",
-          "url": "https://nadajniki.socware.pl/"
-        },
-        {
           "name": "Sytuacja Radiacyjna - Państwowa Agencja Atomistyki",
           "type": "url",
           "url": "https://www.gov.pl/web/paa/sytuacja-radiacyjna"
@@ -386,6 +443,16 @@
           "name": "Mapa przejść i obiektów Straży Granicznej",
           "type": "url",
           "url": "https://strazgraniczna.pl/pl/mapa-przejsc-i-obiektow/1,dok.html"
+        },
+        {
+          "name": "Orlen - Mapa stacji",
+          "type": "url",
+          "url": "https://www.orlen.pl/pl/dla-ciebie/stacje"
+        },
+        {
+          "name": "Autokatalog - Stacje paliw",
+          "type": "url",
+          "url": "https://autokatalog.pl/stacje-paliw"
         }
       ],
       "name": "Maps / Geolocation Tools",
@@ -455,6 +522,11 @@
               "name": "Rozkład występowania nazwisk w powiatach",
               "type": "url",
               "url": "http://nlp.actaforte.pl:8080/Nomina/Ndistr"
+            },
+            {
+              "name": "Otwarte Dane - Lista imion występujących w rejestrze PESEL",
+              "type": "url",
+              "url": "https://dane.gov.pl/pl/dataset/1667,lista-imion-wystepujacych-w-rejestrze-pesel-osoby-zyjace"
             }
           ],
           "name": "Surnames",
@@ -1043,6 +1115,16 @@
           "url": "https://fotka.com/"
         },
         {
+          "name": "GG",
+          "type": "url",
+          "url": "https://www.gg.pl/gg/pl/search"
+        },
+        {
+          "name": "Katalog GG",
+          "type": "url",
+          "url": "https://katalog.gg-czaty.pl/"
+        },
+        {
           "name": "gloria.tv",
           "type": "url",
           "url": "https://gloria.tv/"
@@ -1061,6 +1143,11 @@
           "name": "karab.in",
           "type": "url",
           "url": "https://karab.in"
+        },
+        {
+          "name": "lurker",
+          "type": "url",
+          "url": "https://lurker.land/"
         },
         {
           "name": "Maxmodels",
@@ -1402,6 +1489,11 @@
               "name": "Baza Demografia - Główny Urząd Statystyczny",
               "type": "url",
               "url": "http://demografia.stat.gov.pl/bazademografia/"
+            },
+            {
+              "name": "Polskie Badania Czytelnictwa",
+              "type": "url",
+              "url": "https://www.pbc.pl/"
             }
           ],
           "name": "Social Research / Statistics",
@@ -1455,6 +1547,11 @@
           ],
           "name": "Subcultures",
           "type": "folder"
+        },
+        {
+          "name": "Rejestr Kościołów i innych związków wyznaniowych",
+          "type": "url",
+          "url": "https://www.gov.pl/web/mswia/rejestr-kosciolow-i-innych-zwiazkow-wyznaniowych"
         }
       ],
       "name": "Society",
@@ -1643,6 +1740,27 @@
     {
       "children": [
         {
+          "children": [
+            {
+              "name": "CBDZOE",
+              "type": "url",
+              "url": "https://www.cbdzoe.pl/bazazwierzat/"
+            },
+            {
+              "name": "INDENTYFIKACJA.pl",
+              "type": "url",
+              "url": "https://www.identyfikacja.pl/"
+            },
+            {
+              "name": "SAFE-ANIMAL",
+              "type": "url",
+              "url": "https://www.safe-animal.eu/pl/szukaj/"
+            }
+          ],
+          "name": "Pet Registry",
+          "type": "folder"
+        },
+        {
           "name": "Bank Danych",
           "type": "url",
           "url": "https://bankdanych.io/"
@@ -1698,7 +1816,7 @@
           "url": "https://rejestr.kwalifikacje.gov.pl"
         }
       ],
-      "name": "Public Registers",
+      "name": "Public Records",
       "type": "folder"
     },
     {
@@ -2115,6 +2233,11 @@
                   "name": "Docer Polska",
                   "type": "url",
                   "url": "https://docer.pl/"
+                },
+                {
+                  "name": "SlidePlayer",
+                  "type": "url",
+                  "url": "http://slideplayer.pl/"
                 }
               ],
               "name": "Storage",
@@ -2473,6 +2596,11 @@
               "name": "Sztuka Szukania",
               "type": "url",
               "url": "https://www.sztukaszukania.pl/blog/"
+            },
+            {
+              "name": "Z Lotu Szpaka",
+              "type": "url",
+              "url": "https://zlotuszpaka.pl/"
             }
           ],
           "name": "Blogs",
@@ -2499,6 +2627,11 @@
               "name": "OSINT – jakie informacje o sobie można znaleźć w Internecie - K. Szurek",
               "type": "url",
               "url": "https://youtu.be/Nk8jQhRFcBg"
+            },
+            {
+              "name": "OSINT OPSEC Dezinformacja - K. Wosiński",
+              "type": "url",
+              "url": "https://www.youtube.com/watch?v=123qZ5fQEGo"
             }
           ],
           "name": "Courses /  Presentations",
