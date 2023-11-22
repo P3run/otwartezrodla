@@ -43,6 +43,11 @@
               "url": "https://www.dns.pl/lista_domen_usunietych"
             },
             {
+              "name": "Lista Ostrzeżeń przed niebezpiecznymi stronami",
+              "type": "url",
+              "url": "https://cert.pl/lista-ostrzezen/"
+            },
+            {
               "name": "Rejestr Domen Służących do Oferowania Gier Hazardowych Niezgodnie z Ustawą",
               "type": "url",
               "url": "https://hazard.mf.gov.pl/"
@@ -1550,6 +1555,32 @@
         }
       ],
       "name": "Społeczeństwo",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Aplikacja SCHRONY",
+          "type": "url",
+          "url": "https://schrony.straz.gov.pl/"
+        },
+        {
+          "name": "Dobowy raport bezpieczeństwa - Lubuskie",
+          "type": "url",
+          "url": "https://www.gov.pl/web/uw-lubuski/dobowy-raport-bezpieczenstwa"
+        },
+        {
+          "name": "Krajowa Mapa Zagrożeń Bezpieczeństwa",
+          "type": "url",
+          "url": "https://mapy.geoportal.gov.pl/iMapLite/KMZBPublic.html"
+        },
+        {
+          "name": "Policyjna mapa zagrożeń przestępstwami na tle seksualnym",
+          "type": "url",
+          "url": "https://policja.maps.arcgis.com/apps/MapJournal/index.html?appid=338ca7cf5e5043778c76b14f696c8eab"
+        }
+      ],
+      "name": "Bezpieczeństwo Publiczne",
       "type": "folder"
     },
     {
