@@ -385,16 +385,6 @@
           "url": "http://uldk.dzialkikatastralne.pl/"
         },
         {
-          "name": "Krajowa Mapa Zagrożeń Bezpieczeństwa",
-          "type": "url",
-          "url": "https://mapy.geoportal.gov.pl/iMapLite/KMZBPublic.html"
-        },
-        {
-          "name": "Policyjna mapa zagrożeń przestępstwami na tle seksualnym",
-          "type": "url",
-          "url": "https://policja.maps.arcgis.com/apps/MapJournal/index.html?appid=338ca7cf5e5043778c76b14f696c8eab"
-        },
-        {
           "name": "Bank Danych o Lasach",
           "type": "url",
           "url": "https://www.bdl.lasy.gov.pl/portal/mapy"
