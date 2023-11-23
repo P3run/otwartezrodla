@@ -400,11 +400,6 @@
           "url": "https://www.ulc.gov.pl/pl/zegluga-powietrzna/mapy-on-line"
         },
         {
-          "name": "Sytuacja Radiacyjna - Państwowa Agencja Atomistyki",
-          "type": "url",
-          "url": "https://www.gov.pl/web/paa/sytuacja-radiacyjna"
-        },
-        {
           "name": "Mapa Turystyczna",
           "type": "url",
           "url": "https://mapa-turystyczna.pl/"
@@ -1568,6 +1563,11 @@
           "name": "Policyjna mapa zagrożeń przestępstwami na tle seksualnym",
           "type": "url",
           "url": "https://policja.maps.arcgis.com/apps/MapJournal/index.html?appid=338ca7cf5e5043778c76b14f696c8eab"
+        },
+        {
+          "name": "Sytuacja Radiacyjna - Państwowa Agencja Atomistyki",
+          "type": "url",
+          "url": "https://monitoring.paa.gov.pl/maps-portal/"
         }
       ],
       "name": "Bezpieczeństwo Publiczne",
