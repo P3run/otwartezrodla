@@ -145,10 +145,41 @@
               "name": "Fortyfikacje w Polsce",
               "type": "url",
               "url": "http://www.fortress.hg.pl/pliki_htm/baza_mapa.htm"
+            },
+            {
+              "name": "Mapa Zabytków",
+              "type": "url",
+              "url": "https://mapy.zabytek.gov.pl/nid/"
             }
           ],
           "name": "Historical",
           "type": "folder"
+        },
+        {
+          "children":[
+            {
+              "name": "Lotniska i lądowiska (dlapilota.pl)",
+              "type": "url",
+              "url": "https://lotniska.dlapilota.pl/"
+            },
+            {
+              "name": "Mapa miejsc gminnych i lądowisk przyszpitalnych",
+              "type": "url",
+              "url": "https://www.lpr.com.pl/pl/mapa-miejsc-gminnych-oraz-ladowisk-przyszpitalnych/"
+            },
+            {
+              "name": "Pansa - mapa polskiej przestrzeni powietrznej AIP",
+              "type": "url",
+              "url": "https://airspace.pansa.pl/"
+            },
+            {
+              "name": "Urząd Lotnictwa Cywilnego - Mapy online",
+              "type": "url",
+              "url": "https://www.ulc.gov.pl/pl/zegluga-powietrzna/mapy-on-line"
+            }
+          ],
+          "name": "Aerial",
+          "type":"folder"
         },
         {
           "children": [
@@ -400,9 +431,9 @@
           "url": "https://bhmw.gov.pl/pl/pages/morskie-mapy-nawigacyjne-2018-09-20-v/"
         },
         {
-          "name": "Urząd Lotnictwa Cywilnego - Mapy online",
+          "name": "System Informacji Przestrzennej Administracji Morskiej",
           "type": "url",
-          "url": "https://www.ulc.gov.pl/pl/zegluga-powietrzna/mapy-on-line"
+          "url": "https://sipam.gov.pl/"
         },
         {
           "name": "Mapa Turystyczna",
@@ -443,6 +474,11 @@
           "name": "Autokatalog - Stacje paliw",
           "type": "url",
           "url": "https://autokatalog.pl/stacje-paliw"
+        },
+        {
+          "name": "Mapa linii kolejowych w Polsce",
+          "type": "url",
+          "url": "https://www.plk-sa.pl/files/public/user_upload/pdf/Reg_przydzielania_tras/Regulamin_2013_2014/12.03.2014/P_13-14_Z_11_w.1.pdf"
         }
       ],
       "name": "Maps / Geolocation Tools",
@@ -1350,9 +1386,19 @@
                   "url": "https://www.przetargi.egospodarka.pl/"
                 },
                 {
+                  "name": "Eurobudowa.pl",
+                  "type": "url",
+                  "url": "https://www.eurobudowa.pl"
+                },
+                {
                   "name": "Internetowe Publikowanie Zamówień Publicznych",
                   "type": "url",
                   "url": "http://przetargi.ipzp.pl/"
+                },
+                {
+                  "name": "platformazakupowa.pl",
+                  "type": "url",
+                  "url": "https://platformazakupowa.pl/"
                 },
                 {
                   "name": "portalzp.pl",
@@ -1368,6 +1414,11 @@
                   "name": "Przetargi.pl",
                   "type": "url",
                   "url": "https://przetargi.pl/"
+                },
+                {
+                  "name": "SMARTPZP",
+                  "type": "url",
+                  "url": "https://portal.smartpzp.pl/"
                 }
               ],
               "name": "Public Tenders",
@@ -1442,6 +1493,11 @@
               "name": "Repozytorium Akt Rejestrowych",
               "type": "url",
               "url": "https://rar.ms.gov.pl/"
+            },
+            {
+              "name": "System Rejestracji Pomocy Publicznej - Ministerstwo Rolnictwa",
+              "type": "url",
+              "url": "https://srpp.minrol.gov.pl/"
             },
             {
               "name": "System Udostępniania Danych o Pomocy Publicznej",
@@ -1863,6 +1919,11 @@
           "url": "https://isap.sejm.gov.pl/"
         },
         {
+          "name": "Lista ostrzeżeń publicznych KNF",
+          "type": "url",
+          "url": "https://www.knf.gov.pl/dla_konsumenta/ostrzezenia_publiczne"
+        },
+        {
           "name": "Orzecznictwo Europejskiego Trybunału Praw Człowieka",
           "type": "url",
           "url": "https://etpcz.ms.gov.pl/searchetpc"
@@ -2083,6 +2144,16 @@
                   "url": "https://www.autogespot.pl/"
                 },
                 {
+                  "name": "fotobus.msk.ru",
+                  "type": "url",
+                  "url": "https://fotobus.msk.ru/city/65/"
+                },
+                {
+                  "name": "phototrans.eu",
+                  "type": "url",
+                  "url": "https://phototrans.eu/"
+                },
+                {
                   "name": "truck-spotters.eu",
                   "type": "url",
                   "url": "http://www.truck-spotters.eu"
@@ -2100,6 +2171,11 @@
               "name": "autobaza.pl",
               "type": "url",
               "url": "https://www.autobaza.pl/"
+            },
+            {
+              "name": "Baza Wagonów Kolejowych",
+              "type": "url",
+              "url": "https://bazawagonow.pl/wagonyy/"
             },
             {
               "name": "CEPiK API",
@@ -2130,6 +2206,21 @@
               "name": "Dworce kolejowe w Polsce",
               "type": "url",
               "url": "https://bezpieczenstwo.maps.arcgis.com/apps/webappviewer/index.html?id=5c5e66342b7d4aa99519fce06868eecc"
+            },
+            {
+              "name": "Ilostan Pojazdów Trakcyjnych",
+              "type": "url",
+              "url": "https://ilostan.forumkolejowe.pl/"
+            },
+            {
+              "name": "Ogólnopolska Baza Kolejowa",
+              "type": "url",
+              "url": "https://www.bazakolejowa.pl/"
+            },
+            {
+              "name": "Prywatna Strona Miłośnika Komunikacji Miejskiej i Szynowej",
+              "type": "url",
+              "url": "https://psmkms.krakow.pl/"
             },
             {
               "name": "Raporty Państwowej Komisji Badania Wypadków Kolejowych",
@@ -2174,11 +2265,6 @@
                   "name": "eSky",
                   "type": "url",
                   "url": "https://www.esky.pl/radar"
-                },
-                {
-                  "name": "Lotniska i lądowiska (dlapilota.pl)",
-                  "type": "url",
-                  "url": "https://lotniska.dlapilota.pl/"
                 }
               ],
               "name": "Localization",
@@ -2198,6 +2284,11 @@
               "name": "Raporty Państwowej Komisji Badania Wypadków Lotniczych",
               "type": "url",
               "url": "https://pkbwl.gov.pl/index.php/raporty"
+            },
+            {
+              "name": "Rejestr lotnisk i ewidencja lądowisk",
+              "type": "url",
+              "url": "https://www.ulc.gov.pl/pl/lotniska/rejestr-lotnisk-i-ewidencja-ladowisk"
             }
           ],
           "name": "Air Traffic",
