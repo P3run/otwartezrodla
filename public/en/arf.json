@@ -64,24 +64,14 @@
         {
           "children": [
             {
-              "name": "linkd",
-              "type": "url",
-              "url": "https://linkd.pl/"
-            },
-            {
               "name": "Tiny.pl (M)",
               "type": "url",
               "url": "https://tiny.pl/<identyfikator>!"
             },
             {
-              "name": "ujeb.se (M)",
-              "type": "url",
-              "url": "https://ujeb.se/<identyfikator>+"
-            },
-            {
               "name": "utn.pl (M)",
               "type": "url",
-              "url": "https://ujeb.se/<identyfikator>+"
+              "url": "https://utn.pl/<identyfikator>+"
             }
           ],
           "name": "Shorteners",
@@ -122,9 +112,9 @@
               "url": "http://mapy.amzp.pl/"
             },
             {
-              "name": "HGIS",
+              "name": "Atlas Fontium - Mapy z przeszłością",
               "type": "url",
-              "url": "http://hgis.cartomatic.pl/"
+              "url": "https://atlas.ihpan.edu.pl/pastmaps/"
             },
             {
               "name": "Archiwum Map Wojskowego Instytutu Geograficznego",
@@ -191,7 +181,7 @@
             {
               "name": "Gdańsk",
               "type": "url",
-              "url": "http://www.gis.gdansk.pl/"
+              "url": "https://geogdansk.pl/"
             },
             {
               "name": "Kielce",
@@ -278,7 +268,7 @@
             {
               "name": "Łódzkie",
               "type": "url",
-              "url": "http://www.rsipwl.lubuskie.pl/"
+              "url": "https://lodzkie.e-mapa.net/"
             },
             {
               "name": "Małopolskie",
@@ -333,7 +323,7 @@
             {
               "name": "Zachodniopomorskie",
               "type": "url",
-              "url": "https://sip-mapa.wzp.pl/egis/Full.aspx"
+              "url": "https://sip.wzp.pl/"
             }
           ],
           "name": "Provincial Spatial Information Systems",
@@ -371,9 +361,9 @@
           "type": "folder"
         },
         {
-          "name": "Ukośne",
+          "name": "ObliView",
           "type": "url",
-          "url": "https://www.ukosne.pl/"
+          "url": "https://www.obliview.com/#section-demo"
         },
         {
           "name": "Targeo",
@@ -386,9 +376,9 @@
           "url": "https://punktyadresowe.pl/index.php?strona=usluga"
         },
         {
-          "name": "Dane adresowe gmin",
+          "name": "Państwowy Rejestr Granic",
           "type": "url",
-          "url": "http://integracja.gugik.gov.pl/daneadresowe/"
+          "url": "https://www.geoportal.gov.pl/pl/dane/panstwowy-rejestr-granic-prg/"
         },
         {
           "name": "Geoportal",
@@ -408,7 +398,7 @@
         {
           "name": "Portal Geostatystyczny",
           "type": "url",
-          "url": "https://geo.stat.gov.pl/imap/"
+          "url": "https://portal.geo.stat.gov.pl/"
         },
         {
           "name": "Usługa lokalizacji działek katastralnych",
@@ -449,11 +439,6 @@
           "name": "Wyszukiwarka skrzynek pocztowych",
           "type": "url",
           "url": "https://skrzynki.poczta-polska.pl/"
-        },
-        {
-          "name": "Weryfikator Adresów / Konwerter Adresu Uniwersalnego",
-          "type": "url",
-          "url": "https://www.itia.pl/adres/index.php"
         },
         {
           "name": "Mapa sieci elektroenergetycznej",
@@ -580,7 +565,7 @@
                 {
                   "name": "Rejestr Diagnostów Laboratoryjnych",
                   "type": "url",
-                  "url": "https://rdl.ezdrowie.gov.pl/"
+                  "url": "https://kidl.org.pl/diagnostic/search"
                 },
                 {
                   "name": "Rejestr Podmiotów Wykonujących Działalność Leczniczą",
@@ -612,19 +597,24 @@
                 {
                   "children": [
                     {
-                      "name": "Kukiz15",
+                      "name": "Lewica",
                       "type": "url",
-                      "url": "http://kukiz15.org/zespol"
+                      "url": "https://lewica.org.pl/strony/politycy/a"
                     },
                     {
                       "name": "Nowoczesna",
                       "type": "url",
-                      "url": "https://nowoczesna.org/zarzad-partii/"
+                      "url": "https://nowoczesna.org/partia/"
                     },
                     {
                       "name": "Platforma Obywatelska",
                       "type": "url",
                       "url": "https://platforma.org/ludzie#0"
+                    },
+                    {
+                      "name": "Polska2050",
+                      "type": "url",
+                      "url": "https://polska2050.pl/regiony/"
                     },
                     {
                       "name": "Polskie Stronnictwo Ludowe",
@@ -647,14 +637,9 @@
                       "url": "https://partiarazem.pl/o-nas/rada-krajowa/"
                     },
                     {
-                      "name": "Sojusz Lewicy Demokratycznej",
+                      "name": "Suwerenna Polska",
                       "type": "url",
-                      "url": "https://sld.org.pl/strony/politycy/a"
-                    },
-                    {
-                      "name": "Solidarna Polska",
-                      "type": "url",
-                      "url": "https://solidarna.org/partia/"
+                      "url": "https://suwerennapolska.pl/#partia"
                     },
                     {
                       "name": "Zieloni",
@@ -668,7 +653,7 @@
                 {
                   "name": "Deputies",
                   "type": "url",
-                  "url": "https://www.sejm.gov.pl/sejm9.nsf/poslowie.xsp?type=A"
+                  "url": "https://www.sejm.gov.pl/Sejm10.nsf/poslowie.xsp?type=A"
                 },
                 {
                   "name": "Senators",
@@ -744,7 +729,7 @@
                         {
                           "name": "Kalisz",
                           "type": "url",
-                          "url": "https://diecezja.kalisz.pl/ksieza"
+                          "url": "https://diecezja.kalisz.pl/kaplani"
                         },
                         {
                           "name": "Kielce",
@@ -784,7 +769,7 @@
                         {
                           "name": "Pelplin",
                           "type": "url",
-                          "url": "https://www.diecezja-pelplin.pl/kaplani/spis-kaplanow"
+                          "url": "https://www.diecezja-pelplin.pl/kaplani/"
                         },
                         {
                           "name": "Płock",
@@ -799,7 +784,7 @@
                         {
                           "name": "Radom",
                           "type": "url",
-                          "url": "https://diecezja.radom.pl/duchowienstwo-diecezji-radomskiej/"
+                          "url": "https://diecezja.radom.pl/zmarli-kaplani/"
                         },
                         {
                           "name": "Rzeszów",
@@ -824,7 +809,7 @@
                         {
                           "name": "Świdnica",
                           "type": "url",
-                          "url": "https://www.diecezja.swidnica.pl/duchowienstwo/duchowienstwo.html"
+                          "url": "https://www.diecezja.swidnica.pl/ksieza"
                         },
                         {
                           "name": "Toruń",
@@ -883,6 +868,16 @@
                   ],
                   "name": "The Catholic Church",
                   "type": "folder"
+                },
+                {
+                  "name": "Muzułmański Związek Religijny",
+                  "type": "url",
+                  "url": "https://mzr.pl/imamowie/"
+                },
+                {
+                  "name": "Polski Autokefaliczny Kościół Prawosławny",
+                  "type": "url",
+                  "url": "https://www.orthodox.pl/administracja/duszpasterstwo/"
                 }
               ],
               "name": "Clergy",
@@ -896,11 +891,6 @@
                   "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html"
                 },
                 {
-                  "name": "Ogólnopolska Lista Biegłych Sądowych i Tłumaczy Przysięgłych",
-                  "type": "url",
-                  "url": "https://listabieglych.pl/"
-                },
-                {
                   "name": "Lista Osób Posiadających Licencję Doradcy Restrukturyzacyjnego",
                   "type": "url",
                   "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-osob-posiadajacych-licencje-doradcy-restrukturyzacyjnego/"
@@ -909,6 +899,11 @@
                   "name": "Rejestr przedsiębiorców wykonujących działalność regulowaną w zakresie usług detektywistycznych",
                   "type": "url",
                   "url": "https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych4"
+                },
+                {
+                  "name": "znajdźBiegłego.com",
+                  "type": "url",
+                  "url": "https://znajdzbieglego.com/pl/"
                 }
               ],
               "name": "Other",
@@ -1068,11 +1063,6 @@
               "name": "WhatsMyName.app",
               "type": "url",
               "url": "https://whatsmyname.app/"
-            },
-            {
-              "name": "Polska Lista WhatsMyName (T)",
-              "type": "url",
-              "url": "https://github.com/P3run/WhatsMyName-Polish-List/"
             }
           ],
           "name": "Tools",
@@ -1097,24 +1087,9 @@
               "url": "https://pol.social/"
             },
             {
-              "name": "lewactwo (R)",
-              "type": "url",
-              "url": "https://fedi.lewactwo.pl/"
-            },
-            {
               "name": "rigcz.club (R)",
               "type": "url",
               "url": "https://rigcz.club/"
-            },
-            {
-              "name": "iPolska.pl (R)",
-              "type": "url",
-              "url": "https://ipolska.pl/"
-            },
-            {
-              "name": "tfl.net.pl (R)",
-              "type": "url",
-              "url": "https://tfl.net.pl/"
             },
             {
               "name": "quitter.pl",
@@ -1209,11 +1184,6 @@
           "name": "QUEER",
           "type": "url",
           "url": "https://queer.pl/users"
-        },
-        {
-          "name": "Wolni Słowianie (R)",
-          "type": "url",
-          "url": "https://wolnislowianie.pl/"
         },
         {
           "name": "Wykop (R)",
@@ -1372,7 +1342,7 @@
                 {
                   "name": "Vindix S.A.",
                   "type": "url",
-                  "url": "https://www.vindix.pl/gielda-dlugow"
+                  "url": "https://gielda.vindix.pl/"
                 }
               ],
               "name": "Debt Exchange",
@@ -1765,9 +1735,29 @@
               "url": "https://sxvii.pl/"
             },
             {
-              "name": "Słownik Kaszubski",
+              "name": "Internetowy Słownik Języka Kaszubskiego",
               "type": "url",
-              "url": "http://www.cassubia-dictionary.com/"
+              "url": "https://sloworz.org/"
+            },
+            {
+              "name": "Kaszebe.org",
+              "type": "url",
+              "url": "https://kaszebe.org/"
+            },
+            {
+              "name": "Gwara góralska",
+              "type": "url",
+              "url": "http://www.finito.zanet.pl/goralski/Indeks%20Polski_-_Gwara_g%C3%B3ralska.htm"
+            },
+            {
+              "name": "Słownik gwary miejskiej Poznania",
+              "type": "url",
+              "url": "https://www.poznan.pl/mim/slownik/"
+            },
+            {
+              "name": "Słownik Górali Polskich na Bukowinie",
+              "type": "url",
+              "url": "https://rcin.org.pl/Content/39095/WA243_54147_2631445_SLOWNIK-GORALI_0000.pdf"
             },
             {
               "name": "Słownik Śląski",
@@ -1853,6 +1843,11 @@
           "url": "https://ekw.ms.gov.pl/eukw_ogol/menu.do"
         },
         {
+          "name": "Lista punktów adresowych - Adres Uniwersalny",
+          "type": "url",
+          "url": "https://wms02.epodgik.pl/adruni/adruni.zip"
+        },
+        {
           "name": "Otwarte Dane",
           "type": "url",
           "url": "https://dane.gov.pl/pl"
@@ -1901,7 +1896,7 @@
         {
           "name": "Baza Orzeczeń Trybunału Konstytucyjnego",
           "type": "url",
-          "url": "http://otk.trybunal.gov.pl/orzeczenia/"
+          "url": "https://trybunal.gov.pl/orzeczenia/"
         },
         {
           "name": "Centralna Baza Orzeczeń Sądów Administracyjnych",
@@ -2051,11 +2046,6 @@
                       "name": "Wrocław",
                       "type": "url",
                       "url": "https://mpk.wroc.pl/strefa-pasazera/zaplanuj-podroz/mapa-pozycji-pojazdow"
-                    },
-                    {
-                      "name": "Wrocław-Leśnica",
-                      "type": "url",
-                      "url": "http://wroclaw.dla.sims.pl/maps/map.html"
                     }
                   ],
                   "name": "By Cities",
@@ -2161,11 +2151,6 @@
               ],
               "name": "Spotting",
               "type": "folder"
-            },
-            {
-              "name": "autoanalizy.pl",
-              "type": "url",
-              "url": "https://autoanalizy.pl/"
             },
             {
               "name": "autobaza.pl",
@@ -2425,7 +2410,7 @@
             {
               "name": "Zarząd Dróg Wojewódzkich w Krakowie",
               "type": "url",
-              "url": "https://www.zdw.krakow.pl/drogi/kamery-na-drogach.html"
+              "url": "https://www.zdw.krakow.pl/kamery-na-drogach/"
             }
           ],
           "name": "Webcams",
@@ -2435,11 +2420,6 @@
           "children": [
             {
               "children": [
-                {
-                  "name": "OSINT Quest YouTube TOOL",
-                  "type": "url",
-                  "url": "http://osintquest.pl/wp-content/uploads/youtube/mod_video_info.php"
-                },
                 {
                   "name": "YTXtractor",
                   "type": "url",
@@ -2550,21 +2530,6 @@
               "url": "http://websdr.sp2put.pl:8901/"
             },
             {
-              "name": "Goleniów",
-              "type": "url",
-              "url": "http://www.sp1ygl.noip.pl/websdr/"
-            },
-            {
-              "name": "Kampinoski Park Narodowy",
-              "type": "url",
-              "url": "http://88.220.45.111:8073/"
-            },
-            {
-              "name": "Katowice",
-              "type": "url",
-              "url": "http://sdr.v-w.com.pl:5000/"
-            },
-            {
               "name": "Lubatowa",
               "type": "url",
               "url": "http://sdr.so8oo.net/"
@@ -2580,9 +2545,29 @@
               "url": "https://websdr.jestok.com/"
             },
             {
-              "name": "Płońsk",
+              "name": "Płońsk 1",
               "type": "url",
               "url": "http://plonsk.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Płońsk 2",
+              "type": "url",
+              "url": "http://plonsk2.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Płońsk 3",
+              "type": "url",
+              "url": "http://plonsk3.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Płońsk 4",
+              "type": "url",
+              "url": "http://plonsk4.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Płońsk 5",
+              "type": "url",
+              "url": "http://plonsk5.proxy.kiwisdr.com:8073/"
             },
             {
               "name": "Silec",
@@ -2590,29 +2575,14 @@
               "url": "http://websdr.printf.cc:8901/"
             },
             {
-              "name": "Stare Wierzchowo",
-              "type": "url",
-              "url": "http://87.251.229.127:8073/"
-            },
-            {
               "name": "Warszawa (SP5JI)",
               "type": "url",
               "url": "http://warszawa.proxy.kiwisdr.com:8073/"
             },
             {
-              "name": "Warszawa (SP5KAB)",
-              "type": "url",
-              "url": "http://sdr.sp5kab.pl/openwebrx-1/"
-            },
-            {
               "name": "Zawiercie",
               "type": "url",
               "url": "http://websdr.mateusz.pro/"
-            },
-            {
-              "name": "Zielona Góra",
-              "type": "url",
-              "url": "http://websdr.sp3pgx.uz.zgora.pl:8901/"
             }
           ],
           "name": "WebSDR",
@@ -2632,6 +2602,11 @@
           "name": "przemienniki.net",
           "type": "url",
           "url": "https://przemienniki.net/"
+        },
+        {
+          "name": "Przemienniki.org",
+          "type": "url",
+          "url": "https://przemienniki.org/"
         },
         {
           "name": "SP6KXY Radiosonde Tracker",
