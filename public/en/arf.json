@@ -1601,6 +1601,11 @@
           "url": "https://policja.maps.arcgis.com/apps/MapJournal/index.html?appid=338ca7cf5e5043778c76b14f696c8eab"
         },
         {
+          "name": "Raport dobowy RCB",
+          "type": "url",
+          "url": "https://www.gov.pl/web/rcb/raport-dobowy"
+        },
+        {
           "name": "Sytuacja Radiacyjna - Państwowa Agencja Atomistyki",
           "type": "url",
           "url": "https://www.gov.pl/web/paa/sytuacja-radiacyjna"
