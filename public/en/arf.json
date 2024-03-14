@@ -1060,6 +1060,11 @@
         {
           "children": [
             {
+              "name": "NAMINT",
+              "type": "url",
+              "url": "https://seintpl.github.io/NAMINT/"
+            },
+            {
               "name": "WhatsMyName.app",
               "type": "url",
               "url": "https://whatsmyname.app/"
