@@ -1,17 +1,48 @@
+@font-face {
+  font-family: Roboto;
+  src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Young Serif";
+  src: url(../fonts//YoungSerif-Regular.ttf);
+}
+
 body {
   background-color: #ffffff;
   color: #000000;
-  font-family: "Helvetica Neue", Helvetica;
+  font-family: Roboto, "Helvetica Neue", Helvetica;
   margin: 0;
 }
 
-#lang {
-  margin-left: 30px;
-  margin-top: 10px;
+.collapsible {
+  background-color: #939393;
+  color: white;
+  cursor: pointer;
+  padding: 3px 0px 3px 20px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 14px;
+}
+
+.active,
+.collapsible:hover {
+  background-color: #777;
+}
+
+.content {
+  padding: 10px 20px;
+  display: none;
+  overflow: hidden;
+  background-color: #ffc900;
+  font-family: "Roboto", "Helvetica Neue", Helvetica;
   font-size: 12px;
 }
 
 h3 {
+  font-family: "Young Serif";
   font-weight: bold;
 }
 
@@ -20,42 +51,65 @@ a {
 }
 
 #header {
-  border-style: dashed;
-  border-width: 5px;
-  margin: 10px 30px 30px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
 }
 
 #logo {
   position: static;
-  padding: 30px;
+  height: 30px;
+  padding: 0px;
   display: inline-block;
+}
+
+#lang {
+  float: right;
 }
 
 #legend {
-  position: absolute;
-  font-weight: normal;
-  right: 30px;
-  width: 330px;
-  font-size: 11px;
-  padding-left: 10px;
-  margin: 30px;
-  border-style: solid;
-  border-width: 0px 0px 0px 2px;
-  display: inline-block;
+  position: relative;
+}
+
+#legend>button {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+#legend>button>svg {
+  height: 18px;
 }
 
 #body {
-  margin: 0;
   position: relative;
+  background-color: #f3f3f3;
+}
+
+#body>svg {
+  background-color: #f3f3f3;
+}
+
+#text {
+  position: relative;
+  text-align: center;
+  font-size: 14px;
+  margin: 0 10% 0 10%;
 }
 
 #footer {
-  position: relative;
-  margin: 0px;
+  background-color: #ffffff;
+  color: #000000;
+  text-align: center;
+  font-family: "Roboto", "Helvetica Neue", Helvetica;
   font-size: 14px;
-  margin: 0px 30px 30px 30px;
-  border-style: dashed;
-  border-width: 2px 0px 0px 0px;
+  padding: 20px 0 15px 0;
+  margin: 10px 0 0 0
+}
+
+#footer>svg {
+  height: 40px;
 }
 
 .node {
@@ -65,8 +119,8 @@ a {
 .node circle {
   cursor: pointer;
   fill: #fff;
-  stroke: steelblue;
-  stroke-width: 1.5px;
+  stroke: #777;
+  stroke-width: 1px;
 }
 
 .node text {

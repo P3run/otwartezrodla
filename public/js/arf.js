@@ -1,4 +1,4 @@
-var margin = [20, 120, 20, 140],
+var margin = [15, 65, 15, 65],
     width = 1280 - margin[1] - margin[3],
     height = 800 - margin[0] - margin[2],
     i = 0,
@@ -86,7 +86,7 @@ function update(source) {
 
   nodeUpdate.select("circle")
       .attr("r", 6)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "#ffc900" : "#fff"; });
 
   nodeUpdate.select("text")
       .style("fill-opacity", 1);
