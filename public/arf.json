@@ -456,9 +456,14 @@
           "url": "https://autokatalog.pl/stacje-paliw"
         },
         {
-          "name": "Mapa linii kolejowych w Polsce",
+          "name": "Mapy Kolejowe PKP PLK",
           "type": "url",
-          "url": "https://www.plk-sa.pl/files/public/user_upload/pdf/Reg_przydzielania_tras/Regulamin_2013_2014/12.03.2014/P_13-14_Z_11_w.1.pdf"
+          "url": "https://www.plk-sa.pl/o-spolce/biuro-prasowe/mapy"
+        },
+        {
+          "name": "Mapy infrastruktury rowerowej",
+          "type": "url",
+          "url": "https://github.com/WroData/Mapy_infrastruktury_rowerowej_by_Jacek_Geborys/tree/main"
         }
       ],
       "name": "Mapy / Usługi Lokalizacyjne",
@@ -514,6 +519,11 @@
         },
         {
           "children": [
+            {
+              "name": "Internetowy słownik nazwisk w Polsce",
+              "type": "url",
+              "url": "https://nazwiska.ijp.pan.pl/"
+            },
             {
               "name": "Otwarte Dane - Nazwiska występujące w rejestrze PESEL",
               "type": "url",
@@ -985,6 +995,11 @@
               "name": "Mogiły.pl",
               "type": "url",
               "url": "http://mogily.pl/start"
+            },
+            {
+              "name": "Nekrologi Warszawskie",
+              "type": "url",
+              "url": "http://www.nekrologi-baza.pl/"
             }
           ],
           "name": "Zmarli",
@@ -1440,6 +1455,11 @@
               "url": "https://mapadotacji.gov.pl/"
             },
             {
+              "name": "Ogólnopolska Wyszukiwarka Gospodarcza",
+              "type": "url",
+              "url": "https://www.owg.pl/"
+            },
+            {
               "name": "Portal Rejestrów Sądowych",
               "type": "url",
               "url": "https://prs.ms.gov.pl/"
@@ -1559,6 +1579,11 @@
               ],
               "name": "Kibice",
               "type": "folder"
+            },
+            {
+              "name": "TattooArtist - Studia Tatuażu",
+              "type": "url",
+              "url": "https://www.tattooartist.pl/studia/lista"
             }
           ],
           "name": "Subkultury",
@@ -2612,6 +2637,11 @@
           "name": "Przemienniki.org",
           "type": "url",
           "url": "https://przemienniki.org/"
+        },
+        {
+          "name": "Radiołączność kolejowa",
+          "type": "url",
+          "url": "http://www.peter384.cal24.pl/r/r.html"
         },
         {
           "name": "SP6KXY Radiosonde Tracker",
