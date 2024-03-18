@@ -122,6 +122,11 @@
               "url": "http://polski.mapywig.org/"
             },
             {
+              "name": "Baza Miejscowości Kresowych",
+              "type": "url",
+              "url": "https://www.kami.net.pl/kresy/"
+            },
+            {
               "name": "retromapy.pl",
               "type": "url",
               "url": "https://retromapy.pl/"
@@ -469,6 +474,16 @@
           "name": "Mapy infrastruktury rowerowej",
           "type": "url",
           "url": "https://github.com/WroData/Mapy_infrastruktury_rowerowej_by_Jacek_Geborys/tree/main"
+        },
+        {
+          "name": "Mapa Drzew",
+          "type": "url",
+          "url": "https://aplikacja.mapadrzew.com/"
+        },
+        {
+          "name": "Mapy Roślinności IGiPZ PAN",
+          "type": "url",
+          "url": "https://www.igipz.pan.pl/Opracowania-on-line-zgik.html"
         }
       ],
       "name": "Maps / Geolocation Tools",
@@ -2680,6 +2695,11 @@
               "name": "Generatory IT",
               "type": "url",
               "url": "http://generatory.it/"
+            },
+            {
+              "name": "testerzy.pl - Generatory",
+              "type": "url",
+              "url": "https://testerzy.pl/baza-wiedzy/narzedzia-online/generatory"
             }
           ],
           "name": "Data / Identity Generators",
@@ -2687,6 +2707,11 @@
         },
         {
           "children": [
+            {
+              "name": "AdresTymczasowy.pl",
+              "type": "url",
+              "url": "https://adrestymczasowy.pl/"
+            },
             {
               "name": "niepodam.pl",
               "type": "url",
@@ -2767,6 +2792,17 @@
             }
           ],
           "name": "Courses /  Presentations",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "Wykorzystanie otwartych źródeł informacji w działalności wywiadowczej",
+              "type": "url",
+              "url": "https://wnpism.uw.edu.pl/wp-content/uploads/2019/08/Wykorzystanie-otwartych-zrodel.pdf"
+            }
+          ],
+          "name": "Literature",
           "type": "folder"
         }
       ],
