@@ -2585,6 +2585,11 @@
               "url": "http://websdr.sp2put.pl:8901/"
             },
             {
+              "name": "Kraków",
+              "type": "url",
+              "url": "https://sdr.sp9ngl.com/"
+            },
+            {
               "name": "Lubatowa",
               "type": "url",
               "url": "http://sdr.so8oo.net/"
@@ -2595,7 +2600,12 @@
               "url": "http://websdr80.dyndns.org:50001/"
             },
             {
-              "name": "Olsztyn",
+              "name": "Miedźna",
+              "type": "url",
+              "url": "http://okno.ddns.net:8073/"
+            },
+            {
+              "name": "Olsztyn / Jastrzębia Góra",
               "type": "url",
               "url": "https://websdr.jestok.com/"
             },
