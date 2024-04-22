@@ -702,6 +702,11 @@
                   "url": "https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-komornikow-sadowych/"
                 },
                 {
+                  "name": "Monitor SLPS",
+                  "type": "url",
+                  "url": "https://slps.pl/"
+                },
+                {
                   "name": "Rejestr Radców Prawnych",
                   "type": "url",
                   "url": "https://rejestrradcow.pl/Home/Index"
