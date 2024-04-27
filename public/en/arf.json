@@ -2296,6 +2296,11 @@
                   "url": "http://lotnictwo.net.pl/gallery-home/"
                 },
                 {
+                  "name": "RNAV Polish Spotters",
+                  "type": "url",
+                  "url": "https://www.rnavspotters.pl/"
+                },
+                {
                   "name": "Skrzydla.org",
                   "type": "url",
                   "url": "https://skrzydla.org"
