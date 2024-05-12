@@ -1999,6 +1999,11 @@
           "url": "https://legislacja.rcl.gov.pl/"
         },
         {
+          "name": "Sejm-Stats",
+          "type": "url",
+          "url": "https://www.sejm-stats.pl/"
+        },
+        {
           "name": "Wyszukiwarka Orzeczeń TSUE",
           "type": "url",
           "url": "https://curia.europa.eu/juris/recherche.jsf?language=pl"
