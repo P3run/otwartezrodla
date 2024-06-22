@@ -2674,6 +2674,11 @@
           "url": "http://www.elektronikjk.pl/telekomunikacja/czestotliwosci_radiowe/czestotliwosci_radiowe.html"
         },
         {
+          "name": "FM POLAND",
+          "type": "url",
+          "url": "https://fm-poland.pl/mapa/"
+        },
+        {
           "name": "przemienniki.net",
           "type": "url",
           "url": "https://przemienniki.net/"
