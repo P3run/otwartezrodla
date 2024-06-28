@@ -1805,6 +1805,11 @@
               "url": "https://kaszebe.org/"
             },
             {
+              "name": "Mały słownik gwary więziennej",
+              "type": "url",
+              "url": "https://www.zpozdrowieniem.pl/blog/gamzac-grypsem-slownik-gwary-wieziennej"
+            },
+            {
               "name": "Gwara góralska",
               "type": "url",
               "url": "http://www.finito.zanet.pl/goralski/Indeks%20Polski_-_Gwara_g%C3%B3ralska.htm"
@@ -1851,6 +1856,11 @@
         },
         {
           "children": [
+            {
+              "name": "Tatuaże więzienne - dziary.com",
+              "type": "url",
+              "url": "https://dziary.com/blog/blog-tatuaze-tatuaze-wiezienne-rodzaje-i-znaczenie-7263"
+            },
             {
               "name": "Wszystkie Symbole",
               "type": "url",
