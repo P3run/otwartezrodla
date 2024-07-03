@@ -2790,6 +2790,11 @@
               "url": "https://www.sztukaszukania.pl/blog/"
             },
             {
+              "name": "Zaufana Trzecia Strona",
+              "type": "url",
+              "url": "https://zaufanatrzeciastrona.pl/post/tag/osint/"
+            },
+            {
               "name": "Z Lotu Szpaka",
               "type": "url",
               "url": "https://zlotuszpaka.pl/"
