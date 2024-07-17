@@ -2694,6 +2694,11 @@
           "url": "https://fm-poland.pl/mapa/"
         },
         {
+          "name": "przemienniki.eu",
+          "type": "url",
+          "url": "https://przemienniki.eu/"
+        },
+        {
           "name": "przemienniki.net",
           "type": "url",
           "url": "https://przemienniki.net/"
