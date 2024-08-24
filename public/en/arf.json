@@ -484,6 +484,11 @@
           "name": "Mapy Roślinności IGiPZ PAN",
           "type": "url",
           "url": "https://www.igipz.pan.pl/Opracowania-on-line-zgik.html"
+        },
+        {
+          "name": "Streetmap.pl",
+          "type": "url",
+          "url": "https://streetmap.pl/"
         }
       ],
       "name": "Maps / Geolocation Tools",
