@@ -1642,6 +1642,11 @@
           "url": "https://www.gov.pl/web/uw-lubuski/dobowy-raport-bezpieczenstwa"
         },
         {
+          "name": "Hydro IMGW-PIB",
+          "type": "url",
+          "url": "https://hydro.imgw.pl/#/map"
+        },
+        {
           "name": "Krajowa Mapa Zagrożeń Bezpieczeństwa",
           "type": "url",
           "url": "https://mapy.geoportal.gov.pl/iMapLite/KMZBPublic.html"
