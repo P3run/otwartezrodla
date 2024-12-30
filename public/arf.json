@@ -1486,6 +1486,11 @@
               "url": "https://mapadotacji.gov.pl/"
             },
             {
+              "name": "Monitoring upadłości i restrukturyzacji",
+              "type": "url",
+              "url": "https://www.muir.pl/"
+            },
+            {
               "name": "Ogólnopolska Wyszukiwarka Gospodarcza",
               "type": "url",
               "url": "https://www.owg.pl/"
@@ -2436,6 +2441,11 @@
               ],
               "name": "Wklejki",
               "type": "folder"
+            },
+            {
+              "name": "PRADO",
+              "type": "url",
+              "url": "https://www.consilium.europa.eu/prado/pl/prado-start-page.html"
             }
           ],
           "name": "Dokumenty",
@@ -2852,7 +2862,7 @@
               "url": "https://www.youtube.com/watch?v=123qZ5fQEGo"
             },
             {
-              "name": "Wykorzystanie narzędzi AI w OSINT",
+              "name": "Wykorzystanie narzędzi AI w OSINT - T. Turba",
               "type": "url",
               "url": "https://www.youtube.com/watch?v=xYkf30lgUHw"
             }
