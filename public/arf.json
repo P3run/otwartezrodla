@@ -479,8 +479,7 @@
           "name": "Mapy Roślinności IGiPZ PAN",
           "type": "url",
           "url": "https://www.igipz.pan.pl/Opracowania-on-line-zgik.html"
-        }
-        ,
+        },
         {
           "name": "Streetmap.pl",
           "type": "url",
@@ -1949,6 +1948,11 @@
           "url": "http://zbiorki.gov.pl/zbiorki/index"
         },
         {
+          "name": "PRADO",
+          "type": "url",
+          "url": "https://www.consilium.europa.eu/prado/pl/prado-start-page.html"
+        },
+        {
           "name": "Rejestr Wniosków, Decyzji i Zgłoszeń w sprawach budowlanych",
           "type": "url",
           "url": "http://wyszukiwarka.gunb.gov.pl/"
@@ -2441,11 +2445,6 @@
               ],
               "name": "Wklejki",
               "type": "folder"
-            },
-            {
-              "name": "PRADO",
-              "type": "url",
-              "url": "https://www.consilium.europa.eu/prado/pl/prado-start-page.html"
             }
           ],
           "name": "Dokumenty",

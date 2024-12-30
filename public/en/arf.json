@@ -151,7 +151,7 @@
           "type": "folder"
         },
         {
-          "children":[
+          "children": [
             {
               "name": "Lotniska i lądowiska (dlapilota.pl)",
               "type": "url",
@@ -174,7 +174,7 @@
             }
           ],
           "name": "Aerial",
-          "type":"folder"
+          "type": "folder"
         },
         {
           "children": [
@@ -1953,6 +1953,11 @@
           "url": "http://zbiorki.gov.pl/zbiorki/index"
         },
         {
+          "name": "PRADO",
+          "type": "url",
+          "url": "https://www.consilium.europa.eu/prado/en/prado-start-page.html"
+        },
+        {
           "name": "Rejestr Wniosków, Decyzji i Zgłoszeń w sprawach budowlanych",
           "type": "url",
           "url": "http://wyszukiwarka.gunb.gov.pl/"
@@ -2445,11 +2450,6 @@
               ],
               "name": "Shorteners",
               "type": "folder"
-            },
-            {
-              "name": "PRADO",
-              "type": "url",
-              "url": "https://www.consilium.europa.eu/prado/en/prado-start-page.html"
             }
           ],
           "name": "Documents",
