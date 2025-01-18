@@ -133,3 +133,36 @@ path.link {
   stroke: #ccc;
   stroke-width: 1px;
 }
+
+#cookie-consent-banner {
+  font-family: "Roboto", "Helvetica Neue", Helvetica;
+  font-size: 14px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f1f1f1;
+  color: #333;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+}
+
+#cookie-consent-banner button {
+  background-color: #939393;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin-left: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#cookie-consent-banner button:hover {
+  background-color: #777;
+}
+
+#cookie-consent-banner h3 {
+  margin-top: 0px;
+}
