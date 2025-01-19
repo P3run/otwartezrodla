@@ -408,7 +408,7 @@
         {
           "name": "Usługa lokalizacji działek katastralnych",
           "type": "url",
-          "url": "http://uldk.dzialkikatastralne.pl/"
+          "url": "https://uldk.gugik.gov.pl/"
         },
         {
           "name": "Bank Danych o Lasach",
@@ -443,7 +443,7 @@
         {
           "name": "Wyszukiwarka skrzynek pocztowych",
           "type": "url",
-          "url": "https://skrzynki.poczta-polska.pl/"
+          "url": "https://www.poczta-polska.pl/znajdz-punkt/"
         },
         {
           "name": "Mapa sieci elektroenergetycznej",
@@ -501,17 +501,12 @@
             {
               "name": "Baza danych o więźniach obozu Auschwitz-Birkenau",
               "type": "url",
-              "url": "http://www.auschwitz.org/muzeum/informacja-o-wiezniach/"
+              "url": "https://ofiary.auschwitz.org/victims"
             },
             {
               "name": "Baza Systemu Indeksacji Archiwalnej",
               "type": "url",
               "url": "http://www.basia.famula.pl/"
-            },
-            {
-              "name": "GENPOL (R)",
-              "type": "url",
-              "url": "https://www.genpol.com/module-GenBaza.html"
             },
             {
               "name": "Jewish Record Indexing - Poland",
@@ -650,11 +645,6 @@
                       "name": "Polskie Stronnictwo Ludowe",
                       "type": "url",
                       "url": "https://www.psl.pl/ludowcy/"
-                    },
-                    {
-                      "name": "Porozumienie",
-                      "type": "url",
-                      "url": "https://pjg.org.pl/zarzad-krajowy/"
                     },
                     {
                       "name": "Prawo i Sprawiedliwość",
@@ -809,7 +799,7 @@
                         {
                           "name": "Płock",
                           "type": "url",
-                          "url": "https://www.diecezjaplocka.pl/dla-wiernych/wyszukiwarka/?no-search=true&tab=ksieza"
+                          "url": "https://www.diecezjaplocka.pl/kontakt/ksieza"
                         },
                         {
                           "name": "Poznań",
@@ -1058,7 +1048,7 @@
         {
           "name": "Indeks Represjonowanych - IPN",
           "type": "url",
-          "url": "https://indeksrepresjonowanych.pl/int/wyszukiwanie/94,Wyszukiwanie.html"
+          "url": "https://indeksrepresjonowanych.pl/wyszukiwanie"
         },
         {
           "name": "Centralny Rejestr Beneficjentów Rzeczywistych",
@@ -1082,11 +1072,6 @@
               "name": "Allegro (M)",
               "type": "url",
               "url": "https://allegro.pl/uzytkownik/username"
-            },
-            {
-              "name": "Goldenline (M)",
-              "type": "url",
-              "url": "https://www.goldenline.pl/username/"
             },
             {
               "name": "ipon.pl (M)",
@@ -1176,19 +1161,9 @@
           "url": "https://gloria.tv/"
         },
         {
-          "name": "Goldenline (R)",
-          "type": "url",
-          "url": "https://www.goldenline.pl/"
-        },
-        {
           "name": "hejto",
           "type": "url",
           "url": "https://www.hejto.pl/"
-        },
-        {
-          "name": "karab.in",
-          "type": "url",
-          "url": "https://karab.in"
         },
         {
           "name": "lurker",
@@ -1308,7 +1283,7 @@
             {
               "name": "Absolvent",
               "type": "url",
-              "url": "https://www.absolvent.pl/opinie-o-pracodawcach#/"
+              "url": "https://www.absolvent.pl/pracodawcy/"
             },
             {
               "name": "GoWork",
@@ -1382,7 +1357,7 @@
                 {
                   "name": "VERIF.PL",
                   "type": "url",
-                  "url": "https://verif.pl/gielda"
+                  "url": "https://verif.pl/"
                 },
                 {
                   "name": "VINDICAT",
@@ -1584,7 +1559,7 @@
                     {
                       "name": "Stadionowi Oprawcy - Ekipy",
                       "type": "url",
-                      "url": "https://stadionowioprawcy.net/wybierz-ekipe/"
+                      "url": "https://stadionowioprawcy.net/ekipa/"
                     },
                     {
                       "name": "Styl Kibica - Zgody",
@@ -2208,11 +2183,6 @@
                   "url": "https://tablica-rejestracyjna.pl/"
                 },
                 {
-                  "name": "Tablice Rejestracyjne PL",
-                  "type": "url",
-                  "url": "http://tablicerejestracyjne.pl/"
-                },
-                {
                   "name": "Wyszukiwarka numerów rejestracyjnych",
                   "type": "url",
                   "url": "http://rejestracje.website.media.pl/"
@@ -2384,12 +2354,12 @@
             {
               "name": "Polski Rejestr Statków",
               "type": "url",
-              "url": "https://www.prs.pl/wydawnictwa/rejestry-statkow-jachtow-lodzi#"
+              "url": "https://prs.pl/publikacje/publikacje-do-pobrania/#rejestr"
             },
             {
               "name": "Raporty Państwowej Komisji Badania Wypadków Morskich",
               "type": "url",
-              "url": "https://pkbwm.gov.pl/raporty/raporty/"
+              "url": "https://www.gov.pl/web/pkbwm/raport-z-badan"
             },
             {
               "name": "Shipspotting",
@@ -2828,11 +2798,6 @@
               "name": "Zaufana Trzecia Strona",
               "type": "url",
               "url": "https://zaufanatrzeciastrona.pl/post/tag/osint/"
-            },
-            {
-              "name": "Z Lotu Szpaka",
-              "type": "url",
-              "url": "https://zlotuszpaka.pl/"
             }
           ],
           "name": "Blogs",
@@ -2849,6 +2814,11 @@
               "name": "Jeden obraz tysiąc słów... - P. Feruś",
               "type": "url",
               "url": "https://youtu.be/LQb1oFfdM3g"
+            },
+            {
+              "name": "OSINT - P. Hordyński",
+              "type": "url",
+              "url": "https://youtube.com/playlist?list=PLOpLrF19DPQboi0AIoDcAO7AUNPBl8scQ&feature=shared"
             },
             {
               "name": "OSINT - biały wywiad - P. Konieczny",
