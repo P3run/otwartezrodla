@@ -1319,6 +1319,16 @@
                   "url": "https://rejestrmedyczny.pl/"
                 },
                 {
+                  "name": "Rejestr Pośredników Ubezpieczeniowych",
+                  "type": "url",
+                  "url": "https://rpu.knf.gov.pl/"
+                },
+                {
+                  "name": "Rejestr Żłobków",
+                  "type": "url",
+                  "url": "https://empatia.mpips.gov.pl/dla-swiadczeniobiorcow/rodzina/d3/rejestr-zlobkow-i-klubow"
+                },
+                {
                   "name": "Świat Przychodni",
                   "type": "url",
                   "url": "https://swiatprzychodni.pl/"
@@ -1488,6 +1498,11 @@
               "name": "Rejestr.io",
               "type": "url",
               "url": "https://rejestr.io/"
+            },
+            {
+              "name": "Rejestr przedstawicielstw przedsiębiorców zagranicznych",
+              "type": "url",
+              "url": "https://www.gov.pl/web/rozwoj-technologia/rejestr-przedstawicielstw-przedsiebiorcow-zagranicznych"
             },
             {
               "name": "Repozytorium Akt Rejestrowych",
@@ -1933,6 +1948,16 @@
           "url": "http://wyszukiwarka.gunb.gov.pl/"
         },
         {
+          "name": "Rejestry Państwowej Służby Zatrudnienia",
+          "type": "url",
+          "url": "https://stor.praca.gov.pl/portal/strona-glowna"
+        },
+        {
+          "name": "Rejestr Zastawów Skarbowych",
+          "type": "url",
+          "url": "https://www.finanse.mf.gov.pl/pp/rzsw"
+        },
+        {
           "name": "Urząd Patentowy Rzeczypospolitej Polskiej",
           "type": "url",
           "url": "https://ewyszukiwarka.pue.uprp.gov.pl/"
@@ -2043,6 +2068,11 @@
           "name": "RAD-on",
           "type": "url",
           "url": "https://radon.nauka.gov.pl/"
+        },
+        {
+          "name": "Repozytorium Otwartych Publikacji Naukowych",
+          "type": "url",
+          "url": "https://open.icm.edu.pl/"
         },
         {
           "name": "Wykaz Uczelni Publicznych",
@@ -2395,6 +2425,11 @@
                   "name": "Docer Polska",
                   "type": "url",
                   "url": "https://docer.pl/"
+                },
+                {
+                  "name": "doci.pl",
+                  "type": "url",
+                  "url": "https://doci.pl/"
                 },
                 {
                   "name": "SlidePlayer",
