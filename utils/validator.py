@@ -14,10 +14,10 @@ def validate_url(url, path):
         r = requests.get(url, timeout=10)
         code = f'{r.status_code}'
     except:
-        code = 'exception'
+        code = '???'
 
     if code != '200':
-        print(f'{path}\t\t\t{code}')
+        print(f'{code}\t{path}')
 
 if __name__ == '__main__':
     with open('./../public/arf.json') as f:
