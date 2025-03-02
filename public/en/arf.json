@@ -596,6 +596,11 @@
                   "name": "Rejestr Podmiotów Wykonujących Działalność Leczniczą",
                   "type": "url",
                   "url": "https://rpwdl.ezdrowie.gov.pl/"
+                },
+                {
+                  "name": "Weryfikacja PWZ pielęgniarki/położnej",
+                  "type": "url",
+                  "url": "https://nipip.pl/weryfikacja-pwz/"
                 }
               ],
               "name": "Medicine",
@@ -1460,6 +1465,11 @@
               "url": "https://www.imsig.pl/"
             },
             {
+              "name": "Monitor Sądowy i Gospodarczy - Wyszukiwarka",
+              "type": "url",
+              "url": "https://wyszukiwarka-msig.ms.gov.pl/"
+            },
+            {
               "name": "Krajowy Rejestr Zadłużonych",
               "type": "url",
               "url": "https://krz.ms.gov.pl/#!/application/KRZPortalPUB/1.4/KrzPortalPubGui.StronaGlowna?params=JTdCJTdE&seq=0"
@@ -1749,6 +1759,11 @@
           ],
           "name": "Industry",
           "type": "folder"
+        },
+        {
+          "name": "Jaki to bank - direct.money.pl",
+          "type": "url",
+          "url": "https://direct.money.pl/jaki-to-bank"
         }
       ],
       "name": "Business / Economy",
@@ -2382,6 +2397,48 @@
         {
           "children": [
             {
+              "name": "Ship Movements / Localization",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Porty Szczecin-Świnoujście",
+                  "type": "url",
+                  "url": "https://port.szczecin.pl/porty/ruch-statkow/w-szczecinie/"
+                },
+                {
+                  "name": "Urząd Morski w Gdyni",
+                  "type": "url",
+                  "url": "https://www.umgdy.gov.pl/bezpieczenstwo-morskie/ruch-statkow/"
+                },
+                {
+                  "name": "Urząd Morski w Szczecinie",
+                  "type": "url",
+                  "url": "https://www.ums.gov.pl/bezpieczenstwo-morskie/ruch-statkow"
+                },
+                {
+                  "name": "Wycieczkowce - Port Gdynia",
+                  "type": "url",
+                  "url": "https://www.port.gdynia.pl/wycieczkowce/"
+                }
+              ]
+            },
+            {
+              "name": "Spotting",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "Shipspotting.pl",
+                  "type": "url",
+                  "url": "https://shipspotting.pl"
+                },
+                {
+                  "name": "Fb: Shipspotting Poland",
+                  "type": "url",
+                  "url": "https://www.facebook.com/groups/plship/"
+                }
+              ]
+            },
+            {
               "name": "Polski Rejestr Statków",
               "type": "url",
               "url": "https://prs.pl/publikacje/publikacje-do-pobrania/#rejestr"
@@ -2392,9 +2449,14 @@
               "url": "https://www.gov.pl/web/pkbwm/raport-z-badan"
             },
             {
-              "name": "Shipspotting",
+              "name": "Wykaz portów i przystani - UM w Szczecinie",
               "type": "url",
-              "url": "https://shipspotting.pl"
+              "url": "https://www.ums.gov.pl/informator-urzedowy/wykaz-portow-i-przystani"
+            },
+            {
+              "name": "Zatrzymania statków",
+              "type": "url",
+              "url": "https://www.umgdy.gov.pl/bezpieczenstwo-morskie/zatrzymania-statkow/"
             }
           ],
           "name": "Marine Traffic",
@@ -2803,6 +2865,17 @@
     {
       "children": [
         {
+          "name": "OSINTQUEST Investigation Platform",
+          "type": "url",
+          "url": "https://platform.osintquest.pl/"
+        }
+      ],
+      "name": "Investigation Platforms",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
           "children": [
             {
               "name": "counterintelligence.pl",
@@ -2888,6 +2961,17 @@
             }
           ],
           "name": "Literature",
+          "type": "folder"
+        },
+        {
+          "children": [
+            {
+              "name": "OSINT Newsletter - A. Pawłowska",
+              "type": "url",
+              "url": "https://www.alicjapawlowska.com/"
+            }
+          ],
+          "name": "Newslettery",
           "type": "folder"
         }
       ],
