@@ -2397,8 +2397,6 @@
         {
           "children": [
             {
-              "name": "Ship Movements / Localization",
-              "type": "folder",
               "children": [
                 {
                   "name": "Porty Szczecin-Świnoujście",
@@ -2420,11 +2418,11 @@
                   "type": "url",
                   "url": "https://www.port.gdynia.pl/wycieczkowce/"
                 }
-              ]
+              ],
+              "name": "Ship Movements / Localization",
+              "type": "folder"
             },
             {
-              "name": "Spotting",
-              "type": "folder",
               "children": [
                 {
                   "name": "Shipspotting.pl",
@@ -2436,7 +2434,9 @@
                   "type": "url",
                   "url": "https://www.facebook.com/groups/plship/"
                 }
-              ]
+              ],
+              "name": "Spotting",
+              "type": "folder"
             },
             {
               "name": "Polski Rejestr Statków",
@@ -2971,7 +2971,7 @@
               "url": "https://www.alicjapawlowska.com/"
             }
           ],
-          "name": "Newslettery",
+          "name": "Newsletters",
           "type": "folder"
         }
       ],
