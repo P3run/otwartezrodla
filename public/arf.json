@@ -89,6 +89,11 @@
           "type": "folder"
         },
         {
+          "name": "Cyber URL Scanner",
+          "type": "url",
+          "url": "https://cyscan.io/"
+        },
+        {
           "name": "Sarenka (N)",
           "type": "url",
           "url": "https://github.com/pawlaczyk/sarenka"
@@ -558,6 +563,11 @@
               "name": "Otwarte Dane - Lista imion występujących w rejestrze PESEL",
               "type": "url",
               "url": "https://dane.gov.pl/pl/dataset/1667,lista-imion-wystepujacych-w-rejestrze-pesel-osoby-zyjace"
+            },
+            {
+              "name": "Szukaj Nazwiska",
+              "type": "url",
+              "url": "https://szukaj-nazwiska.pl/"
             }
           ],
           "name": "Nazwiska",
@@ -2356,6 +2366,11 @@
             },
             {
               "children": [
+                {
+                  "name": "ADS-B Exchange",
+                  "type": "url",
+                  "url": "https://globe.adsbexchange.com/"
+                },
                 {
                   "name": "eSky",
                   "type": "url",
