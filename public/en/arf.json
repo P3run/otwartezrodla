@@ -1943,6 +1943,11 @@
           "url": "https://ekw.ms.gov.pl/eukw_ogol/menu.do"
         },
         {
+          "name": "Lista osób i podmiotów objętych sankcjami",
+          "type": "url",
+          "url": "https://www.gov.pl/web/mswia/lista-osob-i-podmiotow-objetych-sankcjami"
+        },
+        {
           "name": "Lista punktów adresowych - Adres Uniwersalny",
           "type": "url",
           "url": "https://wms02.epodgik.pl/adruni/adruni.zip"
