@@ -2252,6 +2252,32 @@
               "type": "folder"
             },
             {
+              "children":[
+                {
+                  "name": "Fb: Skradzione Samochody Cała Polska",
+                  "type": "url",
+                  "url": "https://www.facebook.com/groups/skradzionesamochodypolska/"
+                },
+                {
+                  "name": "Fb: Skradzione Samochody Polska",
+                  "type": "url",
+                  "url": "https://www.facebook.com/groups/392590575064219/"
+                },
+                {
+                  "name": "skradzione-samochody.pl/",
+                  "type": "url",
+                  "url": "https://skradzione-samochody.pl/"
+                },
+                {
+                  "name": "stolencars24",
+                  "type": "url",
+                  "url": "https://www.stolencars24.eu/pl/"
+                }
+              ],
+              "name": "Stolen Vehicles",
+              "type": "folder"
+            },
+            {
               "children": [
                 {
                   "name": "Autogespot",
