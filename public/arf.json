@@ -1543,6 +1543,11 @@
               "name": "Wykaz Podatników VAT",
               "type": "url",
               "url": "https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka/"
+            },
+            {
+              "name": "Wyszukiwarka podmiotów KNF",
+              "type": "url",
+              "url": "https://www.knf.gov.pl/podmioty/wyszukiwarka_podmiotow"
             }
           ],
           "name": "Rejestry",
@@ -2259,7 +2264,7 @@
                   "url": "https://www.facebook.com/groups/392590575064219/"
                 },
                 {
-                  "name": "skradzione-samochody.pl/",
+                  "name": "skradzione-samochody.pl",
                   "type": "url",
                   "url": "https://skradzione-samochody.pl/"
                 },
@@ -2297,6 +2302,11 @@
               ],
               "name": "Spotting",
               "type": "folder"
+            },
+            {
+              "name": "Atlas Kolejowy",
+              "type": "url",
+              "url": "https://www.atlaskolejowy.net"
             },
             {
               "name": "autobaza.pl",
@@ -2570,6 +2580,11 @@
         },
         {
           "children": [
+            {
+              "name": "AirMAX - streaming",
+              "type": "url",
+              "url": "https://airmax.pl/streaming-kamery"
+            },
             {
               "name": "Gawex Media",
               "type": "url",
