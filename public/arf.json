@@ -2069,6 +2069,11 @@
           "url": "https://www.sejm-stats.pl/"
         },
         {
+          "name": "System Analizy Orzeczeń Sądowych",
+          "type": "url",
+          "url": "https://www.saos.org.pl/"
+        },
+        {
           "name": "Wyszukiwarka Orzeczeń TSUE",
           "type": "url",
           "url": "https://curia.europa.eu/juris/recherche.jsf?language=pl"
