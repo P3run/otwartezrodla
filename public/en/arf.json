@@ -1787,6 +1787,11 @@
     {
       "children": [
         {
+          "name": "Dane Publiczne IMGW",
+          "type": "url",
+          "url": "https://danepubliczne.imgw.pl/"
+        },
+        {
           "name": "Inwentarz archiwalny IPN",
           "type": "url",
           "url": "https://inwentarz.ipn.gov.pl"
