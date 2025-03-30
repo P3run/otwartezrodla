@@ -2763,14 +2763,59 @@
         {
           "children": [
             {
-              "name": "Bydgoszcz",
+              "name": "Białystok (SP4DJ)",
               "type": "url",
-              "url": "http://websdr.sp2put.pl:8901/"
+              "url": "https://sdr.sp4dj.pl/"
+            },
+            {
+              "name": "Białystok (SP4DKF)",
+              "type": "url",
+              "url": "https://sdr.sp4dkf.pl/"
+            },
+            {
+              "name": "Bielsko-Biała",
+              "type": "url",
+              "url": "http://faraon.ath.cx:8073/"
+            },
+            {
+              "name": "Gdynia",
+              "type": "url",
+              "url": "https://sp2sdk.pl/"
+            },
+            {
+              "name": "Gościniec",
+              "type": "url",
+              "url": "http://remote_sp.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Jaworzno",
+              "type": "url",
+              "url": "http://sp9ipz.zapto.org/"
             },
             {
               "name": "Kraków",
               "type": "url",
+              "url": "https://websdr.bartosik.run/"
+            },
+            {
+              "name": "Kraków 2",
+              "type": "url",
+              "url": "http://webrx.sytes.net:8073/"
+            },
+            {
+              "name": "Kraków (SP9NGL)",
+              "type": "url",
               "url": "https://sdr.sp9ngl.com/"
+            },
+            {
+              "name": "Kraków (SP9GC)",
+              "type": "url",
+              "url": "http://sdr.noip.pl:8073/"
+            },
+            {
+              "name": "Leszno",
+              "type": "url",
+              "url": "http://sdr1.gourbex.pl:8080/"
             },
             {
               "name": "Lubatowa",
@@ -2778,9 +2823,9 @@
               "url": "http://sdr.so8oo.net/"
             },
             {
-              "name": "Łódź",
+              "name": "Luboń",
               "type": "url",
-              "url": "http://websdr80.dyndns.org:50001/"
+              "url": "http://ham-radio.pl:8073/"
             },
             {
               "name": "Miedźna",
@@ -2793,29 +2838,9 @@
               "url": "https://websdr.jestok.com/"
             },
             {
-              "name": "Płońsk 1",
+              "name": "Siekierki Wielkie",
               "type": "url",
-              "url": "http://plonsk.proxy.kiwisdr.com:8073/"
-            },
-            {
-              "name": "Płońsk 2",
-              "type": "url",
-              "url": "http://plonsk2.proxy.kiwisdr.com:8073/"
-            },
-            {
-              "name": "Płońsk 3",
-              "type": "url",
-              "url": "http://plonsk3.proxy.kiwisdr.com:8073/"
-            },
-            {
-              "name": "Płońsk 4",
-              "type": "url",
-              "url": "http://plonsk4.proxy.kiwisdr.com:8073/"
-            },
-            {
-              "name": "Płońsk 5",
-              "type": "url",
-              "url": "http://plonsk5.proxy.kiwisdr.com:8073/"
+              "url": "http://s.kalinowski.edu.pl:8073/"
             },
             {
               "name": "Silec",
@@ -2823,9 +2848,29 @@
               "url": "http://websdr.printf.cc:8901/"
             },
             {
+              "name": "Sobików",
+              "type": "url",
+              "url": "http://jm55.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Stare Wierzchowo",
+              "type": "url",
+              "url": "http://87.251.229.127:8073/"
+            },
+            {
               "name": "Warszawa (SP5JI)",
               "type": "url",
               "url": "http://warszawa.proxy.kiwisdr.com:8073/"
+            },
+            {
+              "name": "Wrocław (SP5JI)",
+              "type": "url",
+              "url": "https://sp6pwt.club/"
+            },
+            {
+              "name": "Zabrze",
+              "type": "url",
+              "url": "http://anteniarski.tplinkdns.com/"
             },
             {
               "name": "Zawiercie",
@@ -2860,11 +2905,6 @@
           "name": "przemienniki.net",
           "type": "url",
           "url": "https://przemienniki.net/"
-        },
-        {
-          "name": "Przemienniki.org",
-          "type": "url",
-          "url": "https://przemienniki.org/"
         },
         {
           "name": "Radiołączność kolejowa",
