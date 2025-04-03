@@ -1782,9 +1782,24 @@
     {
       "children": [
         {
+          "name": "Biblioteka Nauki",
+          "type": "url",
+          "url": "https://bibliotekanauki.pl/"
+        },
+        {
+          "name": "Biblioteki Cyfrowe w Polsce",
+          "type": "url",
+          "url": "https://lustrobiblioteki.pl/biblioteki-cyfrowe-polsce/"
+        },
+        {
           "name": "Dane Publiczne IMGW",
           "type": "url",
           "url": "https://danepubliczne.imgw.pl/"
+        },
+        {
+          "name": "Europeana",
+          "type": "url",
+          "url": "https://www.europeana.eu/pl"
         },
         {
           "name": "Inwentarz archiwalny IPN",
@@ -1815,6 +1830,11 @@
           "name": "Wojskowe Biuro Historyczne",
           "type": "url",
           "url": "https://wbh.wp.mil.pl/pl/"
+        },
+        {
+          "name": "Wypożyczalnia Academica",
+          "type": "url",
+          "url": "https://academica.edu.pl/"
         }
       ],
       "name": "Archiwa",
@@ -2887,7 +2907,7 @@
           "url": "https://czestotliwosci.pl.tl/"
         },
         {
-          "name": "elektronikjk.pl - Częstotliwości radiowe",
+          "name": "Częstotliwości radiowe",
           "type": "url",
           "url": "http://www.elektronikjk.pl/telekomunikacja/czestotliwosci_radiowe/czestotliwosci_radiowe.html"
         },
