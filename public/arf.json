@@ -7,6 +7,11 @@
           "type": "url",
           "url": "https://github.com/sharsil/mailcat"
         }
+        {
+          "name": "Hudson Rock Cybercrime Intelligence Tools",
+          "type": "url",
+          "url": "https://www.hudsonrock.com/threat-intelligence-cybercrime-tools"
+        }
       ],
       "name": "Adresy E-mail",
       "type": "folder"
