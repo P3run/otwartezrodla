@@ -2706,6 +2706,11 @@
             {
               "children": [
                 {
+                  "name": "fotopolska.eu",
+                  "type": "url",
+                  "url": "https://fotopolska.eu/"
+                },
+                {
                   "name": "Fotosik.pl",
                   "type": "url",
                   "url": "https://www.fotosik.pl/szukaj/"
