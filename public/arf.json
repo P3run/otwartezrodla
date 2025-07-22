@@ -476,6 +476,11 @@
           "url": "https://github.com/WroData/Mapy_infrastruktury_rowerowej_by_Jacek_Geborys/tree/main"
         },
         {
+          "name": "Mapa Drzew Łodzi",
+          "type": "url",
+          "url": "https://mapadrzewlodzi.pl/"
+        },
+        {
           "name": "Mapa Drzew",
           "type": "url",
           "url": "https://aplikacja.mapadrzew.com/"

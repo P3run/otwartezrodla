@@ -486,6 +486,11 @@
           "url": "https://aplikacja.mapadrzew.com/"
         },
         {
+          "name": "Mapa Drzew Łodzi",
+          "type": "url",
+          "url": "https://mapadrzewlodzi.pl/"
+        },
+        {
           "name": "Mapy Roślinności IGiPZ PAN",
           "type": "url",
           "url": "https://www.igipz.pan.pl/Opracowania-on-line-zgik.html"
