@@ -3101,6 +3101,11 @@
         {
           "children": [
             {
+              "name": "Wydawnictwo ABW",
+              "type": "url",
+              "url": "https://www.abw.gov.pl/wyd/"
+            },
+            {
               "name": "Wykorzystanie otwartych źródeł informacji w działalności wywiadowczej",
               "type": "url",
               "url": "https://wnpism.uw.edu.pl/wp-content/uploads/2019/08/Wykorzystanie-otwartych-zrodel.pdf"
