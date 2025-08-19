@@ -1071,6 +1071,11 @@
           "url": "https://indeksrepresjonowanych.pl/wyszukiwanie"
         },
         {
+          "name": "Straty osobowe i ofiary represji pod okupacją niemiecką",
+          "type": "url",
+          "url": "https://straty.pl/"
+        },
+        {
           "name": "Centralny Rejestr Beneficjentów Rzeczywistych",
           "type": "url",
           "url": "https://crbr.podatki.gov.pl/adcrbr/#/wyszukaj"
@@ -1460,6 +1465,11 @@
               "url": "https://wyszukiwarkaregon.stat.gov.pl/appBIR/index.aspx"
             },
             {
+              "name": "Baza zlikwidowanych / przekształconych zakładów pracy",
+              "type": "url",
+              "url": "https://www.zus.pl/swiadczenia/emerytury/baza-zlikwidowanych-lub-przeksztalconych-zakladow-pracy"
+            },
+            {
               "name": "Biała Lista VAT (T)",
               "type": "url",
               "url": "https://play.google.com/store/apps/details?id=com.darktower.whitelist"
@@ -1468,6 +1478,11 @@
               "name": "CEIDG",
               "type": "url",
               "url": "https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx"
+            },
+            {
+              "name": "Dokumentacja Osobowa i Płacowa",
+              "type": "url",
+              "url": "https://ewidencja.warszawa.ap.gov.pl/miejsca.php"
             },
             {
               "name": "eKRS",
