@@ -3101,6 +3101,11 @@
         {
           "children": [
             {
+              "name": "Przewodnik Genealoga",
+              "type": "url",
+              "url": "https://www.bydgoszcz.ap.gov.pl/wp-content/uploads/2024/11/Przewodnik-Genealoga-Archiwum-Panstwowe-w-Bydgoszczy.pdf"
+            },
+            {
               "name": "Wydawnictwo ABW",
               "type": "url",
               "url": "https://www.abw.gov.pl/wyd/"
