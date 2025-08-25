@@ -2487,6 +2487,11 @@
               "url": "https://bezpieczenstwo.dlapilota.pl/"
             },
             {
+              "name": "Kalkulator czasu lotu",
+              "type": "url",
+              "url": "https://czaslotu.pl/"
+            },
+            {
               "name": "Raporty Państwowej Komisji Badania Wypadków Lotniczych",
               "type": "url",
               "url": "https://pkbwl.gov.pl/index.php/raporty"
