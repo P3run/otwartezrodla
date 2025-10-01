@@ -2404,6 +2404,11 @@
               "url": "https://bezpieczenstwo.maps.arcgis.com/apps/webappviewer/index.html?id=5c5e66342b7d4aa99519fce06868eecc"
             },
             {
+              "name": "FOTORADARY.pl",
+              "type": "url",
+              "url": "https://www.fotoradary.pl/"
+            },
+            {
               "name": "Ilostan Pojazdów Trakcyjnych",
               "type": "url",
               "url": "https://ilostan.forumkolejowe.pl/"
