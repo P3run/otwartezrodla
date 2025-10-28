@@ -2570,6 +2570,11 @@
               "url": "https://www.gov.pl/web/pkbwm/raport-z-badan"
             },
             {
+              "name": "Wolne Publikacje Nautyczne",
+              "type": "url",
+              "url": "https://wojtekbartoszynski.pl/"
+            },
+            {
               "name": "Wykaz portów i przystani - UM w Szczecinie",
               "type": "url",
               "url": "https://www.ums.gov.pl/informator-urzedowy/wykaz-portow-i-przystani"
