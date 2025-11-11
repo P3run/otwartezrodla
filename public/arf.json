@@ -411,6 +411,11 @@
           "url": "https://portal.geo.stat.gov.pl/"
         },
         {
+          "name": "Portal podstawowych informacji o nieruchomościach",
+          "type": "url",
+          "url": "https://mojgeoportal.pl/"
+        },
+        {
           "name": "Usługa lokalizacji działek katastralnych",
           "type": "url",
           "url": "https://uldk.gugik.gov.pl/"
