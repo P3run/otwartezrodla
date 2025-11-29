@@ -89,17 +89,28 @@
           "type": "folder"
         },
         {
-          "name": "Cyber URL Scanner",
-          "type": "url",
-          "url": "https://cyscan.io/"
-        },
-        {
           "name": "Sarenka (N)",
           "type": "url",
           "url": "https://github.com/pawlaczyk/sarenka"
         }
       ],
       "name": "Domeny",
+      "type": "folder"
+    },
+    {
+      "children": [
+        {
+          "name": "Cybermonit",
+          "type": "url",
+          "url": "https://cybermonit.com/"
+        },
+        {
+          "name": "Cyber URL Scanner",
+          "type": "url",
+          "url": "https://cyscan.io/"
+        }
+      ],
+      "name": "Cyberbezpieczeństwo",
       "type": "folder"
     },
     {
@@ -2975,6 +2986,11 @@
           "name": "Radiołączność kolejowa",
           "type": "url",
           "url": "http://www.peter384.cal24.pl/r/r.html"
+        },
+        {
+          "name": "RTGMS",
+          "type": "url",
+          "url": "https://rtgms.pl/"
         },
         {
           "name": "SP6KXY Radiosonde Tracker",
