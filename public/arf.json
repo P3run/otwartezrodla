@@ -2385,6 +2385,11 @@
               "url": "https://bazawagonow.pl/wagonyy/"
             },
             {
+              "name": "Car-Info.pl",
+              "type": "url",
+              "url": "https://www.car-info.pl/"
+            },
+            {
               "name": "CEPiK API",
               "type": "url",
               "url": "https://api.cepik.gov.pl/doc"
