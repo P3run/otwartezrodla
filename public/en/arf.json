@@ -1427,6 +1427,16 @@
             {
               "children": [
                 {
+                  "name": "Biuletyn Zamówień Publicznych",
+                  "type": "url",
+                  "url": "https://searchbzp.uzp.gov.pl/"
+                },
+                {
+                  "name": "Biuletyn Zamówień Publicznych (e-Zamówienia)",
+                  "type": "url",
+                  "url": "https://ezamowienia.gov.pl/mo-client-board/bzp"
+                },
+                {
                   "name": "eGospodarka.pl",
                   "type": "url",
                   "url": "https://www.przetargi.egospodarka.pl/"
@@ -1999,11 +2009,6 @@
           "url": "https://bankdanych.io/"
         },
         {
-          "name": "Biuletyn Zamówień Publicznych",
-          "type": "url",
-          "url": "https://searchbzp.uzp.gov.pl/"
-        },
-        {
           "name": "Elektroniczne Księgi Wieczyste",
           "type": "url",
           "url": "https://ekw.ms.gov.pl/eukw_ogol/menu.do"
@@ -2044,9 +2049,19 @@
           "url": "https://www.consilium.europa.eu/prado/en/prado-start-page.html"
         },
         {
+          "name": "Rejestr Decyzji Głównego Inspektora Farmaceutycznego",
+          "type": "url",
+          "url": "https://rdg.ezdrowie.gov.pl/"
+        },
+        {
           "name": "Rejestr Wniosków, Decyzji i Zgłoszeń w sprawach budowlanych",
           "type": "url",
           "url": "http://wyszukiwarka.gunb.gov.pl/"
+        },
+        {
+          "name": "Rejestry i ewidencje TDT",
+          "type": "url",
+          "url": "https://bip.tdt.gov.pl/rejestry-i-ewidencje-tdt/"
         },
         {
           "name": "Rejestry Państwowej Służby Zatrudnienia",
@@ -2083,6 +2098,11 @@
           "name": "Baza Orzeczeń Trybunału Konstytucyjnego",
           "type": "url",
           "url": "https://trybunal.gov.pl/orzeczenia/"
+        },
+        {
+          "name": "Baza Orzeczeń Sądu Najwyższego",
+          "type": "url",
+          "url": "https://www.sn.pl/wyszukiwanie/SitePages/orzeczenia.aspx"
         },
         {
           "name": "Centralna Baza Orzeczeń Sądów Administracyjnych",
@@ -3144,6 +3164,16 @@
               "name": "OSINT OPSEC Dezinformacja - K. Wosiński",
               "type": "url",
               "url": "https://www.youtube.com/watch?v=123qZ5fQEGo"
+            },
+            {
+              "name": "Warsztaty OSINT - K. Wosiński",
+              "type": "url",
+              "url": "https://www.youtube.com/watch?v=bMzJ0aflrU0"
+            },
+            {
+              "name": "Materiały dodatkowe OSINT - K. Wosiński",
+              "type": "url",
+              "url": "https://www.youtube.com/watch?v=8155aXMyyHs"
             },
             {
               "name": "Wykorzystanie narzędzi AI w OSINT - T. Turba",
