@@ -2470,6 +2470,11 @@
               "url": "https://www.gov.pl/web/mswia/raporty"
             },
             {
+              "name": "Statystyki Taborowe",
+              "type": "url",
+              "url": "https://statystyki-taborowe.xaa.pl/"
+            },
+            {
               "name": "Ubezpieczeniowy Fundusz Gwarancyjny",
               "type": "url",
               "url": "https://www.ufg.pl/infoportal/"
