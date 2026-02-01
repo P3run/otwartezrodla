@@ -89,6 +89,11 @@
           "type": "folder"
         },
         {
+          "name": "Downdetector",
+          "type": "url",
+          "url": "https://downdetector.pl/"
+        },
+        {
           "name": "Sarenka (T)",
           "type": "url",
           "url": "https://github.com/pawlaczyk/sarenka"
@@ -1501,6 +1506,11 @@
               "url": "https://play.google.com/store/apps/details?id=com.darktower.whitelist"
             },
             {
+              "name": "bizraport (R)",
+              "type": "url",
+              "url": "https://www.bizraport.pl/"
+            },
+            {
               "name": "CEIDG",
               "type": "url",
               "url": "https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx"
@@ -1514,6 +1524,11 @@
               "name": "eKRS",
               "type": "url",
               "url": "https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/index.html"
+            },
+            {
+              "name": "mojeanalizy.pl",
+              "type": "url",
+              "url": "https://mojeanalizy.pl/"
             },
             {
               "name": "Monitor Sądowy i Gospodarczy",
@@ -2468,6 +2483,11 @@
               "name": "Prywatna Strona Miłośnika Komunikacji Miejskiej i Szynowej",
               "type": "url",
               "url": "https://psmkms.krakow.pl/"
+            },
+            {
+              "name": "Railgallery",
+              "type": "url",
+              "url": "https://railgallery.ru/"
             },
             {
               "name": "Raporty Państwowej Komisji Badania Wypadków Kolejowych",
