@@ -363,6 +363,11 @@
               "url": "http://beta.btsearch.pl/"
             },
             {
+              "name": "internet.gov.pl",
+              "type": "url",
+              "url": "https://internet.gov.pl/map/"
+            },
+            {
               "name": "Mapa BTS - SocWare",
               "type": "url",
               "url": "https://bts.socware.pl/"
