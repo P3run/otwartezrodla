@@ -663,6 +663,16 @@
                 {
                   "children": [
                     {
+                      "name": "Konfederacja",
+                      "type": "url",
+                      "url": "https://konfederacja.pl/o-konfederacji/"
+                    },
+                    {
+                      "name": "Konfederacja Korony Polskiej",
+                      "type": "url",
+                      "url": "https://konfederacjakoronypolskiej.pl/partia/struktura-organizacyjna/"
+                    },
+                    {
                       "name": "Lewica",
                       "type": "url",
                       "url": "https://lewica.org.pl/strony/politycy/a"
@@ -698,11 +708,6 @@
                       "url": "https://partiarazem.pl/o-nas/rada-krajowa/"
                     },
                     {
-                      "name": "Suwerenna Polska",
-                      "type": "url",
-                      "url": "https://suwerennapolska.pl/#partia"
-                    },
-                    {
                       "name": "Zieloni",
                       "type": "url",
                       "url": "https://partiazieloni.pl/regiony/"
@@ -720,6 +725,11 @@
                   "name": "Senatorowie",
                   "type": "url",
                   "url": "https://www.senat.gov.pl/sklad/senatorowie/"
+                },
+                {
+                  "name": "PKW - Rejestr Korzyści",
+                  "type": "url",
+                  "url": "https://rk.pkw.gov.pl/"
                 }
               ],
               "name": "Polityka",
@@ -1526,6 +1536,11 @@
               "url": "https://ekrs.ms.gov.pl/web/wyszukiwarka-krs/strona-glowna/index.html"
             },
             {
+              "name": "e-Sprawozdania Finansowe",
+              "type": "url",
+              "url": "https://e-sprawozdania.mf.gov.pl/"
+            },
+            {
               "name": "mojeanalizy.pl",
               "type": "url",
               "url": "https://mojeanalizy.pl/"
@@ -2128,6 +2143,11 @@
           "name": "Dzienniki Urzędowe",
           "type": "url",
           "url": "https://dziennikiurzedowe.rcl.gov.pl/index.html"
+        },
+        {
+          "name": "Eureka",
+          "type": "url",
+          "url": "https://eureka.mf.gov.pl/"
         },
         {
           "name": "Internetowy System Aktów Prawnych",
