@@ -412,6 +412,11 @@
           "url": "https://www.geoportal.gov.pl/pl/dane/panstwowy-rejestr-granic-prg/"
         },
         {
+          "name": "MojGeoportal.pl",
+          "type": "url",
+          "url": "https://mojgeoportal.pl/"
+        },
+        {
           "name": "Geoportal",
           "type": "url",
           "url": "https://mapy.geoportal.gov.pl"
