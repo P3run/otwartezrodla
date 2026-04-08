@@ -105,6 +105,11 @@
     {
       "children": [
         {
+          "name": "Bezpieczna poczta - CERT.PL",
+          "type": "url",
+          "url": "https://bezpiecznapoczta.cert.pl/"
+        },
+        {
           "name": "Cybermonit",
           "type": "url",
           "url": "https://cybermonit.com/"
@@ -437,11 +442,6 @@
           "url": "https://portal.geo.stat.gov.pl/"
         },
         {
-          "name": "Portal podstawowych informacji o nieruchomościach",
-          "type": "url",
-          "url": "https://mojgeoportal.pl/"
-        },
-        {
           "name": "Usługa lokalizacji działek katastralnych",
           "type": "url",
           "url": "https://uldk.gugik.gov.pl/"
@@ -459,7 +459,12 @@
         {
           "name": "Morskie Mapy Nawigacyjne - Biuro Hydrograficzne Marynarki Wojennej",
           "type": "url",
-          "url": "https://bhmw.gov.pl/pl/pages/morskie-mapy-nawigacyjne-2018-09-20-v/"
+          "url": "https://www.bhmw.gov.pl/morskie-mapy-nawigacyjne-2018-09-20-v/"
+        },
+        {
+          "name": "WMS - Biuro Hydrograficzne Marynarki Wojennej",
+          "type": "url",
+          "url": "https://bhmw-wms.wp.mil.pl/"
         },
         {
           "name": "System Informacji Przestrzennej Administracji Morskiej",
@@ -740,6 +745,16 @@
                   "name": "PKW - Rejestr Korzyści",
                   "type": "url",
                   "url": "https://rk.pkw.gov.pl/"
+                },
+                {
+                  "name": "Jawne Partie",
+                  "type": "url",
+                  "url": "https://www.jawnepartie.pl/"
+                },
+                {
+                  "name": "Każdy musi gdzieś pracować",
+                  "type": "url",
+                  "url": "https://kazdymusigdziespracowac.pl/"
                 }
               ],
               "name": "Politics",
@@ -2180,6 +2195,11 @@
           "url": "http://orzeczenia.ms.gov.pl/"
         },
         {
+          "name": "Portal Orzeczeń UODO",
+          "type": "url",
+          "url": "https://orzeczenia.uodo.gov.pl/search"
+        },
+        {
           "name": "Publiczny Portal Informacji o Prawie",
           "type": "url",
           "url": "https://ppiop.rcl.gov.pl/index.php?r="
@@ -2503,6 +2523,11 @@
               "name": "Ilostan Pojazdów Trakcyjnych",
               "type": "url",
               "url": "https://ilostan.forumkolejowe.pl/"
+            },
+            {
+              "name": "Mapa urządzeń CANARD",
+              "type": "url",
+              "url": "https://www.canard.gitd.gov.pl/cms/o-nas/mapa-urzadzen#"
             },
             {
               "name": "Ogólnopolska Baza Kolejowa",
