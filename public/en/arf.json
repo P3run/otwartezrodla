@@ -2389,11 +2389,6 @@
                   "url": "http://wptr.pl/"
                 },
                 {
-                  "name": "Rejestr Piratów Drogowych",
-                  "type": "url",
-                  "url": "http://piraci-drogowi.pl/"
-                },
-                {
                   "name": "tablica-rejestracyjna.pl",
                   "type": "url",
                   "url": "https://tablica-rejestracyjna.pl/"
@@ -2507,7 +2502,7 @@
             {
               "name": "Dekoder VIN",
               "type": "url",
-              "url": "https://pl.vindecoder.pl/"
+              "url": "https://vindecoder.pl/"
             },
             {
               "name": "Dworce kolejowe w Polsce",
