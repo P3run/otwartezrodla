@@ -502,6 +502,11 @@
           "url": "https://www.orlen.pl/pl/dla-ciebie/stacje"
         },
         {
+          "name": "PaliwoMapa",
+          "type": "url",
+          "url": "https://paliwomapa.pl/"
+        },
+        {
           "name": "Autokatalog - Stacje paliw",
           "type": "url",
           "url": "https://autokatalog.pl/stacje-paliw"
@@ -1477,6 +1482,11 @@
                   "url": "https://ezamowienia.gov.pl/mo-client-board/bzp"
                 },
                 {
+                  "name": "Centralny Rejestr Umów",
+                  "type": "url",
+                  "url": "https://rejestrumow.gov.pl/"
+                },
+                {
                   "name": "eGospodarka.pl",
                   "type": "url",
                   "url": "https://www.przetargi.egospodarka.pl/"
@@ -1515,6 +1525,11 @@
                   "name": "SMARTPZP",
                   "type": "url",
                   "url": "https://portal.smartpzp.pl/"
+                },
+                {
+                  "name": "z-dykty.pl",
+                  "type": "url",
+                  "url": "https://z-dykty.pl/"
                 }
               ],
               "name": "Public Tenders",
@@ -1549,6 +1564,11 @@
               "name": "CEIDG",
               "type": "url",
               "url": "https://prod.ceidg.gov.pl/CEIDG/CEIDG.Public.UI/Search.aspx"
+            },
+            {
+              "name": "Centralny Rejestr Umów",
+              "type": "url",
+              "url": "https://rejestrumow.gov.pl/"
             },
             {
               "name": "Dokumentacja Osobowa i Płacowa",
@@ -2067,6 +2087,11 @@
           "name": "Elektroniczne Księgi Wieczyste",
           "type": "url",
           "url": "https://ekw.ms.gov.pl/eukw_ogol/menu.do"
+        },
+        {
+          "name": "eLicytacje KAS",
+          "type": "url",
+          "url": "https://elicytacje.mf.gov.pl/auction/"
         },
         {
           "name": "Lista osób i podmiotów objętych sankcjami",
@@ -2885,6 +2910,42 @@
     },
     {
       "children": [
+        {
+          "children": [
+            {
+              "name": "IMEI.info",
+              "type": "url",
+              "url": "https://imei.info/"
+            },
+            {
+              "name": "IMEI24",
+              "type": "url",
+              "url": "https://imei24.com/pl/"
+            },
+            {
+              "name": "Plus",
+              "type": "url",
+              "url": "https://www.plus.pl/formularze/formularz-imei"
+            },
+            {
+              "name": "T-Mobile",
+              "type": "url",
+              "url": "https://www.t-mobile.pl/sprawdzenie-imei"
+            },
+            {
+              "name": "Orange",
+              "type": "url",
+              "url": "https://www.orange.pl/zobacz/weryfikacja-imei"
+            },
+            {
+              "name": "Play",
+              "type": "url",
+              "url": "https://www.play.pl/uslugi/sprawdz-wlasciciela-telefonu-imei"
+            }
+          ],
+          "name": "IMEI",
+          "type": "folder"
+        },
         {
           "name": "Dostawca usług (UKE)",
           "type": "url",
