@@ -660,6 +660,11 @@
             {
               "children": [
                 {
+                  "name": "Ludzie Nauki",
+                  "type": "url",
+                  "url": "https://ludzie.nauka.gov.pl/ln"
+                },
+                {
                   "name": "POL-on: Wykaz doktorów",
                   "type": "url",
                   "url": "https://polon.nauka.gov.pl/opi/aa/drh/zestawienie?execution=e5s1"
@@ -2261,9 +2266,9 @@
     {
       "children": [
         {
-          "name": "Ludzie Nauki",
+          "name": "Centralna Komisja do Spraw Stopni i Tytułów",
           "type": "url",
-          "url": "https://ludzie.nauka.gov.pl/ln/home"
+          "url": "https://www.ck.gov.pl/"
         },
         {
           "name": "POL-on",
